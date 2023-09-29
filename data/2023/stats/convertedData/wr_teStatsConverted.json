@@ -1,0 +1,1952 @@
+{
+ "Justin Jefferson": {
+  "name": "Justin Jefferson",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "128",
+   "targets": "184",
+   "receiving_yards": "1,809",
+   "touchdowns": "8",
+   "yards_per_game": "106.4",
+   "first_downs": "80"
+  }
+ },
+ "Tyreek Hill": {
+  "name": "Tyreek Hill",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "119",
+   "targets": "170",
+   "receiving_yards": "1,710",
+   "touchdowns": "7",
+   "yards_per_game": "100.6",
+   "first_downs": "77"
+  }
+ },
+ "Davante Adams": {
+  "name": "Davante Adams",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "100",
+   "targets": "180",
+   "receiving_yards": "1,516",
+   "touchdowns": "14",
+   "yards_per_game": "89.2",
+   "first_downs": "65"
+  }
+ },
+ "A.J. Brown": {
+  "name": "A.J. Brown",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "88",
+   "targets": "145",
+   "receiving_yards": "1,496",
+   "touchdowns": "11",
+   "yards_per_game": "88.0",
+   "first_downs": "59"
+  }
+ },
+ "Stefon Diggs": {
+  "name": "Stefon Diggs",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "108",
+   "targets": "154",
+   "receiving_yards": "1,429",
+   "touchdowns": "11",
+   "yards_per_game": "89.3",
+   "first_downs": "72"
+  }
+ },
+ "CeeDee Lamb": {
+  "name": "CeeDee Lamb",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "107",
+   "targets": "156",
+   "receiving_yards": "1,359",
+   "touchdowns": "9",
+   "yards_per_game": "79.9",
+   "first_downs": "67"
+  }
+ },
+ "Jaylen Waddle": {
+  "name": "Jaylen Waddle",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "75",
+   "targets": "117",
+   "receiving_yards": "1,356",
+   "touchdowns": "8",
+   "yards_per_game": "79.8",
+   "first_downs": "60"
+  }
+ },
+ "Travis Kelce": {
+  "name": "Travis Kelce",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "110",
+   "targets": "152",
+   "receiving_yards": "1,338",
+   "touchdowns": "12",
+   "yards_per_game": "78.7",
+   "first_downs": "78"
+  }
+ },
+ "DeVonta Smith": {
+  "name": "DeVonta Smith",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "95",
+   "targets": "136",
+   "receiving_yards": "1,196",
+   "touchdowns": "7",
+   "yards_per_game": "70.4",
+   "first_downs": "57"
+  }
+ },
+ "Terry McLaurin": {
+  "name": "Terry McLaurin",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "77",
+   "targets": "120",
+   "receiving_yards": "1,191",
+   "touchdowns": "5",
+   "yards_per_game": "70.1",
+   "first_downs": "56"
+  }
+ },
+ "Amon-Ra St. Brown": {
+  "name": "Amon-Ra St. Brown",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "106",
+   "targets": "146",
+   "receiving_yards": "1,161",
+   "touchdowns": "6",
+   "yards_per_game": "72.6",
+   "first_downs": "68"
+  }
+ },
+ "Amari Cooper": {
+  "name": "Amari Cooper",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "78",
+   "targets": "132",
+   "receiving_yards": "1,160",
+   "touchdowns": "9",
+   "yards_per_game": "68.2",
+   "first_downs": "61"
+  }
+ },
+ "Mike Evans": {
+  "name": "Mike Evans",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "77",
+   "targets": "127",
+   "receiving_yards": "1,124",
+   "touchdowns": "6",
+   "yards_per_game": "74.9",
+   "first_downs": "53"
+  }
+ },
+ "Christian Kirk": {
+  "name": "Christian Kirk",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "84",
+   "targets": "133",
+   "receiving_yards": "1,108",
+   "touchdowns": "8",
+   "yards_per_game": "65.2",
+   "first_downs": "54"
+  }
+ },
+ "Garrett Wilson": {
+  "name": "Garrett Wilson",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "83",
+   "targets": "147",
+   "receiving_yards": "1,103",
+   "touchdowns": "4",
+   "yards_per_game": "64.9",
+   "first_downs": "56"
+  }
+ },
+ "DK Metcalf": {
+  "name": "DK Metcalf",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "90",
+   "targets": "141",
+   "receiving_yards": "1,048",
+   "touchdowns": "6",
+   "yards_per_game": "61.6",
+   "first_downs": "47"
+  }
+ },
+ "Ja'Marr Chase": {
+  "name": "Ja'Marr Chase",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "87",
+   "targets": "134",
+   "receiving_yards": "1,046",
+   "touchdowns": "9",
+   "yards_per_game": "87.2",
+   "first_downs": "58"
+  }
+ },
+ "Chris Olave": {
+  "name": "Chris Olave",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "72",
+   "targets": "119",
+   "receiving_yards": "1,042",
+   "touchdowns": "4",
+   "yards_per_game": "69.5",
+   "first_downs": "48"
+  }
+ },
+ "Tyler Lockett": {
+  "name": "Tyler Lockett",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "84",
+   "targets": "117",
+   "receiving_yards": "1,033",
+   "touchdowns": "9",
+   "yards_per_game": "64.6",
+   "first_downs": "50"
+  }
+ },
+ "Tee Higgins": {
+  "name": "Tee Higgins",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "74",
+   "targets": "109",
+   "receiving_yards": "1,029",
+   "touchdowns": "7",
+   "yards_per_game": "64.3",
+   "first_downs": "46"
+  }
+ },
+ "Chris Godwin": {
+  "name": "Chris Godwin",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "104",
+   "targets": "142",
+   "receiving_yards": "1,023",
+   "touchdowns": "3",
+   "yards_per_game": "68.2",
+   "first_downs": "53"
+  }
+ },
+ "Brandon Aiyuk": {
+  "name": "Brandon Aiyuk",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "78",
+   "targets": "114",
+   "receiving_yards": "1,015",
+   "touchdowns": "8",
+   "yards_per_game": "59.7",
+   "first_downs": "47"
+  }
+ },
+ "Jerry Jeudy": {
+  "name": "Jerry Jeudy",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "67",
+   "targets": "100",
+   "receiving_yards": "972",
+   "touchdowns": "6",
+   "yards_per_game": "64.8",
+   "first_downs": "41"
+  }
+ },
+ "JuJu Smith-Schuster": {
+  "name": "JuJu Smith-Schuster",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "78",
+   "targets": "101",
+   "receiving_yards": "933",
+   "touchdowns": "3",
+   "yards_per_game": "58.3",
+   "first_downs": "47"
+  }
+ },
+ "Michael Pittman Jr.": {
+  "name": "Michael Pittman Jr.",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "99",
+   "targets": "141",
+   "receiving_yards": "925",
+   "touchdowns": "4",
+   "yards_per_game": "57.8",
+   "first_downs": "51"
+  }
+ },
+ "T.J. Hockenson": {
+  "name": "T.J. Hockenson",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "86",
+   "targets": "129",
+   "receiving_yards": "914",
+   "touchdowns": "6",
+   "yards_per_game": "53.8",
+   "first_downs": "44"
+  }
+ },
+ "Mike Williams": {
+  "name": "Mike Williams",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "63",
+   "targets": "93",
+   "receiving_yards": "895",
+   "touchdowns": "4",
+   "yards_per_game": "68.8",
+   "first_downs": "39"
+  }
+ },
+ "DJ Moore": {
+  "name": "DJ Moore",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "63",
+   "targets": "118",
+   "receiving_yards": "888",
+   "touchdowns": "7",
+   "yards_per_game": "52.2",
+   "first_downs": "44"
+  }
+ },
+ "Diontae Johnson": {
+  "name": "Diontae Johnson",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "86",
+   "targets": "147",
+   "receiving_yards": "882",
+   "touchdowns": "0",
+   "yards_per_game": "51.9",
+   "first_downs": "45"
+  }
+ },
+ "Drake London": {
+  "name": "Drake London",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "72",
+   "targets": "117",
+   "receiving_yards": "866",
+   "touchdowns": "4",
+   "yards_per_game": "50.9",
+   "first_downs": "48"
+  }
+ },
+ "Mark Andrews": {
+  "name": "Mark Andrews",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "73",
+   "targets": "113",
+   "receiving_yards": "847",
+   "touchdowns": "5",
+   "yards_per_game": "56.5",
+   "first_downs": "48"
+  }
+ },
+ "Donovan Peoples-Jones": {
+  "name": "Donovan Peoples-Jones",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "61",
+   "targets": "96",
+   "receiving_yards": "839",
+   "touchdowns": "3",
+   "yards_per_game": "49.4",
+   "first_downs": "33"
+  }
+ },
+ "Gabe Davis": {
+  "name": "Gabe Davis",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "48",
+   "targets": "93",
+   "receiving_yards": "836",
+   "touchdowns": "7",
+   "yards_per_game": "55.7",
+   "first_downs": "35"
+  }
+ },
+ "Courtland Sutton": {
+  "name": "Courtland Sutton",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "64",
+   "targets": "109",
+   "receiving_yards": "829",
+   "touchdowns": "2",
+   "yards_per_game": "55.3",
+   "first_downs": "38"
+  }
+ },
+ "Zay Jones": {
+  "name": "Zay Jones",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "82",
+   "targets": "121",
+   "receiving_yards": "823",
+   "touchdowns": "5",
+   "yards_per_game": "51.4",
+   "first_downs": "44"
+  }
+ },
+ "Cooper Kupp": {
+  "name": "Cooper Kupp",
+  "stats": {
+   "position": "WR",
+   "games_played": "9",
+   "receptions": "75",
+   "targets": "98",
+   "receiving_yards": "812",
+   "touchdowns": "6",
+   "yards_per_game": "90.2",
+   "first_downs": "42"
+  }
+ },
+ "Jakobi Meyers": {
+  "name": "Jakobi Meyers",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "67",
+   "targets": "96",
+   "receiving_yards": "804",
+   "touchdowns": "6",
+   "yards_per_game": "57.4",
+   "first_downs": "38"
+  }
+ },
+ "George Pickens": {
+  "name": "George Pickens",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "52",
+   "targets": "84",
+   "receiving_yards": "801",
+   "touchdowns": "4",
+   "yards_per_game": "47.1",
+   "first_downs": "38"
+  }
+ },
+ "Allen Lazard": {
+  "name": "Allen Lazard",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "60",
+   "targets": "100",
+   "receiving_yards": "788",
+   "touchdowns": "6",
+   "yards_per_game": "52.5",
+   "first_downs": "45"
+  }
+ },
+ "Joshua Palmer": {
+  "name": "Joshua Palmer",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "72",
+   "targets": "107",
+   "receiving_yards": "769",
+   "touchdowns": "3",
+   "yards_per_game": "48.1",
+   "first_downs": "39"
+  }
+ },
+ "Evan Engram": {
+  "name": "Evan Engram",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "73",
+   "targets": "98",
+   "receiving_yards": "766",
+   "touchdowns": "4",
+   "yards_per_game": "45.1",
+   "first_downs": "33"
+  }
+ },
+ "George Kittle": {
+  "name": "George Kittle",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "60",
+   "targets": "86",
+   "receiving_yards": "765",
+   "touchdowns": "11",
+   "yards_per_game": "51.0",
+   "first_downs": "36"
+  }
+ },
+ "Tyler Boyd": {
+  "name": "Tyler Boyd",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "58",
+   "targets": "82",
+   "receiving_yards": "762",
+   "touchdowns": "5",
+   "yards_per_game": "47.6",
+   "first_downs": "41"
+  }
+ },
+ "Keenan Allen": {
+  "name": "Keenan Allen",
+  "stats": {
+   "position": "WR",
+   "games_played": "10",
+   "receptions": "66",
+   "targets": "89",
+   "receiving_yards": "752",
+   "touchdowns": "4",
+   "yards_per_game": "75.2",
+   "first_downs": "39"
+  }
+ },
+ "Christian McCaffrey": {
+  "name": "Christian McCaffrey",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "85",
+   "targets": "108",
+   "receiving_yards": "741",
+   "touchdowns": "5",
+   "yards_per_game": "43.6",
+   "first_downs": "36"
+  }
+ },
+ "Pat Freiermuth": {
+  "name": "Pat Freiermuth",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "receptions": "63",
+   "targets": "98",
+   "receiving_yards": "732",
+   "touchdowns": "2",
+   "yards_per_game": "45.8",
+   "first_downs": "37"
+  }
+ },
+ "Darius Slayton": {
+  "name": "Darius Slayton",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "46",
+   "targets": "71",
+   "receiving_yards": "724",
+   "touchdowns": "2",
+   "yards_per_game": "45.3",
+   "first_downs": "30"
+  }
+ },
+ "Austin Ekeler": {
+  "name": "Austin Ekeler",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "107",
+   "targets": "127",
+   "receiving_yards": "722",
+   "touchdowns": "5",
+   "yards_per_game": "42.5",
+   "first_downs": "36"
+  }
+ },
+ "DeAndre Hopkins": {
+  "name": "DeAndre Hopkins",
+  "stats": {
+   "position": "WR",
+   "games_played": "9",
+   "receptions": "64",
+   "targets": "96",
+   "receiving_yards": "717",
+   "touchdowns": "3",
+   "yards_per_game": "79.7",
+   "first_downs": "35"
+  }
+ },
+ "Adam Thielen": {
+  "name": "Adam Thielen",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "70",
+   "targets": "107",
+   "receiving_yards": "716",
+   "touchdowns": "6",
+   "yards_per_game": "42.1",
+   "first_downs": "45"
+  }
+ },
+ "Marquise Brown": {
+  "name": "Marquise Brown",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "67",
+   "targets": "107",
+   "receiving_yards": "709",
+   "touchdowns": "3",
+   "yards_per_game": "59.1",
+   "first_downs": "33"
+  }
+ },
+ "Dallas Goedert": {
+  "name": "Dallas Goedert",
+  "stats": {
+   "position": "TE",
+   "games_played": "12",
+   "receptions": "55",
+   "targets": "69",
+   "receiving_yards": "702",
+   "touchdowns": "3",
+   "yards_per_game": "58.5",
+   "first_downs": "40"
+  }
+ },
+ "Brandin Cooks": {
+  "name": "Brandin Cooks",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "57",
+   "targets": "93",
+   "receiving_yards": "699",
+   "touchdowns": "3",
+   "yards_per_game": "53.8",
+   "first_downs": "29"
+  }
+ },
+ "Mack Hollins": {
+  "name": "Mack Hollins",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "57",
+   "targets": "94",
+   "receiving_yards": "690",
+   "touchdowns": "4",
+   "yards_per_game": "40.6",
+   "first_downs": "34"
+  }
+ },
+ "Marquez Valdes-Scantling": {
+  "name": "Marquez Valdes-Scantling",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "42",
+   "targets": "81",
+   "receiving_yards": "687",
+   "touchdowns": "2",
+   "yards_per_game": "40.4",
+   "first_downs": "32"
+  }
+ },
+ "Curtis Samuel": {
+  "name": "Curtis Samuel",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "64",
+   "targets": "92",
+   "receiving_yards": "656",
+   "touchdowns": "4",
+   "yards_per_game": "38.6",
+   "first_downs": "36"
+  }
+ },
+ "K.J. Osborn": {
+  "name": "K.J. Osborn",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "60",
+   "targets": "90",
+   "receiving_yards": "650",
+   "touchdowns": "5",
+   "yards_per_game": "38.2",
+   "first_downs": "32"
+  }
+ },
+ "Deebo Samuel": {
+  "name": "Deebo Samuel",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "56",
+   "targets": "94",
+   "receiving_yards": "632",
+   "touchdowns": "2",
+   "yards_per_game": "48.6",
+   "first_downs": "25"
+  }
+ },
+ "David Njoku": {
+  "name": "David Njoku",
+  "stats": {
+   "position": "TE",
+   "games_played": "14",
+   "receptions": "58",
+   "targets": "80",
+   "receiving_yards": "628",
+   "touchdowns": "4",
+   "yards_per_game": "44.9",
+   "first_downs": "36"
+  }
+ },
+ "Parris Campbell": {
+  "name": "Parris Campbell",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "63",
+   "targets": "91",
+   "receiving_yards": "623",
+   "touchdowns": "3",
+   "yards_per_game": "36.6",
+   "first_downs": "32"
+  }
+ },
+ "Tyler Higbee": {
+  "name": "Tyler Higbee",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "72",
+   "targets": "108",
+   "receiving_yards": "620",
+   "touchdowns": "3",
+   "yards_per_game": "36.5",
+   "first_downs": "32"
+  }
+ },
+ "Kalif Raymond": {
+  "name": "Kalif Raymond",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "47",
+   "targets": "64",
+   "receiving_yards": "616",
+   "touchdowns": "0",
+   "yards_per_game": "36.2",
+   "first_downs": "24"
+  }
+ },
+ "Christian Watson": {
+  "name": "Christian Watson",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "41",
+   "targets": "66",
+   "receiving_yards": "611",
+   "touchdowns": "7",
+   "yards_per_game": "43.6",
+   "first_downs": "28"
+  }
+ },
+ "Alec Pierce": {
+  "name": "Alec Pierce",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "41",
+   "targets": "78",
+   "receiving_yards": "593",
+   "touchdowns": "2",
+   "yards_per_game": "37.1",
+   "first_downs": "28"
+  }
+ },
+ "Dalton Schultz": {
+  "name": "Dalton Schultz",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "57",
+   "targets": "89",
+   "receiving_yards": "577",
+   "touchdowns": "5",
+   "yards_per_game": "38.5",
+   "first_downs": "27"
+  }
+ },
+ "Richie James": {
+  "name": "Richie James",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "57",
+   "targets": "70",
+   "receiving_yards": "569",
+   "touchdowns": "4",
+   "yards_per_game": "33.5",
+   "first_downs": "29"
+  }
+ },
+ "Noah Brown": {
+  "name": "Noah Brown",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "43",
+   "targets": "74",
+   "receiving_yards": "555",
+   "touchdowns": "3",
+   "yards_per_game": "34.7",
+   "first_downs": "25"
+  }
+ },
+ "Gerald Everett": {
+  "name": "Gerald Everett",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "receptions": "58",
+   "targets": "87",
+   "receiving_yards": "555",
+   "touchdowns": "4",
+   "yards_per_game": "34.7",
+   "first_downs": "29"
+  }
+ },
+ "Tyler Conklin": {
+  "name": "Tyler Conklin",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "58",
+   "targets": "87",
+   "receiving_yards": "552",
+   "touchdowns": "3",
+   "yards_per_game": "32.5",
+   "first_downs": "25"
+  }
+ },
+ "Chris Moore": {
+  "name": "Chris Moore",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "48",
+   "targets": "74",
+   "receiving_yards": "548",
+   "touchdowns": "2",
+   "yards_per_game": "34.3",
+   "first_downs": "24"
+  }
+ },
+ "Cole Kmet": {
+  "name": "Cole Kmet",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "50",
+   "targets": "69",
+   "receiving_yards": "544",
+   "touchdowns": "7",
+   "yards_per_game": "32.0",
+   "first_downs": "27"
+  }
+ },
+ "DeVante Parker": {
+  "name": "DeVante Parker",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "31",
+   "targets": "47",
+   "receiving_yards": "539",
+   "touchdowns": "3",
+   "yards_per_game": "41.5",
+   "first_downs": "25"
+  }
+ },
+ "DeAndre Carter": {
+  "name": "DeAndre Carter",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "46",
+   "targets": "65",
+   "receiving_yards": "538",
+   "touchdowns": "3",
+   "yards_per_game": "31.6",
+   "first_downs": "29"
+  }
+ },
+ "Corey Davis": {
+  "name": "Corey Davis",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "32",
+   "targets": "64",
+   "receiving_yards": "536",
+   "touchdowns": "2",
+   "yards_per_game": "41.2",
+   "first_downs": "28"
+  }
+ },
+ "Olamide Zaccheaus": {
+  "name": "Olamide Zaccheaus",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "40",
+   "targets": "61",
+   "receiving_yards": "533",
+   "touchdowns": "3",
+   "yards_per_game": "31.4",
+   "first_downs": "25"
+  }
+ },
+ "Marvin Jones Jr.": {
+  "name": "Marvin Jones Jr.",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "46",
+   "targets": "81",
+   "receiving_yards": "529",
+   "touchdowns": "3",
+   "yards_per_game": "33.1",
+   "first_downs": "30"
+  }
+ },
+ "Robert Woods": {
+  "name": "Robert Woods",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "53",
+   "targets": "91",
+   "receiving_yards": "527",
+   "touchdowns": "2",
+   "yards_per_game": "31.0",
+   "first_downs": "31"
+  }
+ },
+ "Leonard Fournette": {
+  "name": "Leonard Fournette",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "receptions": "73",
+   "targets": "83",
+   "receiving_yards": "523",
+   "touchdowns": "3",
+   "yards_per_game": "32.7",
+   "first_downs": "26"
+  }
+ },
+ "Jahan Dotson": {
+  "name": "Jahan Dotson",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "35",
+   "targets": "61",
+   "receiving_yards": "523",
+   "touchdowns": "7",
+   "yards_per_game": "43.6",
+   "first_downs": "26"
+  }
+ },
+ "Dawson Knox": {
+  "name": "Dawson Knox",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "48",
+   "targets": "65",
+   "receiving_yards": "517",
+   "touchdowns": "6",
+   "yards_per_game": "34.5",
+   "first_downs": "25"
+  }
+ },
+ "Jerick McKinnon": {
+  "name": "Jerick McKinnon",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "56",
+   "targets": "71",
+   "receiving_yards": "512",
+   "touchdowns": "9",
+   "yards_per_game": "30.1",
+   "first_downs": "28"
+  }
+ },
+ "Hunter Henry": {
+  "name": "Hunter Henry",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "41",
+   "targets": "59",
+   "receiving_yards": "509",
+   "touchdowns": "2",
+   "yards_per_game": "29.9",
+   "first_downs": "23"
+  }
+ },
+ "Juwan Johnson": {
+  "name": "Juwan Johnson",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "receptions": "42",
+   "targets": "65",
+   "receiving_yards": "508",
+   "touchdowns": "7",
+   "yards_per_game": "31.8",
+   "first_downs": "25"
+  }
+ },
+ "DJ Chark Jr.": {
+  "name": "DJ Chark Jr.",
+  "stats": {
+   "position": "WR",
+   "games_played": "11",
+   "receptions": "30",
+   "targets": "52",
+   "receiving_yards": "502",
+   "touchdowns": "3",
+   "yards_per_game": "45.6",
+   "first_downs": "24"
+  }
+ },
+ "Jordan Akins": {
+  "name": "Jordan Akins",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "37",
+   "targets": "54",
+   "receiving_yards": "495",
+   "touchdowns": "5",
+   "yards_per_game": "33.0",
+   "first_downs": "23"
+  }
+ },
+ "Darnell Mooney": {
+  "name": "Darnell Mooney",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "40",
+   "targets": "61",
+   "receiving_yards": "493",
+   "touchdowns": "2",
+   "yards_per_game": "41.1",
+   "first_downs": "20"
+  }
+ },
+ "Alvin Kamara": {
+  "name": "Alvin Kamara",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "receptions": "57",
+   "targets": "77",
+   "receiving_yards": "490",
+   "touchdowns": "2",
+   "yards_per_game": "32.7",
+   "first_downs": "17"
+  }
+ },
+ "Terrace Marshall Jr.": {
+  "name": "Terrace Marshall Jr.",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "28",
+   "targets": "47",
+   "receiving_yards": "490",
+   "touchdowns": "1",
+   "yards_per_game": "35.0",
+   "first_downs": "23"
+  }
+ },
+ "Rashid Shaheed": {
+  "name": "Rashid Shaheed",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "28",
+   "targets": "34",
+   "receiving_yards": "488",
+   "touchdowns": "2",
+   "yards_per_game": "40.7",
+   "first_downs": "18"
+  }
+ },
+ "Noah Fant": {
+  "name": "Noah Fant",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "50",
+   "targets": "63",
+   "receiving_yards": "486",
+   "touchdowns": "4",
+   "yards_per_game": "28.6",
+   "first_downs": "24"
+  }
+ },
+ "Nico Collins": {
+  "name": "Nico Collins",
+  "stats": {
+   "position": "WR",
+   "games_played": "10",
+   "receptions": "37",
+   "targets": "66",
+   "receiving_yards": "481",
+   "touchdowns": "2",
+   "yards_per_game": "48.1",
+   "first_downs": "21"
+  }
+ },
+ "Josh Reynolds": {
+  "name": "Josh Reynolds",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "38",
+   "targets": "59",
+   "receiving_yards": "479",
+   "touchdowns": "3",
+   "yards_per_game": "34.2",
+   "first_downs": "25"
+  }
+ },
+ "Robert Tonyan": {
+  "name": "Robert Tonyan",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "53",
+   "targets": "67",
+   "receiving_yards": "470",
+   "touchdowns": "2",
+   "yards_per_game": "27.6",
+   "first_downs": "20"
+  }
+ },
+ "Greg Dortch": {
+  "name": "Greg Dortch",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "52",
+   "targets": "64",
+   "receiving_yards": "467",
+   "touchdowns": "2",
+   "yards_per_game": "29.2",
+   "first_downs": "19"
+  }
+ },
+ "Demarcus Robinson": {
+  "name": "Demarcus Robinson",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "48",
+   "targets": "75",
+   "receiving_yards": "458",
+   "touchdowns": "2",
+   "yards_per_game": "26.9",
+   "first_downs": "23"
+  }
+ },
+ "Chase Claypool": {
+  "name": "Chase Claypool",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "46",
+   "targets": "79",
+   "receiving_yards": "451",
+   "touchdowns": "1",
+   "yards_per_game": "30.1",
+   "first_downs": "24"
+  }
+ },
+ "Chigoziem Okonkwo": {
+  "name": "Chigoziem Okonkwo",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "32",
+   "targets": "46",
+   "receiving_yards": "450",
+   "touchdowns": "3",
+   "yards_per_game": "26.5",
+   "first_downs": "22"
+  }
+ },
+ "Elijah Moore": {
+  "name": "Elijah Moore",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "37",
+   "targets": "65",
+   "receiving_yards": "446",
+   "touchdowns": "1",
+   "yards_per_game": "27.9",
+   "first_downs": "22"
+  }
+ },
+ "Austin Hooper": {
+  "name": "Austin Hooper",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "41",
+   "targets": "60",
+   "receiving_yards": "444",
+   "touchdowns": "2",
+   "yards_per_game": "26.1",
+   "first_downs": "28"
+  }
+ },
+ "Treylon Burks": {
+  "name": "Treylon Burks",
+  "stats": {
+   "position": "WR",
+   "games_played": "11",
+   "receptions": "33",
+   "targets": "54",
+   "receiving_yards": "444",
+   "touchdowns": "1",
+   "yards_per_game": "40.4",
+   "first_downs": "19"
+  }
+ },
+ "Joe Mixon": {
+  "name": "Joe Mixon",
+  "stats": {
+   "position": "RB",
+   "games_played": "14",
+   "receptions": "60",
+   "targets": "75",
+   "receiving_yards": "441",
+   "touchdowns": "2",
+   "yards_per_game": "31.5",
+   "first_downs": "16"
+  }
+ },
+ "Kendrick Bourne": {
+  "name": "Kendrick Bourne",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "35",
+   "targets": "48",
+   "receiving_yards": "434",
+   "touchdowns": "1",
+   "yards_per_game": "27.1",
+   "first_downs": "22"
+  }
+ },
+ "Russell Gage": {
+  "name": "Russell Gage",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "51",
+   "targets": "70",
+   "receiving_yards": "426",
+   "touchdowns": "5",
+   "yards_per_game": "32.8",
+   "first_downs": "31"
+  }
+ },
+ "Romeo Doubs": {
+  "name": "Romeo Doubs",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "42",
+   "targets": "67",
+   "receiving_yards": "425",
+   "touchdowns": "3",
+   "yards_per_game": "32.7",
+   "first_downs": "20"
+  }
+ },
+ "Michael Gallup": {
+  "name": "Michael Gallup",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "39",
+   "targets": "74",
+   "receiving_yards": "424",
+   "touchdowns": "4",
+   "yards_per_game": "30.3",
+   "first_downs": "25"
+  }
+ },
+ "Isaiah McKenzie": {
+  "name": "Isaiah McKenzie",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "receptions": "42",
+   "targets": "65",
+   "receiving_yards": "423",
+   "touchdowns": "4",
+   "yards_per_game": "28.2",
+   "first_downs": "27"
+  }
+ },
+ "Rhamondre Stevenson": {
+  "name": "Rhamondre Stevenson",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "69",
+   "targets": "88",
+   "receiving_yards": "421",
+   "touchdowns": "1",
+   "yards_per_game": "24.8",
+   "first_downs": "13"
+  }
+ },
+ "Foster Moreau": {
+  "name": "Foster Moreau",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "33",
+   "targets": "54",
+   "receiving_yards": "420",
+   "touchdowns": "2",
+   "yards_per_game": "28.0",
+   "first_downs": "24"
+  }
+ },
+ "Randall Cobb": {
+  "name": "Randall Cobb",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "34",
+   "targets": "50",
+   "receiving_yards": "417",
+   "touchdowns": "1",
+   "yards_per_game": "32.1",
+   "first_downs": "19"
+  }
+ },
+ "Trent Sherfield": {
+  "name": "Trent Sherfield",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "30",
+   "targets": "51",
+   "receiving_yards": "417",
+   "touchdowns": "2",
+   "yards_per_game": "24.5",
+   "first_downs": "18"
+  }
+ },
+ "Jauan Jennings": {
+  "name": "Jauan Jennings",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "35",
+   "targets": "56",
+   "receiving_yards": "416",
+   "touchdowns": "1",
+   "yards_per_game": "26.0",
+   "first_downs": "23"
+  }
+ },
+ "Hayden Hurst": {
+  "name": "Hayden Hurst",
+  "stats": {
+   "position": "TE",
+   "games_played": "13",
+   "receptions": "52",
+   "targets": "68",
+   "receiving_yards": "414",
+   "touchdowns": "2",
+   "yards_per_game": "31.8",
+   "first_downs": "26"
+  }
+ },
+ "Rondale Moore": {
+  "name": "Rondale Moore",
+  "stats": {
+   "position": "WR",
+   "games_played": "8",
+   "receptions": "41",
+   "targets": "56",
+   "receiving_yards": "414",
+   "touchdowns": "1",
+   "yards_per_game": "51.8",
+   "first_downs": "16"
+  }
+ },
+ "Greg Dulcich": {
+  "name": "Greg Dulcich",
+  "stats": {
+   "position": "TE",
+   "games_played": "10",
+   "receptions": "33",
+   "targets": "55",
+   "receiving_yards": "411",
+   "touchdowns": "2",
+   "yards_per_game": "41.1",
+   "first_downs": "18"
+  }
+ },
+ "Devin Duvernay": {
+  "name": "Devin Duvernay",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "37",
+   "targets": "49",
+   "receiving_yards": "407",
+   "touchdowns": "3",
+   "yards_per_game": "29.1",
+   "first_downs": "19"
+  }
+ },
+ "Zach Ertz": {
+  "name": "Zach Ertz",
+  "stats": {
+   "position": "TE",
+   "games_played": "10",
+   "receptions": "47",
+   "targets": "69",
+   "receiving_yards": "406",
+   "touchdowns": "4",
+   "yards_per_game": "40.6",
+   "first_downs": "24"
+  }
+ },
+ "Josh Jacobs": {
+  "name": "Josh Jacobs",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "53",
+   "targets": "64",
+   "receiving_yards": "400",
+   "touchdowns": "0",
+   "yards_per_game": "23.5",
+   "first_downs": "16"
+  }
+ },
+ "Derrick Henry": {
+  "name": "Derrick Henry",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "receptions": "33",
+   "targets": "41",
+   "receiving_yards": "398",
+   "touchdowns": "0",
+   "yards_per_game": "24.9",
+   "first_downs": "11"
+  }
+ },
+ "Nick Westbrook-Ikhine": {
+  "name": "Nick Westbrook-Ikhine",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "25",
+   "targets": "50",
+   "receiving_yards": "397",
+   "touchdowns": "3",
+   "yards_per_game": "23.4",
+   "first_downs": "18"
+  }
+ },
+ "Aaron Jones": {
+  "name": "Aaron Jones",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "59",
+   "targets": "72",
+   "receiving_yards": "395",
+   "touchdowns": "5",
+   "yards_per_game": "23.2",
+   "first_downs": "19"
+  }
+ },
+ "Isaiah Hodgins": {
+  "name": "Isaiah Hodgins",
+  "stats": {
+   "position": "WR",
+   "games_played": "10",
+   "receptions": "37",
+   "targets": "48",
+   "receiving_yards": "392",
+   "touchdowns": "4",
+   "yards_per_game": "39.2",
+   "first_downs": "24"
+  }
+ },
+ "Cade Otton": {
+  "name": "Cade Otton",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "receptions": "42",
+   "targets": "65",
+   "receiving_yards": "391",
+   "touchdowns": "2",
+   "yards_per_game": "24.4",
+   "first_downs": "19"
+  }
+ },
+ "D'Andre Swift": {
+  "name": "D'Andre Swift",
+  "stats": {
+   "position": "RB",
+   "games_played": "14",
+   "receptions": "48",
+   "targets": "70",
+   "receiving_yards": "389",
+   "touchdowns": "3",
+   "yards_per_game": "27.8",
+   "first_downs": "17"
+  }
+ },
+ "Darren Waller": {
+  "name": "Darren Waller",
+  "stats": {
+   "position": "TE",
+   "games_played": "9",
+   "receptions": "28",
+   "targets": "43",
+   "receiving_yards": "388",
+   "touchdowns": "3",
+   "yards_per_game": "43.1",
+   "first_downs": "18"
+  }
+ },
+ "Marquise Goodwin": {
+  "name": "Marquise Goodwin",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "receptions": "27",
+   "targets": "42",
+   "receiving_yards": "387",
+   "touchdowns": "4",
+   "yards_per_game": "29.8",
+   "first_downs": "18"
+  }
+ },
+ "Ben Skowronek": {
+  "name": "Ben Skowronek",
+  "stats": {
+   "position": "WR",
+   "games_played": "14",
+   "receptions": "39",
+   "targets": "61",
+   "receiving_yards": "376",
+   "touchdowns": "0",
+   "yards_per_game": "26.9",
+   "first_downs": "16"
+  }
+ },
+ "Isaiah Likely": {
+  "name": "Isaiah Likely",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "receptions": "36",
+   "targets": "60",
+   "receiving_yards": "373",
+   "touchdowns": "3",
+   "yards_per_game": "23.3",
+   "first_downs": "18"
+  }
+ },
+ "Tony Pollard": {
+  "name": "Tony Pollard",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "receptions": "39",
+   "targets": "55",
+   "receiving_yards": "371",
+   "touchdowns": "3",
+   "yards_per_game": "23.2",
+   "first_downs": "18"
+  }
+ },
+ "Van Jefferson": {
+  "name": "Van Jefferson",
+  "stats": {
+   "position": "WR",
+   "games_played": "11",
+   "receptions": "24",
+   "targets": "44",
+   "receiving_yards": "369",
+   "touchdowns": "3",
+   "yards_per_game": "33.5",
+   "first_downs": "20"
+  }
+ },
+ "Nelson Agholor": {
+  "name": "Nelson Agholor",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "31",
+   "targets": "53",
+   "receiving_yards": "362",
+   "touchdowns": "2",
+   "yards_per_game": "22.6",
+   "first_downs": "12"
+  }
+ },
+ "Mike Gesicki": {
+  "name": "Mike Gesicki",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "32",
+   "targets": "52",
+   "receiving_yards": "362",
+   "touchdowns": "5",
+   "yards_per_game": "21.3",
+   "first_downs": "19"
+  }
+ },
+ "Kyle Pitts": {
+  "name": "Kyle Pitts",
+  "stats": {
+   "position": "TE",
+   "games_played": "10",
+   "receptions": "28",
+   "targets": "59",
+   "receiving_yards": "356",
+   "touchdowns": "2",
+   "yards_per_game": "35.6",
+   "first_downs": "20"
+  }
+ },
+ "Quez Watkins": {
+  "name": "Quez Watkins",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "33",
+   "targets": "51",
+   "receiving_yards": "354",
+   "touchdowns": "3",
+   "yards_per_game": "20.8",
+   "first_downs": "13"
+  }
+ },
+ "Antonio Gibson": {
+  "name": "Antonio Gibson",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "receptions": "46",
+   "targets": "58",
+   "receiving_yards": "353",
+   "touchdowns": "2",
+   "yards_per_game": "23.5",
+   "first_downs": "18"
+  }
+ },
+ "Will Dissly": {
+  "name": "Will Dissly",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "34",
+   "targets": "38",
+   "receiving_yards": "349",
+   "touchdowns": "3",
+   "yards_per_game": "23.3",
+   "first_downs": "20"
+  }
+ },
+ "Allen Robinson II": {
+  "name": "Allen Robinson II",
+  "stats": {
+   "position": "WR",
+   "games_played": "10",
+   "receptions": "33",
+   "targets": "52",
+   "receiving_yards": "339",
+   "touchdowns": "3",
+   "yards_per_game": "33.9",
+   "first_downs": "23"
+  }
+ },
+ "Saquon Barkley": {
+  "name": "Saquon Barkley",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "receptions": "57",
+   "targets": "76",
+   "receiving_yards": "338",
+   "touchdowns": "0",
+   "yards_per_game": "21.1",
+   "first_downs": "10"
+  }
+ },
+ "Hunter Renfrow": {
+  "name": "Hunter Renfrow",
+  "stats": {
+   "position": "WR",
+   "games_played": "10",
+   "receptions": "36",
+   "targets": "50",
+   "receiving_yards": "330",
+   "touchdowns": "2",
+   "yards_per_game": "33.0",
+   "first_downs": "18"
+  }
+ },
+ "Sammy Watkins": {
+  "name": "Sammy Watkins",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "16",
+   "targets": "27",
+   "receiving_yards": "325",
+   "touchdowns": "0",
+   "yards_per_game": "27.1",
+   "first_downs": "11"
+  }
+ },
+ "Logan Thomas": {
+  "name": "Logan Thomas",
+  "stats": {
+   "position": "TE",
+   "games_played": "14",
+   "receptions": "39",
+   "targets": "61",
+   "receiving_yards": "323",
+   "touchdowns": "1",
+   "yards_per_game": "23.1",
+   "first_downs": "15"
+  }
+ },
+ "Equanimeous St. Brown": {
+  "name": "Equanimeous St. Brown",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "receptions": "21",
+   "targets": "38",
+   "receiving_yards": "323",
+   "touchdowns": "1",
+   "yards_per_game": "20.2",
+   "first_downs": "14"
+  }
+ },
+ "Colby Parkinson": {
+  "name": "Colby Parkinson",
+  "stats": {
+   "position": "TE",
+   "games_played": "17",
+   "receptions": "25",
+   "targets": "34",
+   "receiving_yards": "322",
+   "touchdowns": "2",
+   "yards_per_game": "18.9",
+   "first_downs": "14"
+  }
+ },
+ "David Montgomery": {
+  "name": "David Montgomery",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "receptions": "34",
+   "targets": "40",
+   "receiving_yards": "316",
+   "touchdowns": "1",
+   "yards_per_game": "19.8",
+   "first_downs": "10"
+  }
+ },
+ "Travis Etienne Jr.": {
+  "name": "Travis Etienne Jr.",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "receptions": "35",
+   "targets": "45",
+   "receiving_yards": "316",
+   "touchdowns": "0",
+   "yards_per_game": "18.6",
+   "first_downs": "16"
+  }
+ },
+ "Justin Watson": {
+  "name": "Justin Watson",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "receptions": "15",
+   "targets": "34",
+   "receiving_yards": "315",
+   "touchdowns": "2",
+   "yards_per_game": "18.5",
+   "first_downs": "12"
+  }
+ },
+ "Jelani Woods": {
+  "name": "Jelani Woods",
+  "stats": {
+   "position": "TE",
+   "games_played": "15",
+   "receptions": "25",
+   "targets": "40",
+   "receiving_yards": "312",
+   "touchdowns": "3",
+   "yards_per_game": "20.8",
+   "first_downs": "16"
+  }
+ },
+ "Kendall Hinton": {
+  "name": "Kendall Hinton",
+  "stats": {
+   "position": "WR",
+   "games_played": "12",
+   "receptions": "24",
+   "targets": "33",
+   "receiving_yards": "311",
+   "touchdowns": "0",
+   "yards_per_game": "25.9",
+   "first_downs": "14"
+  }
+ },
+ "Kylen Granson": {
+  "name": "Kylen Granson",
+  "stats": {
+   "position": "TE",
+   "games_played": "13",
+   "receptions": "31",
+   "targets": "40",
+   "receiving_yards": "302",
+   "touchdowns": "0",
+   "yards_per_game": "23.2",
+   "first_downs": "17"
+  }
+ },
+ "James Conner": {
+  "name": "James Conner",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "receptions": "46",
+   "targets": "58",
+   "receiving_yards": "300",
+   "touchdowns": "1",
+   "yards_per_game": "23.1",
+   "first_downs": "13"
+  }
+ },
+ "Julio Jones": {
+  "name": "Julio Jones",
+  "stats": {
+   "position": "WR",
+   "games_played": "10",
+   "receptions": "24",
+   "targets": "43",
+   "receiving_yards": "299",
+   "touchdowns": "2",
+   "yards_per_game": "29.9",
+   "first_downs": "13"
+  }
+ }
+}

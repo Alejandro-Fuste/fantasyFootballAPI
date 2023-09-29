@@ -1,0 +1,700 @@
+{
+  "49ers": {
+    "full_name": "San Francisco 49ers",
+    "short_name": "49ers",
+    "abbreviation": "SF",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 88, "letter": "B" },
+        "offensive_line": { "percent": 74, "letter": "C" },
+        "quarterback": {
+          "brock_purdy": { "percent": 73, "letter": "C" },
+          "sam_darnold": { "percent": 69, "letter": "D" },
+          "brandon_allen": { "percent": 61, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 24, "percent": 71, "letter": "C" },
+          "RB": { "raw": 19, "percent": 76, "letter": "C" },
+          "WR": { "raw": 12, "percent": 83, "letter": "B" },
+          "TE": { "raw": 20, "percent": 75, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Bears": {
+    "full_name": "Chicago Bears",
+    "short_name": "Bears",
+    "abbreviation": "CHI",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 78, "letter": "C" },
+        "offensive_line": { "percent": 75, "letter": "C" },
+        "quarterback": {
+          "justin_fields": { "percent": 75, "letter": "C" },
+          "nathan_peterman": { "percent": 63, "letter": "C" },
+          "pj_walker": { "percent": 66, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 25, "percent": 70, "letter": "C" },
+          "RB": { "raw": 4, "percent": 93, "letter": "A" },
+          "WR": { "raw": 22, "percent": 73, "letter": "C" },
+          "TE": { "raw": 9, "percent": 86, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Bengals": {
+    "full_name": "Cinncinatti Bengals",
+    "short_name": "Bengals",
+    "abbreviation": "CIN",
+    "2023": {
+      "offensive_coordinator": { "percent": 87, "letter": "B" },
+      "offensive_line": { "percent": 75, "letter": "C" },
+      "quarterback": {
+        "joe_burrow": { "percent": 94, "letter": "A" },
+        "jake_browning": { "percent": 57, "letter": "F" }
+      },
+      "playoff_schedule_strength": {
+        "QB": { "raw": 7, "percent": 93, "letter": "A" },
+        "RB": { "raw": 9, "percent": 93, "letter": "A" },
+        "WR": { "raw": 6, "percent": 93, "letter": "A" },
+        "TE": { "raw": 24, "percent": 93, "letter": "A" }
+      }
+    }
+  },
+  "Bills": {
+    "full_name": "Buffalo_Bills",
+    "short_name": "Bills",
+    "abbreviation": "BUF",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 89, "letter": "B" },
+        "offensive_line": { "percent": 74, "letter": "C" },
+        "quarterback": {
+          "josh_allen": { "percent": 93, "letter": "A" },
+          "kyle_allen": { "percent": 64, "letter": "D" },
+          "matt_barkley": { "percent": 60, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 14, "percent": 81, "letter": "B" },
+          "RB": { "raw": 25, "percent": 70, "letter": "C" },
+          "WR": { "raw": 9, "percent": 86, "letter": "B" },
+          "TE": { "raw": 22, "percent": 73, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Broncos": {
+    "full_name": "Denver Broncos",
+    "short_name": "Broncos",
+    "abbreviation": "DEN",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 80, "letter": "B" },
+        "offensive_line": { "percent": 78, "letter": "C" },
+        "quarterback": {
+          "russell_wilson": { "percent": 81, "letter": "B" },
+          "jarrett_stidham": { "percent": 67, "letter": "D" },
+          "ben_dinucci": { "percent": 67, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 3, "percent": 95, "letter": "A" },
+          "RB": { "raw": 12, "percent": 83, "letter": "B" },
+          "WR": { "raw": 7, "percent": 88, "letter": "B" },
+          "TE": { "raw": 12, "percent": 83, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Browns": {
+    "full_name": "Cleveland Browns",
+    "short_name": "Browns",
+    "abbreviation": "CLE",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 81, "letter": "B" },
+        "offensive_line": { "percent": 82, "letter": "B" },
+        "quarterback": {
+          "deshaun_watson": { "percent": 80, "letter": "B" },
+          "joshua_dobbs": { "percent": 63, "letter": "D" },
+          "dorian_thompson_robinson": { "percent": 63, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 28, "percent": 65, "letter": "D" },
+          "RB": { "raw": 5, "percent": 91, "letter": "A" },
+          "WR": { "raw": 32, "percent": 59, "letter": "F" },
+          "TE": { "raw": 19, "percent": 76, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Buccaneers": {
+    "full_name": "Tampa Bay Buccaneers",
+    "short_name": "Buccaneers",
+    "abbreviation": "TB",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 69, "letter": "D" },
+        "offensive_line": { "percent": 75, "letter": "C" },
+        "quarterback": {
+          "baker_mayfield": { "percent": 72, "letter": "C" },
+          "john_wolford": { "percent": 64, "letter": "D" },
+          "kyle_trask": { "percent": 65, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 22, "percent": 73, "letter": "C" },
+          "RB": { "raw": 16, "percent": 79, "letter": "C" },
+          "WR": { "raw": 15, "percent": 80, "letter": "B" },
+          "TE": { "raw": 27, "percent": 67, "letter": "D" }
+        }
+      }
+    }
+  },
+  "Cardinals": {
+    "full_name": "Arizona Cardinals",
+    "short_name": "Cardinals",
+    "abbreviation": "ARI",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 59, "letter": "F" },
+        "offensive_line": { "percent": 73, "letter": "C" },
+        "quarterback": {
+          "clayton_tune": { "percent": 63, "letter": "D" },
+          "david_blough": { "percent": 65, "letter": "D" },
+          "kyler_murray": { "percent": 84, "letter": "B" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 23, "percent": 72, "letter": "C" },
+          "RB": { "raw": 8, "percent": 87, "letter": "B" },
+          "WR": { "raw": 26, "percent": 69, "letter": "D" },
+          "TE": { "raw": 25, "percent": 70, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Chargers": {
+    "full_name": "Los Angeles Chargers",
+    "short_name": "Chargers",
+    "abbreviation": "LAC",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 95, "letter": "A" },
+        "offensive_line": { "percent": 78, "letter": "C" },
+        "quarterback": {
+          "justin_herbert": { "percent": 88, "letter": "B" },
+          "easton_stick": { "percent": 60, "letter": "D" },
+          "max_duggan": { "percent": 59, "letter": "F" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 21, "percent": 74, "letter": "C" },
+          "RB": { "raw": 10, "percent": 85, "letter": "B" },
+          "WR": { "raw": 20, "percent": 75, "letter": "C" },
+          "TE": { "raw": 13, "percent": 82, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Chiefs": {
+    "full_name": "Kansas City Chiefs",
+    "short_name": "Chiefs",
+    "abbreviation": "KC",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 99, "letter": "A+" },
+        "offensive_line": { "percent": 81, "letter": "B" },
+        "quarterback": {
+          "patrick_mahomes": { "percent": 99, "letter": "A+" },
+          "blaine_gabbert": { "percent": 63, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 20, "percent": 75, "letter": "C" },
+          "RB": { "raw": 15, "percent": 80, "letter": "B" },
+          "WR": { "raw": 24, "percent": 71, "letter": "C" },
+          "TE": { "raw": 15, "percent": 80, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Colts": {
+    "full_name": "Indianapolis Colts",
+    "short_name": "Colts",
+    "abbreviation": "IND",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 60, "letter": "D" },
+        "offensive_line": { "percent": 77, "letter": "C" },
+        "quarterback": {
+          "anthony_richardson": { "percent": 69, "letter": "D" },
+          "garnder_minshew": { "percent": 70, "letter": "C" },
+          "sam_elinger": { "percent": 62, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 18, "percent": 77, "letter": "C" },
+          "RB": { "raw": 3, "percent": 95, "letter": "A" },
+          "WR": { "raw": 23, "percent": 72, "letter": "C" },
+          "TE": { "raw": 7, "percent": 88, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Commanders": {
+    "full_name": "Washington Commanders",
+    "short_name": "Commanders",
+    "abbreviation": "WAS",
+    "2023": {
+      "offensive_coordinators": { "percent": 73, "letter": "C" },
+      "offensive_line": { "percent": 73, "letter": "C" },
+      "quarterback": {
+        "jacoby_brissett": { "percent": 72, "letter": "C" },
+        "jake_fromm": { "percent": 59, "letter": "F" },
+        "sam_howell": { "percent": 68, "letter": "D" }
+      },
+      "playoff_schedule_strength": {
+        "QB": { "raw": 30, "percent": 61, "letter": "D" },
+        "RB": { "raw": 28, "percent": 65, "letter": "F" },
+        "WR": { "raw": 17, "percent": 578, "letter": "C" },
+        "TE": { "raw": 28, "percent": 65, "letter": "D" }
+      }
+    }
+  },
+  "Cowboys": {
+    "full_name": "Dallas Cowboys",
+    "short_name": "Cowboys",
+    "abbreviation": "DAL",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 93, "letter": "A" },
+        "offensive_line": { "percent": 80, "letter": "B" },
+        "quarterback": {
+          "dak_prescott": { "percent": 81, "letter": "B" },
+          "cooper_rush": { "percent": 64, "letter": "D" },
+          "trey_lance": { "percent": 67, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 4, "percent": 93, "letter": "A" },
+          "RB": { "raw": 31, "percent": 59, "letter": "F" },
+          "WR": { "raw": 5, "percent": 91, "letter": "A" },
+          "TE": { "raw": 21, "percent": 74, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Dolphins": {
+    "full_name": "Miami Dolphins",
+    "short_name": "Dolphins",
+    "abbreviation": "MIA",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 85, "letter": "B" },
+        "offensive_line": { "percent": 74, "letter": "C" },
+        "quarterback": {
+          "tua_tagovailoa": { "percent": 78, "letter": "C" },
+          "mike_white": { "percent": 66, "letter": "D" },
+          "skylar_thompson": { "percent": 63, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 31, "percent": 59, "letter": "F" },
+          "RB": { "raw": 29, "percent": 63, "letter": "D" },
+          "WR": { "raw": 21, "percent": 74, "letter": "C" },
+          "TE": { "raw": 31, "percent": 59, "letter": "F" }
+        }
+      }
+    }
+  },
+  "Eagles": {
+    "full_name": "Philadelphia Eagles",
+    "short_name": "Eagles",
+    "abbreviation": "PHI",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 97, "letter": "A" },
+        "offensive_line": { "percent": 82, "letter": "B" },
+        "quarterback": {
+          "jalen_hurts": { "percent": 82, "letter": "B" },
+          "marcus_mariota": { "percent": 67, "letter": "D" },
+          "ian_book": { "percent": 62, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 10, "percent": 85, "letter": "B" },
+          "RB": { "raw": 2, "percent": 97, "letter": "A" },
+          "WR": { "raw": 27, "percent": 67, "letter": "D" },
+          "TE": { "raw": 1, "percent": 99, "letter": "A" }
+        }
+      }
+    }
+  },
+  "Falcons": {
+    "full_name": "Atlanta Falcons",
+    "short_name": "Falcons",
+    "abbreviation": "ATL",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 78, "letter": "C" },
+        "offensive_line": { "percent": 78, "letter": "C" },
+        "quarterback": {
+          "desmond_ridder": { "percent": 70, "letter": "C" },
+          "taylor_heinicke": { "percent": 69, "letter": "D" },
+          "logan_woodside": { "percent": 62, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 8, "percent": 87, "letter": "B" },
+          "RB": { "raw": 7, "percent": 88, "letter": "B" },
+          "WR": { "raw": 17, "percent": 78, "letter": "C" },
+          "TE": { "raw": 32, "percent": 59, "letter": "F" }
+        }
+      }
+    }
+  },
+  "Giants": {
+    "full_name": "New York Giants",
+    "short_name": "Giants",
+    "abbreviation": "NYG",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 79, "letter": "C" },
+        "offensive_line": { "percent": 75, "letter": "C" },
+        "quarterback": {
+          "daniel_jones": { "percent": 77, "letter": "C" },
+          "tyrod_taylor": { "percent": 67, "letter": "D" },
+          "tommy_devito": { "percent": 59, "letter": "F" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 32, "percent": 59, "letter": "F" },
+          "RB": { "raw": 20, "percent": 75, "letter": "C" },
+          "WR": { "raw": 30, "percent": 61, "letter": "D" },
+          "TE": { "raw": 29, "percent": 63, "letter": "D" }
+        }
+      }
+    }
+  },
+  "Jaguars": {
+    "full_name": "Jacksonville Jaguars",
+    "short_name": "Jaguars",
+    "abbreviation": "JAX",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 84, "letter": "B" },
+        "offensive_line": { "percent": 72, "letter": "C" },
+        "quarterback": {
+          "trevor_lawrence": { "percent": 85, "letter": "A" },
+          "cj_beathard": { "percent": 63, "letter": "D" },
+          "nathan_rourke": { "percent": 60, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 5, "percent": 90, "letter": "A" },
+          "RB": { "raw": 30, "percent": 61, "letter": "D" },
+          "WR": { "raw": 1, "percent": 99, "letter": "A" },
+          "TE": { "raw": 14, "percent": 81, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Jets": {
+    "full_name": "New York Jets",
+    "short_name": "Jets",
+    "abbreviation": "NYJ",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 65, "letter": "D" },
+        "offensive_line": { "percent": 77, "letter": "C" },
+        "quarterback": {
+          "aaron_rodgers": { "percent": 90, "letter": "A" },
+          "zach_wilson": { "percent": 66, "letter": "D" },
+          "tim_boyle": { "percent": 62, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 15, "percent": 80, "letter": "B" },
+          "RB": { "raw": 24, "percent": 71, "letter": "C" },
+          "WR": { "raw": 16, "percent": 79, "letter": "C" },
+          "TE": { "raw": 26, "percent": 69, "letter": "D" }
+        }
+      }
+    }
+  },
+  "Lions": {
+    "full_name": "Detriot Lions",
+    "short_name": "Lions",
+    "abbreviation": "DET",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 91, "letter": "A" },
+        "offensive_line": { "percent": 80, "letter": "B" },
+        "quarterback": {
+          "jared_goff": { "percent": 79, "letter": "C" },
+          "nate_sudfeld": { "percent": 62, "letter": "D" },
+          "hendon_hooker": { "percent": 68, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 17, "percent": 78, "letter": "C" },
+          "RB": { "raw": 14, "percent": 81, "letter": "B" },
+          "WR": { "raw": 3, "percent": 95, "letter": "A" },
+          "TE": { "raw": 18, "percent": 77, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Packers": {
+    "full_name": "Green Bay Packers",
+    "short_name": "Packers",
+    "abbreviation": "GB",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 80, "letter": "B" },
+        "offensive_line": { "percent": 82, "letter": "B" },
+        "quarterback": {
+          "jordan_love": { "percent": 74, "letter": "C" },
+          "sean_clifford": { "percent": 57, "letter": "F" },
+          "danny_etling": { "percent": 57, "letter": "F" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 1, "percent": 99, "letter": "A" },
+          "RB": { "raw": 11, "percent": 84, "letter": "B" },
+          "WR": { "raw": 2, "percent": 97, "letter": "A" },
+          "TE": { "raw": 23, "percent": 72, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Panthers": {
+    "full_name": "Carolina Panthers",
+    "short_name": "Panthers",
+    "abbreviation": "CAR",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 74, "letter": "C" },
+        "offensive_line": { "percent": 78, "letter": "C" },
+        "quarterback": {
+          "bryce_young": { "percent": 78, "letter": "C" },
+          "andy_dalton": { "percent": 72, "letter": "C" },
+          "matt_corral": { "percent": 66, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 11, "percent": 84, "letter": "B" },
+          "RB": { "raw": 21, "percent": 74, "letter": "C" },
+          "WR": { "raw": 13, "percent": 82, "letter": "B" },
+          "TE": { "raw": 2, "percent": 97, "letter": "A" }
+        }
+      }
+    }
+  },
+  "Patriots": {
+    "full_name": "New England Patriots",
+    "short_name": "Patriots",
+    "abbreviation": "NE",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 78, "letter": "C" },
+        "offensive_line": { "percent": 78, "letter": "C" },
+        "quarterback": {
+          "mac_jones": { "percent": 76, "letter": "C" },
+          "bailey_zappe": { "percent": 67, "letter": "D" },
+          "tracy_mcsorley": { "percent": 58, "letter": "F" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 29, "percent": 63, "letter": "D" },
+          "RB": { "raw": 22, "percent": 73, "letter": "C" },
+          "WR": { "raw": 29, "percent": 63, "letter": "D" },
+          "TE": { "raw": 17, "percent": 78, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Raiders": {
+    "full_name": "Las Vegas Raiders",
+    "short_name": "Raiders",
+    "abbreviation": "LV",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 82, "letter": "B" },
+        "offensive_line": { "percent": 74, "letter": "C" },
+        "quarterback": {
+          "aidan_o'connell": { "percent": 63, "letter": "D" },
+          "brian_hoyer": { "percent": 64, "letter": "D" },
+          "jimmy_garoppolo": { "percent": 75, "letter": "C" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 12, "percent": 83, "letter": "B" },
+          "RB": { "raw": 6, "percent": 89, "letter": "B" },
+          "WR": { "raw": 25, "percent": 70, "letter": "C" },
+          "TE": { "raw": 16, "percent": 79, "letter": "C" }
+        }
+      }
+    }
+  },
+  "Ravens": {
+    "full_name": "Baltimore Ravens",
+    "short_name": "Ravens",
+    "abbreviation": "BAL",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 72, "letter": "C" },
+        "offensive_line": { "percent": 78, "letter": "D" },
+        "quarterback": {
+          "lamar_jackson": { "percent": 82, "letter": "B" },
+          "tyler_huntley": { "percent": 68, "letter": "D" },
+          "josh_johnson": { "percent": 60, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 9, "percent": 86, "letter": "B" },
+          "RB": { "raw": 27, "percent": 67, "letter": "D" },
+          "WR": { "raw": 11, "percent": 84, "letter": "B" },
+          "TE": { "raw": 8, "percent": 87, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Rams": {
+    "full_name": "Los Angeles Rams",
+    "short_name": "Rams",
+    "abbreviation": "LAR",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 70, "letter": "C" },
+        "offensive_line": { "percent": 73, "letter": "C" },
+        "quarterback": {
+          "brett_rypien": { "percent": 64, "letter": "D" },
+          "matthew_stafford": { "percent": 84, "letter": "B" },
+          "stetson_bennett": { "percent": 66, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 26, "percent": 69, "letter": "D" },
+          "RB": { "raw": 32, "percent": 59, "letter": "F" },
+          "WR": { "raw": 19, "percent": 76, "letter": "C" },
+          "TE": { "raw": 30, "percent": 61, "letter": "D" }
+        }
+      }
+    }
+  },
+  "Saints": {
+    "full_name": "New Orleans Saints",
+    "short_name": "Saints",
+    "abbreviation": "NO",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 75, "letter": "C" },
+        "offensive_line": { "percent": 74, "letter": "C" },
+        "quarterback": {
+          "derek_carr": { "percent": 77, "letter": "C" },
+          "jameis_winston": { "percent": 70, "letter": "C" },
+          "jake_haener": { "percent": 64, "letter": "C" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 16, "percent": 79, "letter": "C" },
+          "RB": { "raw": 23, "percent": 72, "letter": "C" },
+          "WR": { "raw": 8, "percent": 87, "letter": "B" },
+          "TE": { "raw": 5, "percent": 91, "letter": "A" }
+        }
+      }
+    }
+  },
+  "Seahawks": {
+    "full_name": "Seattle Seahawks",
+    "short_name": "Seahawks",
+    "abbreviation": "SEA",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 83, "letter": "B" },
+        "offensive_line": { "percent": 73, "letter": "C" },
+        "quarterback": {
+          "geno_smith": { "percent": 79, "letter": "C" },
+          "drew_lock": { "percent": 66, "letter": "D" },
+          "holton_ahlers": { "percent": 59, "letter": "F" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 13, "percent": 82, "letter": "B" },
+          "RB": { "raw": 18, "percent": 77, "letter": "C" },
+          "WR": { "raw": 14, "percent": 81, "letter": "B" },
+          "TE": { "raw": 4, "percent": 93, "letter": "A" }
+        }
+      }
+    }
+  },
+  "Steelers": {
+    "full_name": "Pittsburgh Steelers",
+    "short_name": "Steelers",
+    "abbreviation": "PIT",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 60, "letter": "D" },
+        "offensive_line": { "percent": 74, "letter": "C" },
+        "quarterback": {
+          "kenny_pickett": { "percent": 76, "letter": "C" },
+          "mitchell_trubisky": { "percent": 68, "letter": "D" },
+          "mason_rudolph": { "percent": 63, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 19, "percent": 76, "letter": "C" },
+          "RB": { "raw": 13, "percent": 82, "letter": "B" },
+          "WR": { "raw": 28, "percent": 65, "letter": "D" },
+          "TE": { "raw": 10, "percent": 85, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Texans": {
+    "full_name": "Houston Texans",
+    "short_name": "Texans",
+    "abbreviation": "HOU",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 63, "letter": "D" },
+        "offensive_line": { "percent": 76, "letter": "C" },
+        "quarterback": {
+          "case_keenum": { "percent": 67, "letter": "D" },
+          "cj_stroud": { "percent": 75, "letter": "C" },
+          "davis_mills": { "percent": 67, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 6, "percent": 89, "letter": "B" },
+          "RB": { "raw": 17, "percent": 78, "letter": "C" },
+          "WR": { "raw": 4, "percent": 93, "letter": "A" },
+          "TE": { "raw": 6, "percent": 89, "letter": "B" }
+        }
+      }
+    }
+  },
+  "Titans": {
+    "full_name": "Tennessee Titans",
+    "short_name": "Titans",
+    "abbreviation": "TEN",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 71, "letter": "C" },
+        "offensive_line": { "percent": 70, "letter": "C" },
+        "quarterback": {
+          "ryan_tannehill": { "percent": 77, "letter": "C" },
+          "will_levis": { "percent": 70, "letter": "C" },
+          "malik_willis": { "percent": 63, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 27, "percent": 67, "letter": "D" },
+          "RB": { "raw": 1, "percent": 99, "letter": "A" },
+          "WR": { "raw": 31, "percent": 59, "letter": "F" },
+          "TE": { "raw": 3, "percent": 97, "letter": "A" }
+        }
+      }
+    }
+  },
+  "Vikings": {
+    "full_name": "Minnesota Vikings",
+    "short_name": "Vikings",
+    "abbreviation": "MIN",
+    "season": {
+      "2023": {
+        "offensive_coordinator": { "percent": 86, "letter": "B" },
+        "offensive_line": { "percent": 77, "letter": "C" },
+        "quarterback": {
+          "kirk_cousins": { "percent": 81, "letter": "B" },
+          "nick_mullens": { "percent": 64, "letter": "D" },
+          "jaren_hall": { "percent": 61, "letter": "D" }
+        },
+        "playoff_schedule_strength": {
+          "QB": { "raw": 2, "percent": 97, "letter": "A" },
+          "RB": { "raw": 26, "percent": 69, "letter": "D" },
+          "WR": { "raw": 10, "percent": 85, "letter": "B" },
+          "TE": { "raw": 11, "percent": 84, "letter": "B" }
+        }
+      }
+    }
+  }
+}

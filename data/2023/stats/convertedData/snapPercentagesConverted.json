@@ -1,0 +1,2406 @@
+{
+  "Tom Brady": {
+    "name": "Tom Brady",
+    "snap_percentage": "98"
+  },
+  "Justin Herbert": {
+    "name": "Justin Herbert",
+    "snap_percentage": "97"
+  },
+  "Jared Goff": {
+    "name": "Jared Goff",
+    "snap_percentage": "99"
+  },
+  "Patrick Mahomes": {
+    "name": "Patrick Mahomes",
+    "snap_percentage": "99"
+  },
+  "Kirk Cousins": {
+    "name": "Kirk Cousins",
+    "snap_percentage": "95"
+  },
+  "Trevor Lawrence": {
+    "name": "Trevor Lawrence",
+    "snap_percentage": "97"
+  },
+  "Geno Smith": {
+    "name": "Geno Smith",
+    "snap_percentage": "100"
+  },
+  "Joe Burrow": {
+    "name": "Joe Burrow",
+    "snap_percentage": "98"
+  },
+  "DeVonta Smith": {
+    "name": "DeVonta Smith",
+    "snap_percentage": "92"
+  },
+  "Justin Jefferson": {
+    "name": "Justin Jefferson",
+    "snap_percentage": "92"
+  },
+  "Aaron Rodgers": {
+    "name": "Aaron Rodgers",
+    "snap_percentage": "98"
+  },
+  "Michael Pittman Jr.": {
+    "name": "Michael Pittman Jr.",
+    "snap_percentage": "97"
+  },
+  "Terry McLaurin": {
+    "name": "Terry McLaurin",
+    "snap_percentage": "89"
+  },
+  "Josh Allen": {
+    "name": "Josh Allen",
+    "snap_percentage": "98"
+  },
+  "Donovan Peoples-Jones": {
+    "name": "Donovan Peoples-Jones",
+    "snap_percentage": "90"
+  },
+  "Davante Adams": {
+    "name": "Davante Adams",
+    "snap_percentage": "95"
+  },
+  "Adam Thielen": {
+    "name": "Adam Thielen",
+    "snap_percentage": "89"
+  },
+  "Diontae Johnson": {
+    "name": "Diontae Johnson",
+    "snap_percentage": "90"
+  },
+  "Daniel Jones": {
+    "name": "Daniel Jones",
+    "snap_percentage": "97"
+  },
+  "Mack Hollins": {
+    "name": "Mack Hollins",
+    "snap_percentage": "93"
+  },
+  "Jalen Hurts": {
+    "name": "Jalen Hurts",
+    "snap_percentage": "98"
+  },
+  "CeeDee Lamb": {
+    "name": "CeeDee Lamb",
+    "snap_percentage": "87"
+  },
+  "A.J. Brown": {
+    "name": "A.J. Brown",
+    "snap_percentage": "85"
+  },
+  "Brandon Aiyuk": {
+    "name": "Brandon Aiyuk",
+    "snap_percentage": "91"
+  },
+  "Christian Kirk": {
+    "name": "Christian Kirk",
+    "snap_percentage": "88"
+  },
+  "T.J. Hockenson": {
+    "name": "T.J. Hockenson",
+    "snap_percentage": "85"
+  },
+  "Parris Campbell": {
+    "name": "Parris Campbell",
+    "snap_percentage": "85"
+  },
+  "Amari Cooper": {
+    "name": "Amari Cooper",
+    "snap_percentage": "83"
+  },
+  "DJ Moore": {
+    "name": "DJ Moore",
+    "snap_percentage": "96"
+  },
+  "Cole Kmet": {
+    "name": "Cole Kmet",
+    "snap_percentage": "94"
+  },
+  "Russell Wilson": {
+    "name": "Russell Wilson",
+    "snap_percentage": "97"
+  },
+  "Derek Carr": {
+    "name": "Derek Carr",
+    "snap_percentage": "98"
+  },
+  "Zay Jones": {
+    "name": "Zay Jones",
+    "snap_percentage": "86"
+  },
+  "Mike Evans": {
+    "name": "Mike Evans",
+    "snap_percentage": "85"
+  },
+  "Gabe Davis": {
+    "name": "Gabe Davis",
+    "snap_percentage": "91"
+  },
+  "Justin Fields": {
+    "name": "Justin Fields",
+    "snap_percentage": "99"
+  },
+  "Travis Kelce": {
+    "name": "Travis Kelce",
+    "snap_percentage": "80"
+  },
+  "Joshua Palmer": {
+    "name": "Joshua Palmer",
+    "snap_percentage": "80"
+  },
+  "DK Metcalf": {
+    "name": "DK Metcalf",
+    "snap_percentage": "82"
+  },
+  "Garrett Wilson": {
+    "name": "Garrett Wilson",
+    "snap_percentage": "79"
+  },
+  "Courtland Sutton": {
+    "name": "Courtland Sutton",
+    "snap_percentage": "89"
+  },
+  "George Pickens": {
+    "name": "George Pickens",
+    "snap_percentage": "76"
+  },
+  "Chris Godwin": {
+    "name": "Chris Godwin",
+    "snap_percentage": "81"
+  },
+  "K.J. Osborn": {
+    "name": "K.J. Osborn",
+    "snap_percentage": "75"
+  },
+  "Evan Engram": {
+    "name": "Evan Engram",
+    "snap_percentage": "77"
+  },
+  "Allen Lazard": {
+    "name": "Allen Lazard",
+    "snap_percentage": "89"
+  },
+  "Tyler Conklin": {
+    "name": "Tyler Conklin",
+    "snap_percentage": "77"
+  },
+  "George Kittle": {
+    "name": "George Kittle",
+    "snap_percentage": "89"
+  },
+  "Tyler Higbee": {
+    "name": "Tyler Higbee",
+    "snap_percentage": "88"
+  },
+  "Saquon Barkley": {
+    "name": "Saquon Barkley",
+    "snap_percentage": "80"
+  },
+  "Davis Mills": {
+    "name": "Davis Mills",
+    "snap_percentage": "91"
+  },
+  "Curtis Samuel": {
+    "name": "Curtis Samuel",
+    "snap_percentage": "71"
+  },
+  "Matt Ryan": {
+    "name": "Matt Ryan",
+    "snap_percentage": "100"
+  },
+  "Dalvin Cook": {
+    "name": "Dalvin Cook",
+    "snap_percentage": "72"
+  },
+  "Stefon Diggs": {
+    "name": "Stefon Diggs",
+    "snap_percentage": "77"
+  },
+  "Amon-Ra St. Brown": {
+    "name": "Amon-Ra St. Brown",
+    "snap_percentage": "78"
+  },
+  "Mac Jones": {
+    "name": "Mac Jones",
+    "snap_percentage": "96"
+  },
+  "Dawson Knox": {
+    "name": "Dawson Knox",
+    "snap_percentage": "80"
+  },
+  "Noah Brown": {
+    "name": "Noah Brown",
+    "snap_percentage": "74"
+  },
+  "Dak Prescott": {
+    "name": "Dak Prescott",
+    "snap_percentage": "96"
+  },
+  "Josh Jacobs": {
+    "name": "Josh Jacobs",
+    "snap_percentage": "75"
+  },
+  "Drake London": {
+    "name": "Drake London",
+    "snap_percentage": "78"
+  },
+  "David Njoku": {
+    "name": "David Njoku",
+    "snap_percentage": "84"
+  },
+  "Dalton Schultz": {
+    "name": "Dalton Schultz",
+    "snap_percentage": "79"
+  },
+  "Robert Woods": {
+    "name": "Robert Woods",
+    "snap_percentage": "78"
+  },
+  "Kenny Pickett": {
+    "name": "Kenny Pickett",
+    "snap_percentage": "88"
+  },
+  "Cade Otton": {
+    "name": "Cade Otton",
+    "snap_percentage": "70"
+  },
+  "Tyreek Hill": {
+    "name": "Tyreek Hill",
+    "snap_percentage": "76"
+  },
+  "Tyler Lockett": {
+    "name": "Tyler Lockett",
+    "snap_percentage": "79"
+  },
+  "Tyler Boyd": {
+    "name": "Tyler Boyd",
+    "snap_percentage": "72"
+  },
+  "Hunter Henry": {
+    "name": "Hunter Henry",
+    "snap_percentage": "80"
+  },
+  "Ja'Marr Chase": {
+    "name": "Ja'Marr Chase",
+    "snap_percentage": "94"
+  },
+  "Mark Andrews": {
+    "name": "Mark Andrews",
+    "snap_percentage": "83"
+  },
+  "Jacoby Brissett": {
+    "name": "Jacoby Brissett",
+    "snap_percentage": "80"
+  },
+  "Jaylen Waddle": {
+    "name": "Jaylen Waddle",
+    "snap_percentage": "74"
+  },
+  "Marquise Brown": {
+    "name": "Marquise Brown",
+    "snap_percentage": "91"
+  },
+  "Christian McCaffrey": {
+    "name": "Christian McCaffrey",
+    "snap_percentage": "73"
+  },
+  "Marquez Valdes-Scantling": {
+    "name": "Marquez Valdes-Scantling",
+    "snap_percentage": "68"
+  },
+  "Marcus Mariota": {
+    "name": "Marcus Mariota",
+    "snap_percentage": "100"
+  },
+  "JuJu Smith-Schuster": {
+    "name": "JuJu Smith-Schuster",
+    "snap_percentage": "71"
+  },
+  "Najee Harris": {
+    "name": "Najee Harris",
+    "snap_percentage": "66"
+  },
+  "Tee Higgins": {
+    "name": "Tee Higgins",
+    "snap_percentage": "76"
+  },
+  "Nick Westbrook-Ikhine": {
+    "name": "Nick Westbrook-Ikhine",
+    "snap_percentage": "76"
+  },
+  "Michael Gallup": {
+    "name": "Michael Gallup",
+    "snap_percentage": "76"
+  },
+  "Olamide Zaccheaus": {
+    "name": "Olamide Zaccheaus",
+    "snap_percentage": "70"
+  },
+  "Andy Dalton": {
+    "name": "Andy Dalton",
+    "snap_percentage": "86"
+  },
+  "Dallas Goedert": {
+    "name": "Dallas Goedert",
+    "snap_percentage": "90"
+  },
+  "Austin Ekeler": {
+    "name": "Austin Ekeler",
+    "snap_percentage": "62"
+  },
+  "Lamar Jackson": {
+    "name": "Lamar Jackson",
+    "snap_percentage": "92"
+  },
+  "Foster Moreau": {
+    "name": "Foster Moreau",
+    "snap_percentage": "80"
+  },
+  "Alec Pierce": {
+    "name": "Alec Pierce",
+    "snap_percentage": "66"
+  },
+  "Kyler Murray": {
+    "name": "Kyler Murray",
+    "snap_percentage": "90"
+  },
+  "Jerry Jeudy": {
+    "name": "Jerry Jeudy",
+    "snap_percentage": "70"
+  },
+  "Devin Singletary": {
+    "name": "Devin Singletary",
+    "snap_percentage": "65"
+  },
+  "Tua Tagovailoa": {
+    "name": "Tua Tagovailoa",
+    "snap_percentage": "91"
+  },
+  "Pat Freiermuth": {
+    "name": "Pat Freiermuth",
+    "snap_percentage": "69"
+  },
+  "Elijah Moore": {
+    "name": "Elijah Moore",
+    "snap_percentage": "71"
+  },
+  "Mike Williams": {
+    "name": "Mike Williams",
+    "snap_percentage": "76"
+  },
+  "Marvin Jones Jr.": {
+    "name": "Marvin Jones Jr.",
+    "snap_percentage": "66"
+  },
+  "Rhamondre Stevenson": {
+    "name": "Rhamondre Stevenson",
+    "snap_percentage": "66"
+  },
+  "DeAndre Carter": {
+    "name": "DeAndre Carter",
+    "snap_percentage": "59"
+  },
+  "Ben Skowronek": {
+    "name": "Ben Skowronek",
+    "snap_percentage": "82"
+  },
+  "Jakobi Meyers": {
+    "name": "Jakobi Meyers",
+    "snap_percentage": "79"
+  },
+  "Leonard Fournette": {
+    "name": "Leonard Fournette",
+    "snap_percentage": "60"
+  },
+  "Ryan Tannehill": {
+    "name": "Ryan Tannehill",
+    "snap_percentage": "95"
+  },
+  "Quez Watkins": {
+    "name": "Quez Watkins",
+    "snap_percentage": "58"
+  },
+  "Darius Slayton": {
+    "name": "Darius Slayton",
+    "snap_percentage": "78"
+  },
+  "Miles Sanders": {
+    "name": "Miles Sanders",
+    "snap_percentage": "57"
+  },
+  "Travis Etienne Jr.": {
+    "name": "Travis Etienne Jr.",
+    "snap_percentage": "59"
+  },
+  "James Conner": {
+    "name": "James Conner",
+    "snap_percentage": "71"
+  },
+  "Chase Claypool": {
+    "name": "Chase Claypool",
+    "snap_percentage": "70"
+  },
+  "Nick Chubb": {
+    "name": "Nick Chubb",
+    "snap_percentage": "56"
+  },
+  "Noah Fant": {
+    "name": "Noah Fant",
+    "snap_percentage": "60"
+  },
+  "Deebo Samuel": {
+    "name": "Deebo Samuel",
+    "snap_percentage": "76"
+  },
+  "Brandin Cooks": {
+    "name": "Brandin Cooks",
+    "snap_percentage": "81"
+  },
+  "Jahan Dotson": {
+    "name": "Jahan Dotson",
+    "snap_percentage": "75"
+  },
+  "Baker Mayfield": {
+    "name": "Baker Mayfield",
+    "snap_percentage": "95"
+  },
+  "Derrick Henry": {
+    "name": "Derrick Henry",
+    "snap_percentage": "67"
+  },
+  "Juwan Johnson": {
+    "name": "Juwan Johnson",
+    "snap_percentage": "65"
+  },
+  "Logan Thomas": {
+    "name": "Logan Thomas",
+    "snap_percentage": "69"
+  },
+  "Chris Moore": {
+    "name": "Chris Moore",
+    "snap_percentage": "68"
+  },
+  "Alvin Kamara": {
+    "name": "Alvin Kamara",
+    "snap_percentage": "69"
+  },
+  "Terrace Marshall Jr.": {
+    "name": "Terrace Marshall Jr.",
+    "snap_percentage": "81"
+  },
+  "Devin Duvernay": {
+    "name": "Devin Duvernay",
+    "snap_percentage": "69"
+  },
+  "Gerald Everett": {
+    "name": "Gerald Everett",
+    "snap_percentage": "59"
+  },
+  "Aaron Jones": {
+    "name": "Aaron Jones",
+    "snap_percentage": "58"
+  },
+  "David Montgomery": {
+    "name": "David Montgomery",
+    "snap_percentage": "65"
+  },
+  "Joe Mixon": {
+    "name": "Joe Mixon",
+    "snap_percentage": "65"
+  },
+  "Demarcus Robinson": {
+    "name": "Demarcus Robinson",
+    "snap_percentage": "60"
+  },
+  "Corey Davis": {
+    "name": "Corey Davis",
+    "snap_percentage": "70"
+  },
+  "Jimmy Garoppolo": {
+    "name": "Jimmy Garoppolo",
+    "snap_percentage": "84"
+  },
+  "Taylor Heinicke": {
+    "name": "Taylor Heinicke",
+    "snap_percentage": "97"
+  },
+  "Darnell Mooney": {
+    "name": "Darnell Mooney",
+    "snap_percentage": "87"
+  },
+  "Chris Olave": {
+    "name": "Chris Olave",
+    "snap_percentage": "66"
+  },
+  "Noah Gray": {
+    "name": "Noah Gray",
+    "snap_percentage": "52"
+  },
+  "Robert Tonyan": {
+    "name": "Robert Tonyan",
+    "snap_percentage": "54"
+  },
+  "Josh Reynolds": {
+    "name": "Josh Reynolds",
+    "snap_percentage": "71"
+  },
+  "Zach Ertz": {
+    "name": "Zach Ertz",
+    "snap_percentage": "79"
+  },
+  "Kenneth Walker III": {
+    "name": "Kenneth Walker III",
+    "snap_percentage": "58"
+  },
+  "Trent Sherfield": {
+    "name": "Trent Sherfield",
+    "snap_percentage": "57"
+  },
+  "Will Dissly": {
+    "name": "Will Dissly",
+    "snap_percentage": "60"
+  },
+  "Tony Pollard": {
+    "name": "Tony Pollard",
+    "snap_percentage": "53"
+  },
+  "Trey McBride": {
+    "name": "Trey McBride",
+    "snap_percentage": "67"
+  },
+  "Allen Robinson II": {
+    "name": "Allen Robinson II",
+    "snap_percentage": "90"
+  },
+  "Ezekiel Elliott": {
+    "name": "Ezekiel Elliott",
+    "snap_percentage": "55"
+  },
+  "DeAndre Hopkins": {
+    "name": "DeAndre Hopkins",
+    "snap_percentage": "88"
+  },
+  "Kalif Raymond": {
+    "name": "Kalif Raymond",
+    "snap_percentage": "49"
+  },
+  "Isaiah McKenzie": {
+    "name": "Isaiah McKenzie",
+    "snap_percentage": "54"
+  },
+  "Equanimeous St. Brown": {
+    "name": "Equanimeous St. Brown",
+    "snap_percentage": "57"
+  },
+  "Raheem Mostert": {
+    "name": "Raheem Mostert",
+    "snap_percentage": "56"
+  },
+  "DeVante Parker": {
+    "name": "DeVante Parker",
+    "snap_percentage": "67"
+  },
+  "Hayden Hurst": {
+    "name": "Hayden Hurst",
+    "snap_percentage": "61"
+  },
+  "Daniel Bellinger": {
+    "name": "Daniel Bellinger",
+    "snap_percentage": "74"
+  },
+  "Patrick Ricard": {
+    "name": "Patrick Ricard",
+    "snap_percentage": "64"
+  },
+  "AJ Dillon": {
+    "name": "AJ Dillon",
+    "snap_percentage": "49"
+  },
+  "Jerick McKinnon": {
+    "name": "Jerick McKinnon",
+    "snap_percentage": "47"
+  },
+  "Matthew Stafford": {
+    "name": "Matthew Stafford",
+    "snap_percentage": "95"
+  },
+  "DJ Chark Jr.": {
+    "name": "DJ Chark Jr.",
+    "snap_percentage": "70"
+  },
+  "A.J. Green": {
+    "name": "A.J. Green",
+    "snap_percentage": "58"
+  },
+  "Cooper Kupp": {
+    "name": "Cooper Kupp",
+    "snap_percentage": "95"
+  },
+  "Russell Gage": {
+    "name": "Russell Gage",
+    "snap_percentage": "58"
+  },
+  "Romeo Doubs": {
+    "name": "Romeo Doubs",
+    "snap_percentage": "62"
+  },
+  "Austin Hooper": {
+    "name": "Austin Hooper",
+    "snap_percentage": "51"
+  },
+  "Jeff Wilson Jr.": {
+    "name": "Jeff Wilson Jr.",
+    "snap_percentage": "53"
+  },
+  "Dante Pettis": {
+    "name": "Dante Pettis",
+    "snap_percentage": "51"
+  },
+  "Richie James Jr.": {
+    "name": "Richie James Jr.",
+    "snap_percentage": "52"
+  },
+  "Jonathan Taylor": {
+    "name": "Jonathan Taylor",
+    "snap_percentage": "70"
+  },
+  "Keenan Allen": {
+    "name": "Keenan Allen",
+    "snap_percentage": "74"
+  },
+  "Greg Dortch": {
+    "name": "Greg Dortch",
+    "snap_percentage": "45"
+  },
+  "Carson Wentz": {
+    "name": "Carson Wentz",
+    "snap_percentage": "90"
+  },
+  "Brock Wright": {
+    "name": "Brock Wright",
+    "snap_percentage": "55"
+  },
+  "Dameon Pierce": {
+    "name": "Dameon Pierce",
+    "snap_percentage": "64"
+  },
+  "Tyquan Thornton": {
+    "name": "Tyquan Thornton",
+    "snap_percentage": "68"
+  },
+  "Christian Watson": {
+    "name": "Christian Watson",
+    "snap_percentage": "56"
+  },
+  "Zach Gentry": {
+    "name": "Zach Gentry",
+    "snap_percentage": "52"
+  },
+  "Zach Wilson": {
+    "name": "Zach Wilson",
+    "snap_percentage": "94"
+  },
+  "C.J. Uzomah": {
+    "name": "C.J. Uzomah",
+    "snap_percentage": "56"
+  },
+  "Greg Dulcich": {
+    "name": "Greg Dulcich",
+    "snap_percentage": "75"
+  },
+  "Tyler Allgeier": {
+    "name": "Tyler Allgeier",
+    "snap_percentage": "51"
+  },
+  "Michael Carter": {
+    "name": "Michael Carter",
+    "snap_percentage": "48"
+  },
+  "Mo Alie-Cox": {
+    "name": "Mo Alie-Cox",
+    "snap_percentage": "52"
+  },
+  "Justin Watson": {
+    "name": "Justin Watson",
+    "snap_percentage": "43"
+  },
+  "David Bell": {
+    "name": "David Bell",
+    "snap_percentage": "48"
+  },
+  "Kareem Hunt": {
+    "name": "Kareem Hunt",
+    "snap_percentage": "42"
+  },
+  "Jauan Jennings": {
+    "name": "Jauan Jennings",
+    "snap_percentage": "46"
+  },
+  "Antonio Gibson": {
+    "name": "Antonio Gibson",
+    "snap_percentage": "46"
+  },
+  "Shi Smith": {
+    "name": "Shi Smith",
+    "snap_percentage": "51"
+  },
+  "Mike Gesicki": {
+    "name": "Mike Gesicki",
+    "snap_percentage": "45"
+  },
+  "Tommy Tremble": {
+    "name": "Tommy Tremble",
+    "snap_percentage": "52"
+  },
+  "Ian Thomas": {
+    "name": "Ian Thomas",
+    "snap_percentage": "56"
+  },
+  "Parker Hesse": {
+    "name": "Parker Hesse",
+    "snap_percentage": "61"
+  },
+  "Durham Smythe": {
+    "name": "Durham Smythe",
+    "snap_percentage": "59"
+  },
+  "Rachaad White": {
+    "name": "Rachaad White",
+    "snap_percentage": "39"
+  },
+  "Van Jefferson": {
+    "name": "Van Jefferson",
+    "snap_percentage": "80"
+  },
+  "Phillip Dorsett II": {
+    "name": "Phillip Dorsett II",
+    "snap_percentage": "50"
+  },
+  "Harrison Bryant": {
+    "name": "Harrison Bryant",
+    "snap_percentage": "48"
+  },
+  "Adam Trautman": {
+    "name": "Adam Trautman",
+    "snap_percentage": "59"
+  },
+  "Kendall Hinton": {
+    "name": "Kendall Hinton",
+    "snap_percentage": "63"
+  },
+  "Jamaal Williams": {
+    "name": "Jamaal Williams",
+    "snap_percentage": "40"
+  },
+  "Rondale Moore": {
+    "name": "Rondale Moore",
+    "snap_percentage": "82"
+  },
+  "Nelson Agholor": {
+    "name": "Nelson Agholor",
+    "snap_percentage": "50"
+  },
+  "Samaje Perine": {
+    "name": "Samaje Perine",
+    "snap_percentage": "40"
+  },
+  "Latavius Murray": {
+    "name": "Latavius Murray",
+    "snap_percentage": "52"
+  },
+  "Kendrick Bourne": {
+    "name": "Kendrick Bourne",
+    "snap_percentage": "44"
+  },
+  "Nico Collins": {
+    "name": "Nico Collins",
+    "snap_percentage": "71"
+  },
+  "Kyle Juszczyk": {
+    "name": "Kyle Juszczyk",
+    "snap_percentage": "51"
+  },
+  "Kyle Pitts": {
+    "name": "Kyle Pitts",
+    "snap_percentage": "72"
+  },
+  "Isaiah Hodgins": {
+    "name": "Isaiah Hodgins",
+    "snap_percentage": "73"
+  },
+  "Cam Akers": {
+    "name": "Cam Akers",
+    "snap_percentage": "48"
+  },
+  "Robbie Chosen": {
+    "name": "Robbie Chosen",
+    "snap_percentage": "54"
+  },
+  "Marquise Goodwin": {
+    "name": "Marquise Goodwin",
+    "snap_percentage": "51"
+  },
+  "Tre' McKitty": {
+    "name": "Tre' McKitty",
+    "snap_percentage": "46"
+  },
+  "Jack Stoll": {
+    "name": "Jack Stoll",
+    "snap_percentage": "61"
+  },
+  "Kylen Granson": {
+    "name": "Kylen Granson",
+    "snap_percentage": "45"
+  },
+  "Geoff Swaim": {
+    "name": "Geoff Swaim",
+    "snap_percentage": "54"
+  },
+  "Jordan Akins": {
+    "name": "Jordan Akins",
+    "snap_percentage": "44"
+  },
+  "Colby Parkinson": {
+    "name": "Colby Parkinson",
+    "snap_percentage": "43"
+  },
+  "D'Andre Swift": {
+    "name": "D'Andre Swift",
+    "snap_percentage": "42"
+  },
+  "Treylon Burks": {
+    "name": "Treylon Burks",
+    "snap_percentage": "58"
+  },
+  "Jonnu Smith": {
+    "name": "Jonnu Smith",
+    "snap_percentage": "52"
+  },
+  "Deshaun Watson": {
+    "name": "Deshaun Watson",
+    "snap_percentage": "99"
+  },
+  "Cordarrelle Patterson": {
+    "name": "Cordarrelle Patterson",
+    "snap_percentage": "47"
+  },
+  "Josh Oliver": {
+    "name": "Josh Oliver",
+    "snap_percentage": "49"
+  },
+  "Brock Purdy": {
+    "name": "Brock Purdy",
+    "snap_percentage": "63"
+  },
+  "Sam Darnold": {
+    "name": "Sam Darnold",
+    "snap_percentage": "100"
+  },
+  "Hunter Renfrow": {
+    "name": "Hunter Renfrow",
+    "snap_percentage": "61"
+  },
+  "Isaiah Likely": {
+    "name": "Isaiah Likely",
+    "snap_percentage": "42"
+  },
+  "Randall Cobb": {
+    "name": "Randall Cobb",
+    "snap_percentage": "44"
+  },
+  "Chigoziem Okonkwo": {
+    "name": "Chigoziem Okonkwo",
+    "snap_percentage": "38"
+  },
+  "Kenyan Drake": {
+    "name": "Kenyan Drake",
+    "snap_percentage": "46"
+  },
+  "Johnny Mundt": {
+    "name": "Johnny Mundt",
+    "snap_percentage": "41"
+  },
+  "Eric Saubert": {
+    "name": "Eric Saubert",
+    "snap_percentage": "38"
+  },
+  "Mitch Trubisky": {
+    "name": "Mitch Trubisky",
+    "snap_percentage": "82"
+  },
+  "Keelan Cole Sr.": {
+    "name": "Keelan Cole Sr.",
+    "snap_percentage": "45"
+  },
+  "Julio Jones": {
+    "name": "Julio Jones",
+    "snap_percentage": "48"
+  },
+  "Brian Robinson Jr.": {
+    "name": "Brian Robinson Jr.",
+    "snap_percentage": "43"
+  },
+  "Isiah Pacheco": {
+    "name": "Isiah Pacheco",
+    "snap_percentage": "31"
+  },
+  "Mitchell Wilcox": {
+    "name": "Mitchell Wilcox",
+    "snap_percentage": "57"
+  },
+  "D'Onta Foreman": {
+    "name": "D'Onta Foreman",
+    "snap_percentage": "37"
+  },
+  "Jaylen Warren": {
+    "name": "Jaylen Warren",
+    "snap_percentage": "31"
+  },
+  "Darren Waller": {
+    "name": "Darren Waller",
+    "snap_percentage": "64"
+  },
+  "Cooper Rush": {
+    "name": "Cooper Rush",
+    "snap_percentage": "66"
+  },
+  "Eno Benjamin": {
+    "name": "Eno Benjamin",
+    "snap_percentage": "36"
+  },
+  "Darrell Henderson Jr.": {
+    "name": "Darrell Henderson Jr.",
+    "snap_percentage": "53"
+  },
+  "Kenneth Gainwell": {
+    "name": "Kenneth Gainwell",
+    "snap_percentage": "28"
+  },
+  "Taysom Hill": {
+    "name": "Taysom Hill",
+    "snap_percentage": "33"
+  },
+  "Marquez Callaway": {
+    "name": "Marquez Callaway",
+    "snap_percentage": "51"
+  },
+  "Sammy Watkins": {
+    "name": "Sammy Watkins",
+    "snap_percentage": "56"
+  },
+  "Cameron Brate": {
+    "name": "Cameron Brate",
+    "snap_percentage": "51"
+  },
+  "Tre'Quan Smith": {
+    "name": "Tre'Quan Smith",
+    "snap_percentage": "51"
+  },
+  "Jake Ferguson": {
+    "name": "Jake Ferguson",
+    "snap_percentage": "42"
+  },
+  "Skyy Moore": {
+    "name": "Skyy Moore",
+    "snap_percentage": "29"
+  },
+  "Zach Pascal": {
+    "name": "Zach Pascal",
+    "snap_percentage": "30"
+  },
+  "Tutu Atwell": {
+    "name": "Tutu Atwell",
+    "snap_percentage": "43"
+  },
+  "John Bates": {
+    "name": "John Bates",
+    "snap_percentage": "45"
+  },
+  "Alec Ingold": {
+    "name": "Alec Ingold",
+    "snap_percentage": "41"
+  },
+  "Mecole Hardman Jr.": {
+    "name": "Mecole Hardman Jr.",
+    "snap_percentage": "53"
+  },
+  "Jelani Woods": {
+    "name": "Jelani Woods",
+    "snap_percentage": "37"
+  },
+  "Jarvis Landry": {
+    "name": "Jarvis Landry",
+    "snap_percentage": "56"
+  },
+  "Cam Sims": {
+    "name": "Cam Sims",
+    "snap_percentage": "33"
+  },
+  "Khalil Herbert": {
+    "name": "Khalil Herbert",
+    "snap_percentage": "38"
+  },
+  "Rashid Shaheed": {
+    "name": "Rashid Shaheed",
+    "snap_percentage": "42"
+  },
+  "Braxton Berrios": {
+    "name": "Braxton Berrios",
+    "snap_percentage": "28"
+  },
+  "Chase Edmonds": {
+    "name": "Chase Edmonds",
+    "snap_percentage": "35"
+  },
+  "Alexander Mattison": {
+    "name": "Alexander Mattison",
+    "snap_percentage": "25"
+  },
+  "Joe Flacco": {
+    "name": "Joe Flacco",
+    "snap_percentage": "81"
+  },
+  "Brandon Powell": {
+    "name": "Brandon Powell",
+    "snap_percentage": "28"
+  },
+  "Trenton Irwin": {
+    "name": "Trenton Irwin",
+    "snap_percentage": "46"
+  },
+  "Ray-Ray McCloud III": {
+    "name": "Ray-Ray McCloud III",
+    "snap_percentage": "26"
+  },
+  "Mike White": {
+    "name": "Mike White",
+    "snap_percentage": "98"
+  },
+  "Irv Smith Jr.": {
+    "name": "Irv Smith Jr.",
+    "snap_percentage": "53"
+  },
+  "MyCole Pruitt": {
+    "name": "MyCole Pruitt",
+    "snap_percentage": "46"
+  },
+  "Steven Sims Jr.": {
+    "name": "Steven Sims Jr.",
+    "snap_percentage": "34"
+  },
+  "Damiere Byrd": {
+    "name": "Damiere Byrd",
+    "snap_percentage": "38"
+  },
+  "Marcus Johnson": {
+    "name": "Marcus Johnson",
+    "snap_percentage": "53"
+  },
+  "Pharaoh Brown": {
+    "name": "Pharaoh Brown",
+    "snap_percentage": "46"
+  },
+  "James Robinson": {
+    "name": "James Robinson",
+    "snap_percentage": "37"
+  },
+  "Desmond Ridder": {
+    "name": "Desmond Ridder",
+    "snap_percentage": "99"
+  },
+  "James Cook": {
+    "name": "James Cook",
+    "snap_percentage": "25"
+  },
+  "O.J. Howard": {
+    "name": "O.J. Howard",
+    "snap_percentage": "40"
+  },
+  "Joshua Kelley": {
+    "name": "Joshua Kelley",
+    "snap_percentage": "32"
+  },
+  "Peyton Hendershot": {
+    "name": "Peyton Hendershot",
+    "snap_percentage": "33"
+  },
+  "Tyler Huntley": {
+    "name": "Tyler Huntley",
+    "snap_percentage": "89"
+  },
+  "Byron Pringle": {
+    "name": "Byron Pringle",
+    "snap_percentage": "46"
+  },
+  "Denzel Mims": {
+    "name": "Denzel Mims",
+    "snap_percentage": "45"
+  },
+  "Matt Breida": {
+    "name": "Matt Breida",
+    "snap_percentage": "23"
+  },
+  "Justice Hill": {
+    "name": "Justice Hill",
+    "snap_percentage": "27"
+  },
+  "Chuba Hubbard": {
+    "name": "Chuba Hubbard",
+    "snap_percentage": "32"
+  },
+  "P.J. Walker": {
+    "name": "P.J. Walker",
+    "snap_percentage": "73"
+  },
+  "Melvin Gordon III": {
+    "name": "Melvin Gordon III",
+    "snap_percentage": "41"
+  },
+  "Brevin Jordan": {
+    "name": "Brevin Jordan",
+    "snap_percentage": "44"
+  },
+  "Rex Burkhead": {
+    "name": "Rex Burkhead",
+    "snap_percentage": "27"
+  },
+  "Amari Rodgers": {
+    "name": "Amari Rodgers",
+    "snap_percentage": "29"
+  },
+  "Zack Moss": {
+    "name": "Zack Moss",
+    "snap_percentage": "29"
+  },
+  "Teagan Quitoriano": {
+    "name": "Teagan Quitoriano",
+    "snap_percentage": "57"
+  },
+  "Scott Miller": {
+    "name": "Scott Miller",
+    "snap_percentage": "28"
+  },
+  "Deon Jackson": {
+    "name": "Deon Jackson",
+    "snap_percentage": "31"
+  },
+  "David Sills V": {
+    "name": "David Sills V",
+    "snap_percentage": "51"
+  },
+  "Damien Harris": {
+    "name": "Damien Harris",
+    "snap_percentage": "35"
+  },
+  "Breece Hall": {
+    "name": "Breece Hall",
+    "snap_percentage": "49"
+  },
+  "Colt McCoy": {
+    "name": "Colt McCoy",
+    "snap_percentage": "82"
+  },
+  "Wan'Dale Robinson": {
+    "name": "Wan'Dale Robinson",
+    "snap_percentage": "56"
+  },
+  "Eric Tomlinson": {
+    "name": "Eric Tomlinson",
+    "snap_percentage": "37"
+  },
+  "Tom Kennedy": {
+    "name": "Tom Kennedy",
+    "snap_percentage": "49"
+  },
+  "KJ Hamler": {
+    "name": "KJ Hamler",
+    "snap_percentage": "48"
+  },
+  "Clyde Edwards-Helaire": {
+    "name": "Clyde Edwards-Helaire",
+    "snap_percentage": "32"
+  },
+  "Sam Ehlinger": {
+    "name": "Sam Ehlinger",
+    "snap_percentage": "88"
+  },
+  "J.D. McKissic": {
+    "name": "J.D. McKissic",
+    "snap_percentage": "40"
+  },
+  "Kenny Golladay": {
+    "name": "Kenny Golladay",
+    "snap_percentage": "54"
+  },
+  "Cedrick Wilson Jr.": {
+    "name": "Cedrick Wilson Jr.",
+    "snap_percentage": "27"
+  },
+  "Ko Kieft": {
+    "name": "Ko Kieft",
+    "snap_percentage": "21"
+  },
+  "JaMycal Hasty": {
+    "name": "JaMycal Hasty",
+    "snap_percentage": "23"
+  },
+  "Chris Myarick": {
+    "name": "Chris Myarick",
+    "snap_percentage": "32"
+  },
+  "Lawrence Cager": {
+    "name": "Lawrence Cager",
+    "snap_percentage": "50"
+  },
+  "Skylar Thompson": {
+    "name": "Skylar Thompson",
+    "snap_percentage": "45"
+  },
+  "Chris Manhertz": {
+    "name": "Chris Manhertz",
+    "snap_percentage": "40"
+  },
+  "Nyheim Hines": {
+    "name": "Nyheim Hines",
+    "snap_percentage": "19"
+  },
+  "Gunner Olszewski": {
+    "name": "Gunner Olszewski",
+    "snap_percentage": "24"
+  },
+  "Malik Willis": {
+    "name": "Malik Willis",
+    "snap_percentage": "51"
+  },
+  "Bailey Zappe": {
+    "name": "Bailey Zappe",
+    "snap_percentage": "86"
+  },
+  "Laviska Shenault Jr.": {
+    "name": "Laviska Shenault Jr.",
+    "snap_percentage": "26"
+  },
+  "Mark Ingram II": {
+    "name": "Mark Ingram II",
+    "snap_percentage": "31"
+  },
+  "Cole Turner": {
+    "name": "Cole Turner",
+    "snap_percentage": "42"
+  },
+  "J.K. Dobbins": {
+    "name": "J.K. Dobbins",
+    "snap_percentage": "42"
+  },
+  "Dontrell Hilliard": {
+    "name": "Dontrell Hilliard",
+    "snap_percentage": "28"
+  },
+  "Quintin Morris": {
+    "name": "Quintin Morris",
+    "snap_percentage": "32"
+  },
+  "Michael Bandy": {
+    "name": "Michael Bandy",
+    "snap_percentage": "35"
+  },
+  "Zonovan Knight": {
+    "name": "Zonovan Knight",
+    "snap_percentage": "42"
+  },
+  "Jakob Johnson": {
+    "name": "Jakob Johnson",
+    "snap_percentage": "27"
+  },
+  "Jameis Winston": {
+    "name": "Jameis Winston",
+    "snap_percentage": "99"
+  },
+  "DeeJay Dallas": {
+    "name": "DeeJay Dallas",
+    "snap_percentage": "21"
+  },
+  "Ashton Dulin": {
+    "name": "Ashton Dulin",
+    "snap_percentage": "28"
+  },
+  "Breshad Perriman": {
+    "name": "Breshad Perriman",
+    "snap_percentage": "36"
+  },
+  "Khalil Shakir": {
+    "name": "Khalil Shakir",
+    "snap_percentage": "30"
+  },
+  "Rashod Bateman": {
+    "name": "Rashod Bateman",
+    "snap_percentage": "49"
+  },
+  "Marcedes Lewis": {
+    "name": "Marcedes Lewis",
+    "snap_percentage": "46"
+  },
+  "Justin Jackson": {
+    "name": "Justin Jackson",
+    "snap_percentage": "23"
+  },
+  "Albert Okwuegbunam": {
+    "name": "Albert Okwuegbunam",
+    "snap_percentage": "45"
+  },
+  "Shane Zylstra": {
+    "name": "Shane Zylstra",
+    "snap_percentage": "30"
+  },
+  "Dare Ogunbowale": {
+    "name": "Dare Ogunbowale",
+    "snap_percentage": "22"
+  },
+  "James Proche II": {
+    "name": "James Proche II",
+    "snap_percentage": "24"
+  },
+  "Brett Rypien": {
+    "name": "Brett Rypien",
+    "snap_percentage": "61"
+  },
+  "Ty Johnson": {
+    "name": "Ty Johnson",
+    "snap_percentage": "27"
+  },
+  "Nick Vannett": {
+    "name": "Nick Vannett",
+    "snap_percentage": "37"
+  },
+  "Rashaad Penny": {
+    "name": "Rashaad Penny",
+    "snap_percentage": "57"
+  },
+  "Boston Scott": {
+    "name": "Boston Scott",
+    "snap_percentage": "17"
+  },
+  "Connor Heyward": {
+    "name": "Connor Heyward",
+    "snap_percentage": "16"
+  },
+  "Ameer Abdullah": {
+    "name": "Ameer Abdullah",
+    "snap_percentage": "18"
+  },
+  "Tanner Hudson": {
+    "name": "Tanner Hudson",
+    "snap_percentage": "40"
+  },
+  "Sterling Shepard": {
+    "name": "Sterling Shepard",
+    "snap_percentage": "80"
+  },
+  "Travis Homer": {
+    "name": "Travis Homer",
+    "snap_percentage": "26"
+  },
+  "Brandon Johnson": {
+    "name": "Brandon Johnson",
+    "snap_percentage": "50"
+  },
+  "Mike Thomas": {
+    "name": "Mike Thomas",
+    "snap_percentage": "55"
+  },
+  "Gus Edwards": {
+    "name": "Gus Edwards",
+    "snap_percentage": "27"
+  },
+  "KhaDarel Hodge": {
+    "name": "KhaDarel Hodge",
+    "snap_percentage": "20"
+  },
+  "Dee Eskridge": {
+    "name": "Dee Eskridge",
+    "snap_percentage": "31"
+  },
+  "Andrew Beck": {
+    "name": "Andrew Beck",
+    "snap_percentage": "26"
+  },
+  "Grant Calcaterra": {
+    "name": "Grant Calcaterra",
+    "snap_percentage": "36"
+  },
+  "Jarrett Stidham": {
+    "name": "Jarrett Stidham",
+    "snap_percentage": "78"
+  },
+  "Keith Smith": {
+    "name": "Keith Smith",
+    "snap_percentage": "24"
+  },
+  "Gardner Minshew II": {
+    "name": "Gardner Minshew II",
+    "snap_percentage": "47"
+  },
+  "Josiah Deguara": {
+    "name": "Josiah Deguara",
+    "snap_percentage": "25"
+  },
+  "Giovanni Ricci": {
+    "name": "Giovanni Ricci",
+    "snap_percentage": "23"
+  },
+  "Trent Taylor": {
+    "name": "Trent Taylor",
+    "snap_percentage": "15"
+  },
+  "N'Keal Harry": {
+    "name": "N'Keal Harry",
+    "snap_percentage": "39"
+  },
+  "Jody Fortson": {
+    "name": "Jody Fortson",
+    "snap_percentage": "22"
+  },
+  "Tyler Davis": {
+    "name": "Tyler Davis",
+    "snap_percentage": "21"
+  },
+  "Trace McSorley": {
+    "name": "Trace McSorley",
+    "snap_percentage": "44"
+  },
+  "Hassan Haskins": {
+    "name": "Hassan Haskins",
+    "snap_percentage": "18"
+  },
+  "Velus Jones Jr.": {
+    "name": "Velus Jones Jr.",
+    "snap_percentage": "24"
+  },
+  "Armani Rogers": {
+    "name": "Armani Rogers",
+    "snap_percentage": "23"
+  },
+  "Donald Parham Jr.": {
+    "name": "Donald Parham Jr.",
+    "snap_percentage": "33"
+  },
+  "Kadarius Toney": {
+    "name": "Kadarius Toney",
+    "snap_percentage": "24"
+  },
+  "Javonte Williams": {
+    "name": "Javonte Williams",
+    "snap_percentage": "54"
+  },
+  "Teddy Bridgewater": {
+    "name": "Teddy Bridgewater",
+    "snap_percentage": "44"
+  },
+  "Jamal Agnew": {
+    "name": "Jamal Agnew",
+    "snap_percentage": "14"
+  },
+  "Kyren Williams": {
+    "name": "Kyren Williams",
+    "snap_percentage": "30"
+  },
+  "Avery Williams": {
+    "name": "Avery Williams",
+    "snap_percentage": "15"
+  },
+  "Joshua Dobbs": {
+    "name": "Joshua Dobbs",
+    "snap_percentage": "99"
+  },
+  "Michael Thomas": {
+    "name": "Michael Thomas",
+    "snap_percentage": "69"
+  },
+  "C.J. Ham": {
+    "name": "C.J. Ham",
+    "snap_percentage": "17"
+  },
+  "Dan Arnold": {
+    "name": "Dan Arnold",
+    "snap_percentage": "18"
+  },
+  "Ryan Griffin": {
+    "name": "Ryan Griffin",
+    "snap_percentage": "22"
+  },
+  "Kevin White": {
+    "name": "Kevin White",
+    "snap_percentage": "36"
+  },
+  "Tyler Kroft": {
+    "name": "Tyler Kroft",
+    "snap_percentage": "33"
+  },
+  "Michael Woods II": {
+    "name": "Michael Woods II",
+    "snap_percentage": "27"
+  },
+  "River Cracraft": {
+    "name": "River Cracraft",
+    "snap_percentage": "25"
+  },
+  "Kyle Allen": {
+    "name": "Kyle Allen",
+    "snap_percentage": "100"
+  },
+  "Sony Michel": {
+    "name": "Sony Michel",
+    "snap_percentage": "18"
+  },
+  "Lil'Jordan Humphrey": {
+    "name": "Lil'Jordan Humphrey",
+    "snap_percentage": "50"
+  },
+  "Brycen Hopkins": {
+    "name": "Brycen Hopkins",
+    "snap_percentage": "30"
+  },
+  "Dyami Brown": {
+    "name": "Dyami Brown",
+    "snap_percentage": "20"
+  },
+  "Laquon Treadwell": {
+    "name": "Laquon Treadwell",
+    "snap_percentage": "57"
+  },
+  "Caleb Huntley": {
+    "name": "Caleb Huntley",
+    "snap_percentage": "17"
+  },
+  "Mike Boone": {
+    "name": "Mike Boone",
+    "snap_percentage": "23"
+  },
+  "John Wolford": {
+    "name": "John Wolford",
+    "snap_percentage": "95"
+  },
+  "Anthony Firkser": {
+    "name": "Anthony Firkser",
+    "snap_percentage": "22"
+  },
+  "James Mitchell": {
+    "name": "James Mitchell",
+    "snap_percentage": "22"
+  },
+  "Jeff Smith": {
+    "name": "Jeff Smith",
+    "snap_percentage": "26"
+  },
+  "Cody Hollister": {
+    "name": "Cody Hollister",
+    "snap_percentage": "31"
+  },
+  "DeSean Jackson": {
+    "name": "DeSean Jackson",
+    "snap_percentage": "25"
+  },
+  "David Blough": {
+    "name": "David Blough",
+    "snap_percentage": "87"
+  },
+  "Freddie Swain": {
+    "name": "Freddie Swain",
+    "snap_percentage": "54"
+  },
+  "Reggie Gilliam": {
+    "name": "Reggie Gilliam",
+    "snap_percentage": "21"
+  },
+  "Royce Freeman": {
+    "name": "Royce Freeman",
+    "snap_percentage": "40"
+  },
+  "Craig Reynolds": {
+    "name": "Craig Reynolds",
+    "snap_percentage": "22"
+  },
+  "Keaontay Ingram": {
+    "name": "Keaontay Ingram",
+    "snap_percentage": "15"
+  },
+  "Stephen Anderson": {
+    "name": "Stephen Anderson",
+    "snap_percentage": "15"
+  },
+  "Tim Jones": {
+    "name": "Tim Jones",
+    "snap_percentage": "22"
+  },
+  "Anthony Brown": {
+    "name": "Anthony Brown",
+    "snap_percentage": "73"
+  },
+  "Jonathan Williams": {
+    "name": "Jonathan Williams",
+    "snap_percentage": "17"
+  },
+  "Darrel Williams": {
+    "name": "Darrel Williams",
+    "snap_percentage": "25"
+  },
+  "Keith Kirkwood": {
+    "name": "Keith Kirkwood",
+    "snap_percentage": "48"
+  },
+  "Jeff Driskel": {
+    "name": "Jeff Driskel",
+    "snap_percentage": "21"
+  },
+  "Trevon Wesco": {
+    "name": "Trevon Wesco",
+    "snap_percentage": "25"
+  },
+  "Jamison Crowder": {
+    "name": "Jamison Crowder",
+    "snap_percentage": "33"
+  },
+  "Andre Baccellia": {
+    "name": "Andre Baccellia",
+    "snap_percentage": "25"
+  },
+  "Bryce Perkins": {
+    "name": "Bryce Perkins",
+    "snap_percentage": "29"
+  },
+  "Gary Brightwell": {
+    "name": "Gary Brightwell",
+    "snap_percentage": "12"
+  },
+  "Malcolm Brown": {
+    "name": "Malcolm Brown",
+    "snap_percentage": "21"
+  },
+  "Trey Lance": {
+    "name": "Trey Lance",
+    "snap_percentage": "58"
+  },
+  "Dax Milne": {
+    "name": "Dax Milne",
+    "snap_percentage": "9"
+  },
+  "Chris Conley": {
+    "name": "Chris Conley",
+    "snap_percentage": "33"
+  },
+  "Jalen Reagor": {
+    "name": "Jalen Reagor",
+    "snap_percentage": "9"
+  },
+  "Charlie Woerner": {
+    "name": "Charlie Woerner",
+    "snap_percentage": "26"
+  },
+  "Jordan Mason": {
+    "name": "Jordan Mason",
+    "snap_percentage": "14"
+  },
+  "Nick Foles": {
+    "name": "Nick Foles",
+    "snap_percentage": "74"
+  },
+  "Brandon Bolden": {
+    "name": "Brandon Bolden",
+    "snap_percentage": "14"
+  },
+  "Miles Boykin": {
+    "name": "Miles Boykin",
+    "snap_percentage": "15"
+  },
+  "Devin Asiasi": {
+    "name": "Devin Asiasi",
+    "snap_percentage": "23"
+  },
+  "Elijah Mitchell": {
+    "name": "Elijah Mitchell",
+    "snap_percentage": "24"
+  },
+  "Raheem Blackshear": {
+    "name": "Raheem Blackshear",
+    "snap_percentage": "12"
+  },
+  "Anthony Schwartz": {
+    "name": "Anthony Schwartz",
+    "snap_percentage": "16"
+  },
+  "Jake Kumerow": {
+    "name": "Jake Kumerow",
+    "snap_percentage": "22"
+  },
+  "Jameson Williams": {
+    "name": "Jameson Williams",
+    "snap_percentage": "19"
+  },
+  "Trestan Ebner": {
+    "name": "Trestan Ebner",
+    "snap_percentage": "13"
+  },
+  "Malik Davis": {
+    "name": "Malik Davis",
+    "snap_percentage": "18"
+  },
+  "Montrell Washington": {
+    "name": "Montrell Washington",
+    "snap_percentage": "8"
+  },
+  "Mike Strachan": {
+    "name": "Mike Strachan",
+    "snap_percentage": "22"
+  },
+  "Stephen Sullivan": {
+    "name": "Stephen Sullivan",
+    "snap_percentage": "16"
+  },
+  "Tyrie Cleveland": {
+    "name": "Tyrie Cleveland",
+    "snap_percentage": "26"
+  },
+  "Dareke Young": {
+    "name": "Dareke Young",
+    "snap_percentage": "16"
+  },
+  "Ross Dwelley": {
+    "name": "Ross Dwelley",
+    "snap_percentage": "24"
+  },
+  "Demetric Felton Jr.": {
+    "name": "Demetric Felton Jr.",
+    "snap_percentage": "21"
+  },
+  "Zander Horvath": {
+    "name": "Zander Horvath",
+    "snap_percentage": "13"
+  },
+  "Samori Toure": {
+    "name": "Samori Toure",
+    "snap_percentage": "28"
+  },
+  "Corey Clement": {
+    "name": "Corey Clement",
+    "snap_percentage": "27"
+  },
+  "Deven Thompkins": {
+    "name": "Deven Thompkins",
+    "snap_percentage": "25"
+  },
+  "Tyrion Davis-Price": {
+    "name": "Tyrion Davis-Price",
+    "snap_percentage": "21"
+  },
+  "Adam Prentice": {
+    "name": "Adam Prentice",
+    "snap_percentage": "19"
+  },
+  "Bryan Edwards": {
+    "name": "Bryan Edwards",
+    "snap_percentage": "25"
+  },
+  "Phillip Lindsay": {
+    "name": "Phillip Lindsay",
+    "snap_percentage": "30"
+  },
+  "Sam Howell": {
+    "name": "Sam Howell",
+    "snap_percentage": "100"
+  },
+  "Marlon Mack": {
+    "name": "Marlon Mack",
+    "snap_percentage": "20"
+  },
+  "Racey McMath": {
+    "name": "Racey McMath",
+    "snap_percentage": "24"
+  },
+  "Kyle Philips": {
+    "name": "Kyle Philips",
+    "snap_percentage": "27"
+  },
+  "Davis Webb": {
+    "name": "Davis Webb",
+    "snap_percentage": "100"
+  },
+  "Stanley Morgan Jr.": {
+    "name": "Stanley Morgan Jr.",
+    "snap_percentage": "10"
+  },
+  "Jalen Virgil": {
+    "name": "Jalen Virgil",
+    "snap_percentage": "14"
+  },
+  "KaVontae Turpin": {
+    "name": "KaVontae Turpin",
+    "snap_percentage": "6"
+  },
+  "Tony Jones Jr.": {
+    "name": "Tony Jones Jr.",
+    "snap_percentage": "33"
+  },
+  "Tylan Wallace": {
+    "name": "Tylan Wallace",
+    "snap_percentage": "16"
+  },
+  "T.Y. Hilton": {
+    "name": "T.Y. Hilton",
+    "snap_percentage": "27"
+  },
+  "Trevor Siemian": {
+    "name": "Trevor Siemian",
+    "snap_percentage": "44"
+  },
+  "Jaelon Darden": {
+    "name": "Jaelon Darden",
+    "snap_percentage": "11"
+  },
+  "Dennis Houston": {
+    "name": "Dennis Houston",
+    "snap_percentage": "46"
+  },
+  "Andy Isabella": {
+    "name": "Andy Isabella",
+    "snap_percentage": "23"
+  },
+  "Jalen Nailor": {
+    "name": "Jalen Nailor",
+    "snap_percentage": "16"
+  },
+  "Derek Watt": {
+    "name": "Derek Watt",
+    "snap_percentage": "7"
+  },
+  "Cade Johnson": {
+    "name": "Cade Johnson",
+    "snap_percentage": "39"
+  },
+  "Nick Mullens": {
+    "name": "Nick Mullens",
+    "snap_percentage": "21"
+  },
+  "Kevin Harris": {
+    "name": "Kevin Harris",
+    "snap_percentage": "17"
+  },
+  "Kevin Rader": {
+    "name": "Kevin Rader",
+    "snap_percentage": "14"
+  },
+  "Isaiah Spiller": {
+    "name": "Isaiah Spiller",
+    "snap_percentage": "16"
+  },
+  "David Johnson": {
+    "name": "David Johnson",
+    "snap_percentage": "22"
+  },
+  "Michael Burton": {
+    "name": "Michael Burton",
+    "snap_percentage": "6"
+  },
+  "Ihmir Smith-Marsette": {
+    "name": "Ihmir Smith-Marsette",
+    "snap_percentage": "27"
+  },
+  "Khari Blasingame": {
+    "name": "Khari Blasingame",
+    "snap_percentage": "16"
+  },
+  "Quintez Cephus": {
+    "name": "Quintez Cephus",
+    "snap_percentage": "23"
+  },
+  "Maxx Williams": {
+    "name": "Maxx Williams",
+    "snap_percentage": "22"
+  },
+  "Darrynton Evans": {
+    "name": "Darrynton Evans",
+    "snap_percentage": "28"
+  },
+  "Pierre Strong Jr.": {
+    "name": "Pierre Strong Jr.",
+    "snap_percentage": "12"
+  },
+  "Nathan Peterman": {
+    "name": "Nathan Peterman",
+    "snap_percentage": "25"
+  },
+  "Jalen Tolbert": {
+    "name": "Jalen Tolbert",
+    "snap_percentage": "20"
+  },
+  "Kyle Rudolph": {
+    "name": "Kyle Rudolph",
+    "snap_percentage": "13"
+  },
+  "Mason Schreck": {
+    "name": "Mason Schreck",
+    "snap_percentage": "37"
+  },
+  "Feleipe Franks": {
+    "name": "Feleipe Franks",
+    "snap_percentage": "14"
+  },
+  "Danny Gray": {
+    "name": "Danny Gray",
+    "snap_percentage": "9"
+  },
+  "Jordan Wilkins": {
+    "name": "Jordan Wilkins",
+    "snap_percentage": "17"
+  },
+  "Lance McCutcheon": {
+    "name": "Lance McCutcheon",
+    "snap_percentage": "24"
+  },
+  "Myles Gaskin": {
+    "name": "Myles Gaskin",
+    "snap_percentage": "27"
+  },
+  "Jesper Horsted": {
+    "name": "Jesper Horsted",
+    "snap_percentage": "32"
+  },
+  "Drew Sample": {
+    "name": "Drew Sample",
+    "snap_percentage": "23"
+  },
+  "Benny Snell Jr.": {
+    "name": "Benny Snell Jr.",
+    "snap_percentage": "21"
+  },
+  "Stone Smartt": {
+    "name": "Stone Smartt",
+    "snap_percentage": "18"
+  },
+  "Hunter Long": {
+    "name": "Hunter Long",
+    "snap_percentage": "26"
+  },
+  "Ke'Shawn Vaughn": {
+    "name": "Ke'Shawn Vaughn",
+    "snap_percentage": "8"
+  },
+  "Jeremy Ruckert": {
+    "name": "Jeremy Ruckert",
+    "snap_percentage": "29"
+  },
+  "Trayveon Williams": {
+    "name": "Trayveon Williams",
+    "snap_percentage": "10"
+  },
+  "Ronald Jones II": {
+    "name": "Ronald Jones II",
+    "snap_percentage": "11"
+  },
+  "Juwann Winfree": {
+    "name": "Juwann Winfree",
+    "snap_percentage": "18"
+  },
+  "D'Ernest Johnson": {
+    "name": "D'Ernest Johnson",
+    "snap_percentage": "8"
+  },
+  "Salvon Ahmed": {
+    "name": "Salvon Ahmed",
+    "snap_percentage": "9"
+  },
+  "Zamir White": {
+    "name": "Zamir White",
+    "snap_percentage": "5"
+  },
+  "Mike Davis": {
+    "name": "Mike Davis",
+    "snap_percentage": "11"
+  },
+  "Charlie Kolar": {
+    "name": "Charlie Kolar",
+    "snap_percentage": "44"
+  },
+  "Snoop Conner": {
+    "name": "Snoop Conner",
+    "snap_percentage": "10"
+  },
+  "Jaret Patterson": {
+    "name": "Jaret Patterson",
+    "snap_percentage": "50"
+  },
+  "Patrick Taylor Jr.": {
+    "name": "Patrick Taylor Jr.",
+    "snap_percentage": "12"
+  },
+  "Tevin Coleman": {
+    "name": "Tevin Coleman",
+    "snap_percentage": "24"
+  },
+  "Luke Farrell": {
+    "name": "Luke Farrell",
+    "snap_percentage": "13"
+  },
+  "Chris Streveler": {
+    "name": "Chris Streveler",
+    "snap_percentage": "53"
+  },
+  "Spencer Brown": {
+    "name": "Spencer Brown",
+    "snap_percentage": "24"
+  },
+  "Cole Beasley": {
+    "name": "Cole Beasley",
+    "snap_percentage": "11"
+  },
+  "Richard Rodgers": {
+    "name": "Richard Rodgers",
+    "snap_percentage": "15"
+  },
+  "Tommy Sweeney": {
+    "name": "Tommy Sweeney",
+    "snap_percentage": "20"
+  },
+  "Ben Ellefson": {
+    "name": "Ben Ellefson",
+    "snap_percentage": "22"
+  },
+  "Chase Daniel": {
+    "name": "Chase Daniel",
+    "snap_percentage": "15"
+  },
+  "Julius Chestnut": {
+    "name": "Julius Chestnut",
+    "snap_percentage": "12"
+  },
+  "Sean McKeon": {
+    "name": "Sean McKeon",
+    "snap_percentage": "13"
+  },
+  "Frank Darby": {
+    "name": "Frank Darby",
+    "snap_percentage": "41"
+  },
+  "C.J. Beathard": {
+    "name": "C.J. Beathard",
+    "snap_percentage": "10"
+  },
+  "Braylon Sanders": {
+    "name": "Braylon Sanders",
+    "snap_percentage": "21"
+  },
+  "Blake Bell": {
+    "name": "Blake Bell",
+    "snap_percentage": "22"
+  },
+  "Dwayne Washington": {
+    "name": "Dwayne Washington",
+    "snap_percentage": "7"
+  },
+  "Penny Hart": {
+    "name": "Penny Hart",
+    "snap_percentage": "12"
+  },
+  "Tyron Johnson": {
+    "name": "Tyron Johnson",
+    "snap_percentage": "19"
+  },
+  "Jordan Love": {
+    "name": "Jordan Love",
+    "snap_percentage": "11"
+  },
+  "Giovani Bernard": {
+    "name": "Giovani Bernard",
+    "snap_percentage": "45"
+  },
+  "Pharoh Cooper": {
+    "name": "Pharoh Cooper",
+    "snap_percentage": "12"
+  },
+  "Simi Fehoko": {
+    "name": "Simi Fehoko",
+    "snap_percentage": "13"
+  },
+  "Tyrod Taylor": {
+    "name": "Tyrod Taylor",
+    "snap_percentage": "19"
+  },
+  "Case Keenum": {
+    "name": "Case Keenum",
+    "snap_percentage": "19"
+  },
+  "Deonte Harty": {
+    "name": "Deonte Harty",
+    "snap_percentage": "9"
+  },
+  "Dezmon Patmon": {
+    "name": "Dezmon Patmon",
+    "snap_percentage": "48"
+  },
+  "Ronnie Rivers": {
+    "name": "Ronnie Rivers",
+    "snap_percentage": "20"
+  },
+  "Austin Trammell": {
+    "name": "Austin Trammell",
+    "snap_percentage": "17"
+  },
+  "Ty Montgomery": {
+    "name": "Ty Montgomery",
+    "snap_percentage": "37"
+  },
+  "Jalen Guyton": {
+    "name": "Jalen Guyton",
+    "snap_percentage": "16"
+  },
+  "Anthony McFarland Jr.": {
+    "name": "Anthony McFarland Jr.",
+    "snap_percentage": "30"
+  },
+  "Larry Rountree III": {
+    "name": "Larry Rountree III",
+    "snap_percentage": "16"
+  },
+  "Britain Covey": {
+    "name": "Britain Covey",
+    "snap_percentage": "7"
+  },
+  "Chad Henne": {
+    "name": "Chad Henne",
+    "snap_percentage": "9"
+  },
+  "Josh Gordon": {
+    "name": "Josh Gordon",
+    "snap_percentage": "32"
+  },
+  "Jason Moore Jr.": {
+    "name": "Jason Moore Jr.",
+    "snap_percentage": "25"
+  },
+  "Kene Nwangwu": {
+    "name": "Kene Nwangwu",
+    "snap_percentage": "10"
+  },
+  "J.J. Taylor": {
+    "name": "J.J. Taylor",
+    "snap_percentage": "27"
+  },
+  "Kirk Merritt": {
+    "name": "Kirk Merritt",
+    "snap_percentage": "25"
+  },
+  "Chris Evans": {
+    "name": "Chris Evans",
+    "snap_percentage": "4"
+  },
+  "Nick Boyle": {
+    "name": "Nick Boyle",
+    "snap_percentage": "13"
+  },
+  "Brandon Allen": {
+    "name": "Brandon Allen",
+    "snap_percentage": "21"
+  },
+  "C.J. Board": {
+    "name": "C.J. Board",
+    "snap_percentage": "29"
+  },
+  "DJ Turner": {
+    "name": "DJ Turner",
+    "snap_percentage": "7"
+  },
+  "Brian Hoyer": {
+    "name": "Brian Hoyer",
+    "snap_percentage": "26"
+  },
+  "Jalen Camp": {
+    "name": "Jalen Camp",
+    "snap_percentage": "25"
+  },
+  "Tanner Conner": {
+    "name": "Tanner Conner",
+    "snap_percentage": "10"
+  },
+  "Blaine Gabbert": {
+    "name": "Blaine Gabbert",
+    "snap_percentage": "25"
+  },
+  "Jerome Ford": {
+    "name": "Jerome Ford",
+    "snap_percentage": "12"
+  },
+  "Tim Boyle": {
+    "name": "Tim Boyle",
+    "snap_percentage": "25"
+  },
+  "Kendall Blanton": {
+    "name": "Kendall Blanton",
+    "snap_percentage": "11"
+  },
+  "Trinity Benson": {
+    "name": "Trinity Benson",
+    "snap_percentage": "21"
+  },
+  "Mason Kinsey": {
+    "name": "Mason Kinsey",
+    "snap_percentage": "22"
+  },
+  "Tyree Jackson": {
+    "name": "Tyree Jackson",
+    "snap_percentage": "9"
+  },
+  "Ty Chandler": {
+    "name": "Ty Chandler",
+    "snap_percentage": "17"
+  },
+  "Daylen Baldwin": {
+    "name": "Daylen Baldwin",
+    "snap_percentage": "18"
+  },
+  "Josh Johnson": {
+    "name": "Josh Johnson",
+    "snap_percentage": "17"
+  },
+  "J.P. Holtz": {
+    "name": "J.P. Holtz",
+    "snap_percentage": "18"
+  },
+  "Tanner Gentry": {
+    "name": "Tanner Gentry",
+    "snap_percentage": "20"
+  },
+  "James Washington": {
+    "name": "James Washington",
+    "snap_percentage": "15"
+  },
+  "Devine Ozigbo": {
+    "name": "Devine Ozigbo",
+    "snap_percentage": "5"
+  },
+  "Noah Togiai": {
+    "name": "Noah Togiai",
+    "snap_percentage": "14"
+  },
+  "John Brown": {
+    "name": "John Brown",
+    "snap_percentage": "8"
+  },
+  "Damien Williams": {
+    "name": "Damien Williams",
+    "snap_percentage": "13"
+  },
+  "Nsimba Webster": {
+    "name": "Nsimba Webster",
+    "snap_percentage": "17"
+  },
+  "Cody White": {
+    "name": "Cody White",
+    "snap_percentage": "14"
+  },
+  "Kyle Trask": {
+    "name": "Kyle Trask",
+    "snap_percentage": "18"
+  },
+  "Jonathan Ward": {
+    "name": "Jonathan Ward",
+    "snap_percentage": "7"
+  },
+  "Erik Ezukanma": {
+    "name": "Erik Ezukanma",
+    "snap_percentage": "15"
+  },
+  "Nate Sudfeld": {
+    "name": "Nate Sudfeld",
+    "snap_percentage": "6"
+  },
+  "Tyler Badie": {
+    "name": "Tyler Badie",
+    "snap_percentage": "14"
+  },
+  "Jacob Eason": {
+    "name": "Jacob Eason",
+    "snap_percentage": "16"
+  },
+  "Josh Ali": {
+    "name": "Josh Ali",
+    "snap_percentage": "10"
+  },
+  "Marcus Kemp": {
+    "name": "Marcus Kemp",
+    "snap_percentage": "9"
+  },
+  "Jake Tonges": {
+    "name": "Jake Tonges",
+    "snap_percentage": "10"
+  },
+  "Duke Johnson Jr.": {
+    "name": "Duke Johnson Jr.",
+    "snap_percentage": "7"
+  },
+  "Godwin Igwebuike": {
+    "name": "Godwin Igwebuike",
+    "snap_percentage": "4"
+  },
+  "Trey Sermon": {
+    "name": "Trey Sermon",
+    "snap_percentage": "6"
+  },
+  "Matthew Slater": {
+    "name": "Matthew Slater",
+    "snap_percentage": "3"
+  },
+  "Binjimen Victor": {
+    "name": "Binjimen Victor",
+    "snap_percentage": "6"
+  },
+  "Miller Forristall": {
+    "name": "Miller Forristall",
+    "snap_percentage": "6"
+  },
+  "Maurice Alexander": {
+    "name": "Maurice Alexander",
+    "snap_percentage": "2"
+  },
+  "Jordan Howard": {
+    "name": "Jordan Howard",
+    "snap_percentage": "6"
+  },
+  "Reggie Bonnafon": {
+    "name": "Reggie Bonnafon",
+    "snap_percentage": "5"
+  },
+  "Tyler Mabry": {
+    "name": "Tyler Mabry",
+    "snap_percentage": "4"
+  },
+  "Kenny Yeboah": {
+    "name": "Kenny Yeboah",
+    "snap_percentage": "2"
+  },
+  "Keke Coutee": {
+    "name": "Keke Coutee",
+    "snap_percentage": "2"
+  },
+  "Ty'Son Williams": {
+    "name": "Ty'Son Williams",
+    "snap_percentage": "4"
+  },
+  "Stanley Berryhill III": {
+    "name": "Stanley Berryhill III",
+    "snap_percentage": "3"
+  },
+  "Kylin Hill": {
+    "name": "Kylin Hill",
+    "snap_percentage": "1"
+  },
+  "Rico Dowdle": {
+    "name": "Rico Dowdle",
+    "snap_percentage": "2"
+  },
+  "Nikola Kalinic": {
+    "name": "Nikola Kalinic",
+    "snap_percentage": "2"
+  }
+}

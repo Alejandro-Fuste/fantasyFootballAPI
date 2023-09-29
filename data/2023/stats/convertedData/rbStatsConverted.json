@@ -1,0 +1,1202 @@
+{
+ "Josh Jacobs": {
+  "name": "Josh Jacobs",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "340",
+   "rushing_yards": "1,653",
+   "touchdowns": "12",
+   "yards_per_game": "97.2",
+   "first_downs": "93"
+  }
+ },
+ "Derrick Henry": {
+  "name": "Derrick Henry",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "349",
+   "rushing_yards": "1,538",
+   "touchdowns": "13",
+   "yards_per_game": "96.1",
+   "first_downs": "65"
+  }
+ },
+ "Nick Chubb": {
+  "name": "Nick Chubb",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "302",
+   "rushing_yards": "1,525",
+   "touchdowns": "12",
+   "yards_per_game": "89.7",
+   "first_downs": "69"
+  }
+ },
+ "Saquon Barkley": {
+  "name": "Saquon Barkley",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "295",
+   "rushing_yards": "1,312",
+   "touchdowns": "10",
+   "yards_per_game": "82.0",
+   "first_downs": "62"
+  }
+ },
+ "Miles Sanders": {
+  "name": "Miles Sanders",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "259",
+   "rushing_yards": "1,269",
+   "touchdowns": "11",
+   "yards_per_game": "74.6",
+   "first_downs": "62"
+  }
+ },
+ "Dalvin Cook": {
+  "name": "Dalvin Cook",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "264",
+   "rushing_yards": "1,173",
+   "touchdowns": "8",
+   "yards_per_game": "69.0",
+   "first_downs": "50"
+  }
+ },
+ "Justin Fields": {
+  "name": "Justin Fields",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "160",
+   "rushing_yards": "1,143",
+   "touchdowns": "8",
+   "yards_per_game": "76.2",
+   "first_downs": "65"
+  }
+ },
+ "Christian McCaffrey": {
+  "name": "Christian McCaffrey",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "244",
+   "rushing_yards": "1,139",
+   "touchdowns": "8",
+   "yards_per_game": "67.0",
+   "first_downs": "59"
+  }
+ },
+ "Travis Etienne Jr.": {
+  "name": "Travis Etienne Jr.",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "220",
+   "rushing_yards": "1,125",
+   "touchdowns": "5",
+   "yards_per_game": "66.2",
+   "first_downs": "52"
+  }
+ },
+ "Aaron Jones": {
+  "name": "Aaron Jones",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "213",
+   "rushing_yards": "1,121",
+   "touchdowns": "2",
+   "yards_per_game": "65.9",
+   "first_downs": "54"
+  }
+ },
+ "Jamaal Williams": {
+  "name": "Jamaal Williams",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "262",
+   "rushing_yards": "1,066",
+   "touchdowns": "17",
+   "yards_per_game": "62.7",
+   "first_downs": "65"
+  }
+ },
+ "Kenneth Walker III": {
+  "name": "Kenneth Walker III",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "228",
+   "rushing_yards": "1,050",
+   "touchdowns": "9",
+   "yards_per_game": "70.0",
+   "first_downs": "51"
+  }
+ },
+ "Rhamondre Stevenson": {
+  "name": "Rhamondre Stevenson",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "210",
+   "rushing_yards": "1,040",
+   "touchdowns": "5",
+   "yards_per_game": "61.2",
+   "first_downs": "49"
+  }
+ },
+ "Tyler Allgeier": {
+  "name": "Tyler Allgeier",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "210",
+   "rushing_yards": "1,035",
+   "touchdowns": "3",
+   "yards_per_game": "64.7",
+   "first_downs": "53"
+  }
+ },
+ "Najee Harris": {
+  "name": "Najee Harris",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "272",
+   "rushing_yards": "1,034",
+   "touchdowns": "7",
+   "yards_per_game": "60.8",
+   "first_downs": "45"
+  }
+ },
+ "Tony Pollard": {
+  "name": "Tony Pollard",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "193",
+   "rushing_yards": "1,007",
+   "touchdowns": "9",
+   "yards_per_game": "62.9",
+   "first_downs": "46"
+  }
+ },
+ "Dameon Pierce": {
+  "name": "Dameon Pierce",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "220",
+   "rushing_yards": "939",
+   "touchdowns": "4",
+   "yards_per_game": "72.2",
+   "first_downs": "54"
+  }
+ },
+ "Austin Ekeler": {
+  "name": "Austin Ekeler",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "204",
+   "rushing_yards": "915",
+   "touchdowns": "13",
+   "yards_per_game": "53.8",
+   "first_downs": "46"
+  }
+ },
+ "D'Onta Foreman": {
+  "name": "D'Onta Foreman",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "203",
+   "rushing_yards": "914",
+   "touchdowns": "5",
+   "yards_per_game": "53.8",
+   "first_downs": "45"
+  }
+ },
+ "Alvin Kamara": {
+  "name": "Alvin Kamara",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "223",
+   "rushing_yards": "897",
+   "touchdowns": "2",
+   "yards_per_game": "59.8",
+   "first_downs": "40"
+  }
+ },
+ "Raheem Mostert": {
+  "name": "Raheem Mostert",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "181",
+   "rushing_yards": "891",
+   "touchdowns": "3",
+   "yards_per_game": "55.7",
+   "first_downs": "44"
+  }
+ },
+ "Ezekiel Elliott": {
+  "name": "Ezekiel Elliott",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "231",
+   "rushing_yards": "876",
+   "touchdowns": "12",
+   "yards_per_game": "58.4",
+   "first_downs": "52"
+  }
+ },
+ "Jonathan Taylor": {
+  "name": "Jonathan Taylor",
+  "stats": {
+   "position": "RB",
+   "games_played": "11",
+   "attempts": "192",
+   "rushing_yards": "861",
+   "touchdowns": "4",
+   "yards_per_game": "78.3",
+   "first_downs": "39"
+  }
+ },
+ "Jeff Wilson Jr.": {
+  "name": "Jeff Wilson Jr.",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "176",
+   "rushing_yards": "860",
+   "touchdowns": "5",
+   "yards_per_game": "53.8",
+   "first_downs": "44"
+  }
+ },
+ "Isiah Pacheco": {
+  "name": "Isiah Pacheco",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "170",
+   "rushing_yards": "830",
+   "touchdowns": "5",
+   "yards_per_game": "48.8",
+   "first_downs": "37"
+  }
+ },
+ "Devin Singletary": {
+  "name": "Devin Singletary",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "177",
+   "rushing_yards": "819",
+   "touchdowns": "5",
+   "yards_per_game": "51.2",
+   "first_downs": "42"
+  }
+ },
+ "Joe Mixon": {
+  "name": "Joe Mixon",
+  "stats": {
+   "position": "RB",
+   "games_played": "14",
+   "attempts": "210",
+   "rushing_yards": "814",
+   "touchdowns": "7",
+   "yards_per_game": "58.1",
+   "first_downs": "47"
+  }
+ },
+ "David Montgomery": {
+  "name": "David Montgomery",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "201",
+   "rushing_yards": "801",
+   "touchdowns": "5",
+   "yards_per_game": "50.1",
+   "first_downs": "41"
+  }
+ },
+ "Brian Robinson Jr.": {
+  "name": "Brian Robinson Jr.",
+  "stats": {
+   "position": "RB",
+   "games_played": "12",
+   "attempts": "205",
+   "rushing_yards": "797",
+   "touchdowns": "2",
+   "yards_per_game": "66.4",
+   "first_downs": "49"
+  }
+ },
+ "Cam Akers": {
+  "name": "Cam Akers",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "188",
+   "rushing_yards": "786",
+   "touchdowns": "7",
+   "yards_per_game": "52.4",
+   "first_downs": "39"
+  }
+ },
+ "James Conner": {
+  "name": "James Conner",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "183",
+   "rushing_yards": "782",
+   "touchdowns": "7",
+   "yards_per_game": "60.2",
+   "first_downs": "48"
+  }
+ },
+ "AJ Dillon": {
+  "name": "AJ Dillon",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "186",
+   "rushing_yards": "770",
+   "touchdowns": "7",
+   "yards_per_game": "45.3",
+   "first_downs": "47"
+  }
+ },
+ "Lamar Jackson": {
+  "name": "Lamar Jackson",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "112",
+   "rushing_yards": "764",
+   "touchdowns": "3",
+   "yards_per_game": "63.7",
+   "first_downs": "46"
+  }
+ },
+ "Josh Allen": {
+  "name": "Josh Allen",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "124",
+   "rushing_yards": "762",
+   "touchdowns": "7",
+   "yards_per_game": "47.6",
+   "first_downs": "55"
+  }
+ },
+ "Latavius Murray": {
+  "name": "Latavius Murray",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "171",
+   "rushing_yards": "760",
+   "touchdowns": "6",
+   "yards_per_game": "58.5",
+   "first_downs": "44"
+  }
+ },
+ "Jalen Hurts": {
+  "name": "Jalen Hurts",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "165",
+   "rushing_yards": "760",
+   "touchdowns": "13",
+   "yards_per_game": "50.7",
+   "first_downs": "67"
+  }
+ },
+ "Khalil Herbert": {
+  "name": "Khalil Herbert",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "129",
+   "rushing_yards": "731",
+   "touchdowns": "4",
+   "yards_per_game": "56.2",
+   "first_downs": "26"
+  }
+ },
+ "Daniel Jones": {
+  "name": "Daniel Jones",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "120",
+   "rushing_yards": "708",
+   "touchdowns": "7",
+   "yards_per_game": "44.3",
+   "first_downs": "57"
+  }
+ },
+ "Cordarrelle Patterson": {
+  "name": "Cordarrelle Patterson",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "144",
+   "rushing_yards": "695",
+   "touchdowns": "8",
+   "yards_per_game": "53.5",
+   "first_downs": "39"
+  }
+ },
+ "Leonard Fournette": {
+  "name": "Leonard Fournette",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "189",
+   "rushing_yards": "668",
+   "touchdowns": "3",
+   "yards_per_game": "41.8",
+   "first_downs": "39"
+  }
+ },
+ "Taysom Hill": {
+  "name": "Taysom Hill",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "attempts": "96",
+   "rushing_yards": "575",
+   "touchdowns": "7",
+   "yards_per_game": "35.9",
+   "first_downs": "34"
+  }
+ },
+ "Antonio Gibson": {
+  "name": "Antonio Gibson",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "149",
+   "rushing_yards": "546",
+   "touchdowns": "3",
+   "yards_per_game": "36.4",
+   "first_downs": "32"
+  }
+ },
+ "D'Andre Swift": {
+  "name": "D'Andre Swift",
+  "stats": {
+   "position": "RB",
+   "games_played": "14",
+   "attempts": "99",
+   "rushing_yards": "542",
+   "touchdowns": "5",
+   "yards_per_game": "38.7",
+   "first_downs": "21"
+  }
+ },
+ "J.K. Dobbins": {
+  "name": "J.K. Dobbins",
+  "stats": {
+   "position": "RB",
+   "games_played": "8",
+   "attempts": "92",
+   "rushing_yards": "520",
+   "touchdowns": "2",
+   "yards_per_game": "65.0",
+   "first_downs": "26"
+  }
+ },
+ "James Cook": {
+  "name": "James Cook",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "89",
+   "rushing_yards": "507",
+   "touchdowns": "2",
+   "yards_per_game": "31.7",
+   "first_downs": "24"
+  }
+ },
+ "Kenyan Drake": {
+  "name": "Kenyan Drake",
+  "stats": {
+   "position": "RB",
+   "games_played": "12",
+   "attempts": "109",
+   "rushing_yards": "482",
+   "touchdowns": "4",
+   "yards_per_game": "40.2",
+   "first_downs": "21"
+  }
+ },
+ "Rachaad White": {
+  "name": "Rachaad White",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "129",
+   "rushing_yards": "481",
+   "touchdowns": "1",
+   "yards_per_game": "28.3",
+   "first_downs": "27"
+  }
+ },
+ "Kareem Hunt": {
+  "name": "Kareem Hunt",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "123",
+   "rushing_yards": "468",
+   "touchdowns": "3",
+   "yards_per_game": "27.5",
+   "first_downs": "30"
+  }
+ },
+ "Chuba Hubbard": {
+  "name": "Chuba Hubbard",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "95",
+   "rushing_yards": "466",
+   "touchdowns": "2",
+   "yards_per_game": "31.1",
+   "first_downs": "23"
+  }
+ },
+ "Breece Hall": {
+  "name": "Breece Hall",
+  "stats": {
+   "position": "RB",
+   "games_played": "7",
+   "attempts": "80",
+   "rushing_yards": "463",
+   "touchdowns": "4",
+   "yards_per_game": "66.1",
+   "first_downs": "20"
+  }
+ },
+ "Damien Harris": {
+  "name": "Damien Harris",
+  "stats": {
+   "position": "RB",
+   "games_played": "11",
+   "attempts": "106",
+   "rushing_yards": "462",
+   "touchdowns": "3",
+   "yards_per_game": "42.0",
+   "first_downs": "23"
+  }
+ },
+ "Zack Moss": {
+  "name": "Zack Moss",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "93",
+   "rushing_yards": "456",
+   "touchdowns": "1",
+   "yards_per_game": "35.1",
+   "first_downs": "18"
+  }
+ },
+ "Marcus Mariota": {
+  "name": "Marcus Mariota",
+  "stats": {
+   "position": "QB",
+   "games_played": "13",
+   "attempts": "85",
+   "rushing_yards": "438",
+   "touchdowns": "4",
+   "yards_per_game": "33.7",
+   "first_downs": "30"
+  }
+ },
+ "Gus Edwards": {
+  "name": "Gus Edwards",
+  "stats": {
+   "position": "RB",
+   "games_played": "9",
+   "attempts": "87",
+   "rushing_yards": "433",
+   "touchdowns": "3",
+   "yards_per_game": "48.1",
+   "first_downs": "30"
+  }
+ },
+ "James Robinson": {
+  "name": "James Robinson",
+  "stats": {
+   "position": "RB",
+   "games_played": "11",
+   "attempts": "110",
+   "rushing_yards": "425",
+   "touchdowns": "3",
+   "yards_per_game": "38.6",
+   "first_downs": "22"
+  }
+ },
+ "Kyler Murray": {
+  "name": "Kyler Murray",
+  "stats": {
+   "position": "QB",
+   "games_played": "11",
+   "attempts": "67",
+   "rushing_yards": "418",
+   "touchdowns": "3",
+   "yards_per_game": "38.0",
+   "first_downs": "23"
+  }
+ },
+ "Michael Carter": {
+  "name": "Michael Carter",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "114",
+   "rushing_yards": "402",
+   "touchdowns": "3",
+   "yards_per_game": "25.1",
+   "first_downs": "14"
+  }
+ },
+ "Samaje Perine": {
+  "name": "Samaje Perine",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "95",
+   "rushing_yards": "394",
+   "touchdowns": "2",
+   "yards_per_game": "24.6",
+   "first_downs": "19"
+  }
+ },
+ "Jaylen Warren": {
+  "name": "Jaylen Warren",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "77",
+   "rushing_yards": "379",
+   "touchdowns": "1",
+   "yards_per_game": "23.7",
+   "first_downs": "20"
+  }
+ },
+ "Geno Smith": {
+  "name": "Geno Smith",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "68",
+   "rushing_yards": "366",
+   "touchdowns": "1",
+   "yards_per_game": "21.5",
+   "first_downs": "24"
+  }
+ },
+ "Caleb Huntley": {
+  "name": "Caleb Huntley",
+  "stats": {
+   "position": "RB",
+   "games_played": "12",
+   "attempts": "76",
+   "rushing_yards": "366",
+   "touchdowns": "1",
+   "yards_per_game": "30.5",
+   "first_downs": "18"
+  }
+ },
+ "Patrick Mahomes": {
+  "name": "Patrick Mahomes",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "61",
+   "rushing_yards": "358",
+   "touchdowns": "4",
+   "yards_per_game": "21.1",
+   "first_downs": "25"
+  }
+ },
+ "Rashaad Penny": {
+  "name": "Rashaad Penny",
+  "stats": {
+   "position": "RB",
+   "games_played": "5",
+   "attempts": "57",
+   "rushing_yards": "346",
+   "touchdowns": "2",
+   "yards_per_game": "69.2",
+   "first_downs": "15"
+  }
+ },
+ "Melvin Gordon III": {
+  "name": "Melvin Gordon III",
+  "stats": {
+   "position": "RB",
+   "games_played": "10",
+   "attempts": "90",
+   "rushing_yards": "318",
+   "touchdowns": "2",
+   "yards_per_game": "31.8",
+   "first_downs": "15"
+  }
+ },
+ "Eno Benjamin": {
+  "name": "Eno Benjamin",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "77",
+   "rushing_yards": "313",
+   "touchdowns": "2",
+   "yards_per_game": "20.9",
+   "first_downs": "14"
+  }
+ },
+ "Clyde Edwards-Helaire": {
+  "name": "Clyde Edwards-Helaire",
+  "stats": {
+   "position": "RB",
+   "games_played": "10",
+   "attempts": "71",
+   "rushing_yards": "302",
+   "touchdowns": "3",
+   "yards_per_game": "30.2",
+   "first_downs": "15"
+  }
+ },
+ "Zonovan Knight": {
+  "name": "Zonovan Knight",
+  "stats": {
+   "position": "RB",
+   "games_played": "7",
+   "attempts": "85",
+   "rushing_yards": "300",
+   "touchdowns": "1",
+   "yards_per_game": "42.9",
+   "first_downs": "14"
+  }
+ },
+ "Jerick McKinnon": {
+  "name": "Jerick McKinnon",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "72",
+   "rushing_yards": "291",
+   "touchdowns": "1",
+   "yards_per_game": "17.1",
+   "first_downs": "12"
+  }
+ },
+ "Trevor Lawrence": {
+  "name": "Trevor Lawrence",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "62",
+   "rushing_yards": "291",
+   "touchdowns": "5",
+   "yards_per_game": "17.1",
+   "first_downs": "27"
+  }
+ },
+ "Joshua Kelley": {
+  "name": "Joshua Kelley",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "69",
+   "rushing_yards": "287",
+   "touchdowns": "2",
+   "yards_per_game": "22.1",
+   "first_downs": "16"
+  }
+ },
+ "Darrell Henderson Jr.": {
+  "name": "Darrell Henderson Jr.",
+  "stats": {
+   "position": "RB",
+   "games_played": "10",
+   "attempts": "70",
+   "rushing_yards": "283",
+   "touchdowns": "3",
+   "yards_per_game": "28.3",
+   "first_downs": "14"
+  }
+ },
+ "Alexander Mattison": {
+  "name": "Alexander Mattison",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "74",
+   "rushing_yards": "283",
+   "touchdowns": "5",
+   "yards_per_game": "16.6",
+   "first_downs": "21"
+  }
+ },
+ "Elijah Mitchell": {
+  "name": "Elijah Mitchell",
+  "stats": {
+   "position": "RB",
+   "games_played": "5",
+   "attempts": "45",
+   "rushing_yards": "279",
+   "touchdowns": "2",
+   "yards_per_game": "55.8",
+   "first_downs": "15"
+  }
+ },
+ "Russell Wilson": {
+  "name": "Russell Wilson",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "55",
+   "rushing_yards": "277",
+   "touchdowns": "3",
+   "yards_per_game": "18.5",
+   "first_downs": "21"
+  }
+ },
+ "Justice Hill": {
+  "name": "Justice Hill",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "49",
+   "rushing_yards": "262",
+   "touchdowns": "0",
+   "yards_per_game": "17.5",
+   "first_downs": "15"
+  }
+ },
+ "Jordan Mason": {
+  "name": "Jordan Mason",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "43",
+   "rushing_yards": "258",
+   "touchdowns": "1",
+   "yards_per_game": "16.1",
+   "first_downs": "10"
+  }
+ },
+ "Joe Burrow": {
+  "name": "Joe Burrow",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "75",
+   "rushing_yards": "257",
+   "touchdowns": "5",
+   "yards_per_game": "16.1",
+   "first_downs": "27"
+  }
+ },
+ "Chase Edmonds": {
+  "name": "Chase Edmonds",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "68",
+   "rushing_yards": "245",
+   "touchdowns": "2",
+   "yards_per_game": "18.8",
+   "first_downs": "8"
+  }
+ },
+ "Jacoby Brissett": {
+  "name": "Jacoby Brissett",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "49",
+   "rushing_yards": "243",
+   "touchdowns": "2",
+   "yards_per_game": "15.2",
+   "first_downs": "28"
+  }
+ },
+ "Kenneth Gainwell": {
+  "name": "Kenneth Gainwell",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "53",
+   "rushing_yards": "240",
+   "touchdowns": "4",
+   "yards_per_game": "14.1",
+   "first_downs": "17"
+  }
+ },
+ "Kenny Pickett": {
+  "name": "Kenny Pickett",
+  "stats": {
+   "position": "QB",
+   "games_played": "13",
+   "attempts": "55",
+   "rushing_yards": "237",
+   "touchdowns": "3",
+   "yards_per_game": "18.2",
+   "first_downs": "23"
+  }
+ },
+ "Deon Jackson": {
+  "name": "Deon Jackson",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "68",
+   "rushing_yards": "236",
+   "touchdowns": "1",
+   "yards_per_game": "14.8",
+   "first_downs": "13"
+  }
+ },
+ "Mark Ingram II": {
+  "name": "Mark Ingram II",
+  "stats": {
+   "position": "RB",
+   "games_played": "10",
+   "attempts": "62",
+   "rushing_yards": "233",
+   "touchdowns": "1",
+   "yards_per_game": "23.3",
+   "first_downs": "12"
+  }
+ },
+ "Deebo Samuel": {
+  "name": "Deebo Samuel",
+  "stats": {
+   "position": "WR",
+   "games_played": "13",
+   "attempts": "42",
+   "rushing_yards": "232",
+   "touchdowns": "3",
+   "yards_per_game": "17.8",
+   "first_downs": "8"
+  }
+ },
+ "Matt Breida": {
+  "name": "Matt Breida",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "54",
+   "rushing_yards": "220",
+   "touchdowns": "1",
+   "yards_per_game": "12.9",
+   "first_downs": "13"
+  }
+ },
+ "Boston Scott": {
+  "name": "Boston Scott",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "54",
+   "rushing_yards": "217",
+   "touchdowns": "3",
+   "yards_per_game": "14.5",
+   "first_downs": "12"
+  }
+ },
+ "Javonte Williams": {
+  "name": "Javonte Williams",
+  "stats": {
+   "position": "RB",
+   "games_played": "4",
+   "attempts": "47",
+   "rushing_yards": "204",
+   "touchdowns": "0",
+   "yards_per_game": "51.0",
+   "first_downs": "9"
+  }
+ },
+ "JaMycal Hasty": {
+  "name": "JaMycal Hasty",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "46",
+   "rushing_yards": "194",
+   "touchdowns": "2",
+   "yards_per_game": "11.4",
+   "first_downs": "7"
+  }
+ },
+ "Curtis Samuel": {
+  "name": "Curtis Samuel",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "attempts": "38",
+   "rushing_yards": "187",
+   "touchdowns": "1",
+   "yards_per_game": "11.0",
+   "first_downs": "11"
+  }
+ },
+ "DeeJay Dallas": {
+  "name": "DeeJay Dallas",
+  "stats": {
+   "position": "RB",
+   "games_played": "15",
+   "attempts": "35",
+   "rushing_yards": "186",
+   "touchdowns": "0",
+   "yards_per_game": "12.4",
+   "first_downs": "9"
+  }
+ },
+ "Dak Prescott": {
+  "name": "Dak Prescott",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "45",
+   "rushing_yards": "182",
+   "touchdowns": "1",
+   "yards_per_game": "15.2",
+   "first_downs": "19"
+  }
+ },
+ "Deshaun Watson": {
+  "name": "Deshaun Watson",
+  "stats": {
+   "position": "QB",
+   "games_played": "6",
+   "attempts": "36",
+   "rushing_yards": "175",
+   "touchdowns": "1",
+   "yards_per_game": "29.2",
+   "first_downs": "10"
+  }
+ },
+ "Justin Jackson": {
+  "name": "Justin Jackson",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "42",
+   "rushing_yards": "170",
+   "touchdowns": "1",
+   "yards_per_game": "10.6",
+   "first_downs": "8"
+  }
+ },
+ "Malik Davis": {
+  "name": "Malik Davis",
+  "stats": {
+   "position": "RB",
+   "games_played": "12",
+   "attempts": "38",
+   "rushing_yards": "161",
+   "touchdowns": "1",
+   "yards_per_game": "13.4",
+   "first_downs": "6"
+  }
+ },
+ "Ty Johnson": {
+  "name": "Ty Johnson",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "30",
+   "rushing_yards": "160",
+   "touchdowns": "1",
+   "yards_per_game": "9.4",
+   "first_downs": "5"
+  }
+ },
+ "Jonathan Williams": {
+  "name": "Jonathan Williams",
+  "stats": {
+   "position": "RB",
+   "games_played": "13",
+   "attempts": "37",
+   "rushing_yards": "152",
+   "touchdowns": "0",
+   "yards_per_game": "11.7",
+   "first_downs": "6"
+  }
+ },
+ "Justin Herbert": {
+  "name": "Justin Herbert",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "54",
+   "rushing_yards": "147",
+   "touchdowns": "0",
+   "yards_per_game": "8.6",
+   "first_downs": "17"
+  }
+ },
+ "Dontrell Hilliard": {
+  "name": "Dontrell Hilliard",
+  "stats": {
+   "position": "RB",
+   "games_played": "12",
+   "attempts": "22",
+   "rushing_yards": "145",
+   "touchdowns": "0",
+   "yards_per_game": "12.1",
+   "first_downs": "4"
+  }
+ },
+ "Gary Brightwell": {
+  "name": "Gary Brightwell",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "31",
+   "rushing_yards": "141",
+   "touchdowns": "1",
+   "yards_per_game": "8.3",
+   "first_downs": "9"
+  }
+ },
+ "Kyren Williams": {
+  "name": "Kyren Williams",
+  "stats": {
+   "position": "RB",
+   "games_played": "10",
+   "attempts": "35",
+   "rushing_yards": "139",
+   "touchdowns": "0",
+   "yards_per_game": "13.9",
+   "first_downs": "6"
+  }
+ }
+}

@@ -1,0 +1,1502 @@
+[
+ {
+  "name": "Patrick Mahomes\nKC",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "648",
+   "completion_percentage": "67.1",
+   "passing_yards": "5,250",
+   "yards_per_game": "308.8",
+   "touchdowns": "41",
+   "interceptions": "12",
+   "sacks": "26",
+   "QBR": "77.6"
+  }
+ },
+ {
+  "name": "Justin Herbert\nLAC",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "699",
+   "completion_percentage": "68.2",
+   "passing_yards": "4,739",
+   "yards_per_game": "278.8",
+   "touchdowns": "25",
+   "interceptions": "10",
+   "sacks": "38",
+   "QBR": "58.2"
+  }
+ },
+ {
+  "name": "Tom Brady\nTB",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "733",
+   "completion_percentage": "66.8",
+   "passing_yards": "4,694",
+   "yards_per_game": "276.1",
+   "touchdowns": "25",
+   "interceptions": "9",
+   "sacks": "22",
+   "QBR": "52.5"
+  }
+ },
+ {
+  "name": "Kirk Cousins\nMIN",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "643",
+   "completion_percentage": "65.9",
+   "passing_yards": "4,547",
+   "yards_per_game": "267.5",
+   "touchdowns": "29",
+   "interceptions": "14",
+   "sacks": "46",
+   "QBR": "49.9"
+  }
+ },
+ {
+  "name": "Joe Burrow\nCIN",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "606",
+   "completion_percentage": "68.3",
+   "passing_yards": "4,475",
+   "yards_per_game": "279.7",
+   "touchdowns": "35",
+   "interceptions": "12",
+   "sacks": "41",
+   "QBR": "58.7"
+  }
+ },
+ {
+  "name": "Jared Goff\nDET",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "587",
+   "completion_percentage": "65.1",
+   "passing_yards": "4,438",
+   "yards_per_game": "261.1",
+   "touchdowns": "29",
+   "interceptions": "7",
+   "sacks": "23",
+   "QBR": "61.1"
+  }
+ },
+ {
+  "name": "Josh Allen\nBUF",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "567",
+   "completion_percentage": "63.3",
+   "passing_yards": "4,283",
+   "yards_per_game": "267.7",
+   "touchdowns": "35",
+   "interceptions": "14",
+   "sacks": "33",
+   "QBR": "71.4"
+  }
+ },
+ {
+  "name": "Geno Smith\nSEA",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "572",
+   "completion_percentage": "69.8",
+   "passing_yards": "4,282",
+   "yards_per_game": "251.9",
+   "touchdowns": "30",
+   "interceptions": "11",
+   "sacks": "46",
+   "QBR": "60.8"
+  }
+ },
+ {
+  "name": "Trevor Lawrence\nJAX",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "584",
+   "completion_percentage": "66.3",
+   "passing_yards": "4,113",
+   "yards_per_game": "241.9",
+   "touchdowns": "25",
+   "interceptions": "8",
+   "sacks": "27",
+   "QBR": "54.5"
+  }
+ },
+ {
+  "name": "Jalen Hurts\nPHI",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "460",
+   "completion_percentage": "66.5",
+   "passing_yards": "3,701",
+   "yards_per_game": "246.7",
+   "touchdowns": "22",
+   "interceptions": "6",
+   "sacks": "38",
+   "QBR": "66.4"
+  }
+ },
+ {
+  "name": "Aaron Rodgers\nGB",
+  "stats": {
+   "position": "QB",
+   "games_played": "17",
+   "attempts": "542",
+   "completion_percentage": "64.6",
+   "passing_yards": "3,695",
+   "yards_per_game": "217.4",
+   "touchdowns": "26",
+   "interceptions": "12",
+   "sacks": "32",
+   "QBR": "39.3"
+  }
+ },
+ {
+  "name": "Tua Tagovailoa\nMIA",
+  "stats": {
+   "position": "QB",
+   "games_played": "13",
+   "attempts": "400",
+   "completion_percentage": "64.8",
+   "passing_yards": "3,548",
+   "yards_per_game": "272.9",
+   "touchdowns": "25",
+   "interceptions": "8",
+   "sacks": "21",
+   "QBR": "68.8"
+  }
+ },
+ {
+  "name": "Russell Wilson\nDEN",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "483",
+   "completion_percentage": "60.5",
+   "passing_yards": "3,524",
+   "yards_per_game": "234.9",
+   "touchdowns": "16",
+   "interceptions": "11",
+   "sacks": "55",
+   "QBR": "36.7"
+  }
+ },
+ {
+  "name": "Derek Carr\nLV",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "502",
+   "completion_percentage": "60.8",
+   "passing_yards": "3,522",
+   "yards_per_game": "234.8",
+   "touchdowns": "24",
+   "interceptions": "14",
+   "sacks": "27",
+   "QBR": "55.5"
+  }
+ },
+ {
+  "name": "Daniel Jones\nNYG",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "472",
+   "completion_percentage": "67.2",
+   "passing_yards": "3,205",
+   "yards_per_game": "200.3",
+   "touchdowns": "15",
+   "interceptions": "5",
+   "sacks": "44",
+   "QBR": "60.8"
+  }
+ },
+ {
+  "name": "Davis Mills\nHOU",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "479",
+   "completion_percentage": "61.0",
+   "passing_yards": "3,118",
+   "yards_per_game": "207.9",
+   "touchdowns": "17",
+   "interceptions": "15",
+   "sacks": "31",
+   "QBR": "33.1"
+  }
+ },
+ {
+  "name": "Matt Ryan\nIND",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "461",
+   "completion_percentage": "67.0",
+   "passing_yards": "3,057",
+   "yards_per_game": "254.8",
+   "touchdowns": "14",
+   "interceptions": "13",
+   "sacks": "38",
+   "QBR": "42.9"
+  }
+ },
+ {
+  "name": "Mac Jones\nNE",
+  "stats": {
+   "position": "QB",
+   "games_played": "14",
+   "attempts": "442",
+   "completion_percentage": "65.2",
+   "passing_yards": "2,997",
+   "yards_per_game": "214.1",
+   "touchdowns": "14",
+   "interceptions": "11",
+   "sacks": "34",
+   "QBR": "36.1"
+  }
+ },
+ {
+  "name": "Andy Dalton\nNO",
+  "stats": {
+   "position": "QB",
+   "games_played": "14",
+   "attempts": "378",
+   "completion_percentage": "66.7",
+   "passing_yards": "2,871",
+   "yards_per_game": "205.1",
+   "touchdowns": "18",
+   "interceptions": "9",
+   "sacks": "25",
+   "QBR": "50.7"
+  }
+ },
+ {
+  "name": "Dak Prescott\nDAL",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "394",
+   "completion_percentage": "66.2",
+   "passing_yards": "2,860",
+   "yards_per_game": "238.3",
+   "touchdowns": "23",
+   "interceptions": "15",
+   "sacks": "20",
+   "QBR": "57.9"
+  }
+ },
+ {
+  "name": "Jacoby Brissett\nCLE",
+  "stats": {
+   "position": "QB",
+   "games_played": "16",
+   "attempts": "369",
+   "completion_percentage": "64.0",
+   "passing_yards": "2,608",
+   "yards_per_game": "163.0",
+   "touchdowns": "12",
+   "interceptions": "6",
+   "sacks": "24",
+   "QBR": "60.0"
+  }
+ },
+ {
+  "name": "Ryan Tannehill\nTEN",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "325",
+   "completion_percentage": "65.2",
+   "passing_yards": "2,536",
+   "yards_per_game": "211.3",
+   "touchdowns": "13",
+   "interceptions": "6",
+   "sacks": "33",
+   "QBR": "49.1"
+  }
+ },
+ {
+  "name": "Jimmy Garoppolo\nSF",
+  "stats": {
+   "position": "QB",
+   "games_played": "11",
+   "attempts": "308",
+   "completion_percentage": "67.2",
+   "passing_yards": "2,437",
+   "yards_per_game": "221.5",
+   "touchdowns": "16",
+   "interceptions": "4",
+   "sacks": "18",
+   "QBR": "54.3"
+  }
+ },
+ {
+  "name": "Kenny Pickett\nPIT",
+  "stats": {
+   "position": "QB",
+   "games_played": "13",
+   "attempts": "389",
+   "completion_percentage": "63.0",
+   "passing_yards": "2,404",
+   "yards_per_game": "184.9",
+   "touchdowns": "7",
+   "interceptions": "9",
+   "sacks": "27",
+   "QBR": "51.5"
+  }
+ },
+ {
+  "name": "Kyler Murray\nARI",
+  "stats": {
+   "position": "QB",
+   "games_played": "11",
+   "attempts": "390",
+   "completion_percentage": "66.4",
+   "passing_yards": "2,368",
+   "yards_per_game": "215.3",
+   "touchdowns": "14",
+   "interceptions": "7",
+   "sacks": "25",
+   "QBR": "51.5"
+  }
+ },
+ {
+  "name": "Lamar Jackson\nBAL",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "326",
+   "completion_percentage": "62.3",
+   "passing_yards": "2,242",
+   "yards_per_game": "186.8",
+   "touchdowns": "17",
+   "interceptions": "7",
+   "sacks": "26",
+   "QBR": "59.1"
+  }
+ },
+ {
+  "name": "Justin Fields\nCHI",
+  "stats": {
+   "position": "QB",
+   "games_played": "15",
+   "attempts": "318",
+   "completion_percentage": "60.4",
+   "passing_yards": "2,242",
+   "yards_per_game": "149.5",
+   "touchdowns": "17",
+   "interceptions": "11",
+   "sacks": "55",
+   "QBR": "54.0"
+  }
+ },
+ {
+  "name": "Marcus Mariota\nATL",
+  "stats": {
+   "position": "QB",
+   "games_played": "13",
+   "attempts": "300",
+   "completion_percentage": "61.3",
+   "passing_yards": "2,219",
+   "yards_per_game": "170.7",
+   "touchdowns": "15",
+   "interceptions": "9",
+   "sacks": "28",
+   "QBR": "55.6"
+  }
+ },
+ {
+  "name": "Baker Mayfield\nLAR/CAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "12",
+   "attempts": "335",
+   "completion_percentage": "60.0",
+   "passing_yards": "2,163",
+   "yards_per_game": "180.3",
+   "touchdowns": "10",
+   "interceptions": "8",
+   "sacks": "36",
+   "QBR": "24.5"
+  }
+ },
+ {
+  "name": "Matthew Stafford\nLAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "9",
+   "attempts": "303",
+   "completion_percentage": "68.0",
+   "passing_yards": "2,087",
+   "yards_per_game": "231.9",
+   "touchdowns": "10",
+   "interceptions": "8",
+   "sacks": "29",
+   "QBR": "50.3"
+  }
+ },
+ {
+  "name": "Taylor Heinicke\nWSH",
+  "stats": {
+   "position": "QB",
+   "games_played": "9",
+   "attempts": "259",
+   "completion_percentage": "62.2",
+   "passing_yards": "1,859",
+   "yards_per_game": "206.6",
+   "touchdowns": "12",
+   "interceptions": "6",
+   "sacks": "19",
+   "QBR": "44.4"
+  }
+ },
+ {
+  "name": "Carson Wentz\nWSH",
+  "stats": {
+   "position": "QB",
+   "games_played": "8",
+   "attempts": "276",
+   "completion_percentage": "62.3",
+   "passing_yards": "1,755",
+   "yards_per_game": "219.4",
+   "touchdowns": "11",
+   "interceptions": "9",
+   "sacks": "26",
+   "QBR": "32.9"
+  }
+ },
+ {
+  "name": "Zach Wilson\nNYJ",
+  "stats": {
+   "position": "QB",
+   "games_played": "9",
+   "attempts": "242",
+   "completion_percentage": "54.5",
+   "passing_yards": "1,688",
+   "yards_per_game": "187.6",
+   "touchdowns": "6",
+   "interceptions": "7",
+   "sacks": "23",
+   "QBR": "36.5"
+  }
+ },
+ {
+  "name": "Brock Purdy\nSF",
+  "stats": {
+   "position": "QB",
+   "games_played": "9",
+   "attempts": "170",
+   "completion_percentage": "67.1",
+   "passing_yards": "1,374",
+   "yards_per_game": "152.7",
+   "touchdowns": "13",
+   "interceptions": "4",
+   "sacks": "11",
+   "QBR": "65.6"
+  }
+ },
+ {
+  "name": "Mitch Trubisky\nPIT",
+  "stats": {
+   "position": "QB",
+   "games_played": "7",
+   "attempts": "180",
+   "completion_percentage": "65.0",
+   "passing_yards": "1,252",
+   "yards_per_game": "178.9",
+   "touchdowns": "4",
+   "interceptions": "5",
+   "sacks": "11",
+   "QBR": "56.4"
+  }
+ },
+ {
+  "name": "Mike White\nNYJ",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "175",
+   "completion_percentage": "58.9",
+   "passing_yards": "1,192",
+   "yards_per_game": "298.0",
+   "touchdowns": "3",
+   "interceptions": "4",
+   "sacks": "9",
+   "QBR": "37.0"
+  }
+ },
+ {
+  "name": "Sam Darnold\nCAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "6",
+   "attempts": "140",
+   "completion_percentage": "58.6",
+   "passing_yards": "1,143",
+   "yards_per_game": "190.5",
+   "touchdowns": "7",
+   "interceptions": "3",
+   "sacks": "10",
+   "QBR": "48.5"
+  }
+ },
+ {
+  "name": "Deshaun Watson\nCLE",
+  "stats": {
+   "position": "QB",
+   "games_played": "6",
+   "attempts": "170",
+   "completion_percentage": "58.2",
+   "passing_yards": "1,102",
+   "yards_per_game": "183.7",
+   "touchdowns": "7",
+   "interceptions": "5",
+   "sacks": "20",
+   "QBR": "38.3"
+  }
+ },
+ {
+  "name": "Joe Flacco\nNYJ",
+  "stats": {
+   "position": "QB",
+   "games_played": "5",
+   "attempts": "191",
+   "completion_percentage": "57.6",
+   "passing_yards": "1,051",
+   "yards_per_game": "210.2",
+   "touchdowns": "5",
+   "interceptions": "3",
+   "sacks": "10",
+   "QBR": "34.1"
+  }
+ },
+ {
+  "name": "Cooper Rush\nDAL",
+  "stats": {
+   "position": "QB",
+   "games_played": "9",
+   "attempts": "162",
+   "completion_percentage": "58.0",
+   "passing_yards": "1,051",
+   "yards_per_game": "116.8",
+   "touchdowns": "5",
+   "interceptions": "3",
+   "sacks": "7",
+   "QBR": "58.7"
+  }
+ },
+ {
+  "name": "Jameis Winston\nNO",
+  "stats": {
+   "position": "QB",
+   "games_played": "3",
+   "attempts": "115",
+   "completion_percentage": "63.5",
+   "passing_yards": "858",
+   "yards_per_game": "286.0",
+   "touchdowns": "4",
+   "interceptions": "5",
+   "sacks": "11",
+   "QBR": "32.8"
+  }
+ },
+ {
+  "name": "Bailey Zappe\nNE",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "92",
+   "completion_percentage": "70.7",
+   "passing_yards": "781",
+   "yards_per_game": "195.3",
+   "touchdowns": "5",
+   "interceptions": "3",
+   "sacks": "6",
+   "QBR": "34.5"
+  }
+ },
+ {
+  "name": "Colt McCoy\nARI",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "132",
+   "completion_percentage": "68.2",
+   "passing_yards": "780",
+   "yards_per_game": "195.0",
+   "touchdowns": "1",
+   "interceptions": "3",
+   "sacks": "13",
+   "QBR": "37.4"
+  }
+ },
+ {
+  "name": "PJ Walker\nCAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "6",
+   "attempts": "106",
+   "completion_percentage": "59.4",
+   "passing_yards": "731",
+   "yards_per_game": "121.8",
+   "touchdowns": "3",
+   "interceptions": "3",
+   "sacks": "7",
+   "QBR": "23.5"
+  }
+ },
+ {
+  "name": "Desmond Ridder\nATL",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "115",
+   "completion_percentage": "63.5",
+   "passing_yards": "708",
+   "yards_per_game": "177.0",
+   "touchdowns": "2",
+   "interceptions": "0",
+   "sacks": "9",
+   "QBR": "49.8"
+  }
+ },
+ {
+  "name": "Teddy Bridgewater\nMIA",
+  "stats": {
+   "position": "QB",
+   "games_played": "5",
+   "attempts": "79",
+   "completion_percentage": "62.0",
+   "passing_yards": "683",
+   "yards_per_game": "136.6",
+   "touchdowns": "4",
+   "interceptions": "4",
+   "sacks": "7",
+   "QBR": "47.4"
+  }
+ },
+ {
+  "name": "Gardner Minshew\nPHI",
+  "stats": {
+   "position": "QB",
+   "games_played": "5",
+   "attempts": "76",
+   "completion_percentage": "57.9",
+   "passing_yards": "663",
+   "yards_per_game": "132.6",
+   "touchdowns": "3",
+   "interceptions": "3",
+   "sacks": "6",
+   "QBR": "39.7"
+  }
+ },
+ {
+  "name": "Tyler Huntley\nBAL",
+  "stats": {
+   "position": "QB",
+   "games_played": "6",
+   "attempts": "112",
+   "completion_percentage": "67.0",
+   "passing_yards": "658",
+   "yards_per_game": "109.7",
+   "touchdowns": "2",
+   "interceptions": "3",
+   "sacks": "7",
+   "QBR": "41.3"
+  }
+ },
+ {
+  "name": "Jarrett Stidham\nLV",
+  "stats": {
+   "position": "QB",
+   "games_played": "5",
+   "attempts": "83",
+   "completion_percentage": "63.9",
+   "passing_yards": "656",
+   "yards_per_game": "131.2",
+   "touchdowns": "4",
+   "interceptions": "3",
+   "sacks": "7",
+   "QBR": "57.8"
+  }
+ },
+ {
+  "name": "Sam Ehlinger\nIND",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "101",
+   "completion_percentage": "63.4",
+   "passing_yards": "573",
+   "yards_per_game": "143.3",
+   "touchdowns": "3",
+   "interceptions": "3",
+   "sacks": "14",
+   "QBR": "31.9"
+  }
+ },
+ {
+  "name": "Skylar Thompson\nMIA",
+  "stats": {
+   "position": "QB",
+   "games_played": "7",
+   "attempts": "105",
+   "completion_percentage": "57.1",
+   "passing_yards": "534",
+   "yards_per_game": "76.3",
+   "touchdowns": "1",
+   "interceptions": "3",
+   "sacks": "6",
+   "QBR": "27.2"
+  }
+ },
+ {
+  "name": "Brett Rypien\nDEN",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "88",
+   "completion_percentage": "60.2",
+   "passing_yards": "483",
+   "yards_per_game": "120.8",
+   "touchdowns": "2",
+   "interceptions": "4",
+   "sacks": "8",
+   "QBR": "24.3"
+  }
+ },
+ {
+  "name": "Kyle Allen\nHOU",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "78",
+   "completion_percentage": "59.0",
+   "passing_yards": "416",
+   "yards_per_game": "208.0",
+   "touchdowns": "2",
+   "interceptions": "4",
+   "sacks": "5",
+   "QBR": "3.4"
+  }
+ },
+ {
+  "name": "Trace McSorley\nARI",
+  "stats": {
+   "position": "QB",
+   "games_played": "6",
+   "attempts": "83",
+   "completion_percentage": "54.2",
+   "passing_yards": "412",
+   "yards_per_game": "68.7",
+   "touchdowns": "0",
+   "interceptions": "5",
+   "sacks": "3",
+   "QBR": "10.8"
+  }
+ },
+ {
+  "name": "Joshua Dobbs\nTEN",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "68",
+   "completion_percentage": "58.8",
+   "passing_yards": "411",
+   "yards_per_game": "205.5",
+   "touchdowns": "2",
+   "interceptions": "2",
+   "sacks": "6",
+   "QBR": "50.8"
+  }
+ },
+ {
+  "name": "David Blough\nARI",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "58",
+   "completion_percentage": "65.5",
+   "passing_yards": "402",
+   "yards_per_game": "201.0",
+   "touchdowns": "2",
+   "interceptions": "2",
+   "sacks": "5",
+   "QBR": "28.2"
+  }
+ },
+ {
+  "name": "John Wolford\nLAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "3",
+   "attempts": "62",
+   "completion_percentage": "61.3",
+   "passing_yards": "390",
+   "yards_per_game": "130.0",
+   "touchdowns": "1",
+   "interceptions": "3",
+   "sacks": "7",
+   "QBR": "22.7"
+  }
+ },
+ {
+  "name": "Anthony Brown\nBAL",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "49",
+   "completion_percentage": "44.9",
+   "passing_yards": "302",
+   "yards_per_game": "151.0",
+   "touchdowns": "0",
+   "interceptions": "2",
+   "sacks": "5",
+   "QBR": "8.4"
+  }
+ },
+ {
+  "name": "Malik Willis\nTEN",
+  "stats": {
+   "position": "QB",
+   "games_played": "8",
+   "attempts": "61",
+   "completion_percentage": "50.8",
+   "passing_yards": "276",
+   "yards_per_game": "34.5",
+   "touchdowns": "0",
+   "interceptions": "3",
+   "sacks": "10",
+   "QBR": "12.4"
+  }
+ },
+ {
+  "name": "Taysom Hill\nNO",
+  "stats": {
+   "position": "TE",
+   "games_played": "16",
+   "attempts": "19",
+   "completion_percentage": "68.4",
+   "passing_yards": "240",
+   "yards_per_game": "15.0",
+   "touchdowns": "2",
+   "interceptions": "0",
+   "sacks": "2",
+   "QBR": "78.3"
+  }
+ },
+ {
+  "name": "Nick Foles\nIND",
+  "stats": {
+   "position": "QB",
+   "games_played": "3",
+   "attempts": "42",
+   "completion_percentage": "59.5",
+   "passing_yards": "224",
+   "yards_per_game": "74.7",
+   "touchdowns": "0",
+   "interceptions": "4",
+   "sacks": "8",
+   "QBR": "7.4"
+  }
+ },
+ {
+  "name": "Nick Mullens\nMIN",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "25",
+   "completion_percentage": "84.0",
+   "passing_yards": "224",
+   "yards_per_game": "56.0",
+   "touchdowns": "1",
+   "interceptions": "1",
+   "sacks": "0",
+   "QBR": "56.1"
+  }
+ },
+ {
+  "name": "Jordan Love\nGB",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "21",
+   "completion_percentage": "66.7",
+   "passing_yards": "195",
+   "yards_per_game": "48.8",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "82.0"
+  }
+ },
+ {
+  "name": "Trey Lance\nSF",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "31",
+   "completion_percentage": "48.4",
+   "passing_yards": "194",
+   "yards_per_game": "97.0",
+   "touchdowns": "0",
+   "interceptions": "1",
+   "sacks": "2",
+   "QBR": "34.9"
+  }
+ },
+ {
+  "name": "Trevor Siemian\nCHI",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "26",
+   "completion_percentage": "57.7",
+   "passing_yards": "184",
+   "yards_per_game": "92.0",
+   "touchdowns": "1",
+   "interceptions": "1",
+   "sacks": "2",
+   "QBR": "26.5"
+  }
+ },
+ {
+  "name": "Sam Howell\nWSH",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "19",
+   "completion_percentage": "57.9",
+   "passing_yards": "169",
+   "yards_per_game": "169.0",
+   "touchdowns": "1",
+   "interceptions": "1",
+   "sacks": "3",
+   "QBR": "46.4"
+  }
+ },
+ {
+  "name": "Davis Webb\nNYG",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "40",
+   "completion_percentage": "57.5",
+   "passing_yards": "168",
+   "yards_per_game": "168.0",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "73.6"
+  }
+ },
+ {
+  "name": "Bryce Perkins\nLAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "5",
+   "attempts": "34",
+   "completion_percentage": "55.9",
+   "passing_yards": "161",
+   "yards_per_game": "32.2",
+   "touchdowns": "1",
+   "interceptions": "2",
+   "sacks": "6",
+   "QBR": "27.2"
+  }
+ },
+ {
+  "name": "Nathan Peterman\nCHI",
+  "stats": {
+   "position": "QB",
+   "games_played": "3",
+   "attempts": "25",
+   "completion_percentage": "56.0",
+   "passing_yards": "139",
+   "yards_per_game": "46.3",
+   "touchdowns": "1",
+   "interceptions": "1",
+   "sacks": "1",
+   "QBR": "39.9"
+  }
+ },
+ {
+  "name": "Jeff Driskel\nHOU",
+  "stats": {
+   "position": "QB",
+   "games_played": "7",
+   "attempts": "20",
+   "completion_percentage": "70.0",
+   "passing_yards": "108",
+   "yards_per_game": "15.4",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "2",
+   "QBR": "19.6"
+  }
+ },
+ {
+  "name": "Chris Streveler\nNYJ",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "15",
+   "completion_percentage": "66.7",
+   "passing_yards": "90",
+   "yards_per_game": "45.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "72.3"
+  }
+ },
+ {
+  "name": "Jacob Eason\nCAR",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "5",
+   "completion_percentage": "60.0",
+   "passing_yards": "59",
+   "yards_per_game": "59.0",
+   "touchdowns": "0",
+   "interceptions": "1",
+   "sacks": "0",
+   "QBR": "0.8"
+  }
+ },
+ {
+  "name": "Tyrod Taylor\nNYG",
+  "stats": {
+   "position": "QB",
+   "games_played": "3",
+   "attempts": "8",
+   "completion_percentage": "75.0",
+   "passing_yards": "58",
+   "yards_per_game": "19.3",
+   "touchdowns": "1",
+   "interceptions": "1",
+   "sacks": "3",
+   "QBR": "10.7"
+  }
+ },
+ {
+  "name": "Chase Daniel\nLAC",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "12",
+   "completion_percentage": "66.7",
+   "passing_yards": "52",
+   "yards_per_game": "13.0",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "1",
+   "QBR": "57.9"
+  }
+ },
+ {
+  "name": "Brian Hoyer\nNE",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "6",
+   "completion_percentage": "83.3",
+   "passing_yards": "37",
+   "yards_per_game": "37.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "1",
+   "QBR": "26.7"
+  }
+ },
+ {
+  "name": "C.J. Beathard\nJAX",
+  "stats": {
+   "position": "QB",
+   "games_played": "4",
+   "attempts": "11",
+   "completion_percentage": "63.6",
+   "passing_yards": "35",
+   "yards_per_game": "8.8",
+   "touchdowns": "0",
+   "interceptions": "1",
+   "sacks": "1",
+   "QBR": "21.4"
+  }
+ },
+ {
+  "name": "Christian McCaffrey\nSF/CAR",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "34",
+   "yards_per_game": "2.0",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "100.0"
+  }
+ },
+ {
+  "name": "Justin Jefferson\nMIN",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "attempts": "2",
+   "completion_percentage": "100.0",
+   "passing_yards": "34",
+   "yards_per_game": "2.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "94.8"
+  }
+ },
+ {
+  "name": "Tim Boyle\nCHI",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "8",
+   "completion_percentage": "25.0",
+   "passing_yards": "33",
+   "yards_per_game": "33.0",
+   "touchdowns": "0",
+   "interceptions": "2",
+   "sacks": "0",
+   "QBR": "0.5"
+  }
+ },
+ {
+  "name": "Blaine Gabbert\nTB",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "8",
+   "completion_percentage": "75.0",
+   "passing_yards": "29",
+   "yards_per_game": "29.0",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "57.9"
+  }
+ },
+ {
+  "name": "Tyler Boyd\nCIN",
+  "stats": {
+   "position": "WR",
+   "games_played": "16",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "23",
+   "yards_per_game": "1.4",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "1",
+   "QBR": "13.2"
+  }
+ },
+ {
+  "name": "Kyle Trask\nTB",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "9",
+   "completion_percentage": "33.3",
+   "passing_yards": "23",
+   "yards_per_game": "23.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "1.6"
+  }
+ },
+ {
+  "name": "Brandon Allen\nCIN",
+  "stats": {
+   "position": "QB",
+   "games_played": "1",
+   "attempts": "3",
+   "completion_percentage": "100.0",
+   "passing_yards": "22",
+   "yards_per_game": "22.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "1",
+   "QBR": "44.4"
+  }
+ },
+ {
+  "name": "Riley Dixon\nLAR",
+  "stats": {
+   "position": "P",
+   "games_played": "17",
+   "attempts": "2",
+   "completion_percentage": "100.0",
+   "passing_yards": "18",
+   "yards_per_game": "1.1",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": ""
+  }
+ },
+ {
+  "name": "Braden Mann\nNYJ",
+  "stats": {
+   "position": "P",
+   "games_played": "17",
+   "attempts": "2",
+   "completion_percentage": "50.0",
+   "passing_yards": "17",
+   "yards_per_game": "1.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "0.0"
+  }
+ },
+ {
+  "name": "Ryan Wright\nMIN",
+  "stats": {
+   "position": "P",
+   "games_played": "17",
+   "attempts": "2",
+   "completion_percentage": "50.0",
+   "passing_yards": "13",
+   "yards_per_game": "0.8",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": ""
+  }
+ },
+ {
+  "name": "Josh Johnson\nSF",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "2",
+   "completion_percentage": "50.0",
+   "passing_yards": "10",
+   "yards_per_game": "5.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "20.4"
+  }
+ },
+ {
+  "name": "Case Keenum\nBUF",
+  "stats": {
+   "position": "QB",
+   "games_played": "2",
+   "attempts": "7",
+   "completion_percentage": "28.6",
+   "passing_yards": "8",
+   "yards_per_game": "4.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "4.3"
+  }
+ },
+ {
+  "name": "Jack Fox\nDET",
+  "stats": {
+   "position": "P",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "6",
+   "yards_per_game": "0.4",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": ""
+  }
+ },
+ {
+  "name": "Andy Lee\nARI",
+  "stats": {
+   "position": "P",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "4",
+   "yards_per_game": "0.2",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": ""
+  }
+ },
+ {
+  "name": "Mack Hollins\nLV",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "4",
+   "yards_per_game": "0.2",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "22.1"
+  }
+ },
+ {
+  "name": "Derrick Henry\nTEN",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "2",
+   "completion_percentage": "100.0",
+   "passing_yards": "4",
+   "yards_per_game": "0.3",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "43.2"
+  }
+ },
+ {
+  "name": "Najee Harris\nPIT",
+  "stats": {
+   "position": "RB",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "4",
+   "yards_per_game": "0.2",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "10.0"
+  }
+ },
+ {
+  "name": "Braxton Berrios\nNYJ",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "2",
+   "yards_per_game": "0.1",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "99.5"
+  }
+ },
+ {
+  "name": "Chase Claypool\nPIT/CHI",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "attempts": "1",
+   "completion_percentage": "100.0",
+   "passing_yards": "1",
+   "yards_per_game": "0.1",
+   "touchdowns": "1",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "100.0"
+  }
+ },
+ {
+  "name": "Chad Henne\nKC",
+  "stats": {
+   "position": "QB",
+   "games_played": "3",
+   "attempts": "2",
+   "completion_percentage": "0.0",
+   "passing_yards": "0",
+   "yards_per_game": "0.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "3.5"
+  }
+ },
+ {
+  "name": "Rex Burkhead\nHOU",
+  "stats": {
+   "position": "RB",
+   "games_played": "16",
+   "attempts": "1",
+   "completion_percentage": "0.0",
+   "passing_yards": "0",
+   "yards_per_game": "0.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "2.9"
+  }
+ },
+ {
+  "name": "Davante Adams\nLV",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "attempts": "0",
+   "completion_percentage": "0.0",
+   "passing_yards": "0",
+   "yards_per_game": "0.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "1",
+   "QBR": "0.0"
+  }
+ },
+ {
+  "name": "Phillip Dorsett\nHOU",
+  "stats": {
+   "position": "WR",
+   "games_played": "15",
+   "attempts": "1",
+   "completion_percentage": "0.0",
+   "passing_yards": "0",
+   "yards_per_game": "0.0",
+   "touchdowns": "0",
+   "interceptions": "0",
+   "sacks": "0",
+   "QBR": "2.5"
+  }
+ },
+ {
+  "name": "Amari Cooper\nCLE",
+  "stats": {
+   "position": "WR",
+   "games_played": "17",
+   "attempts": "1",
+   "completion_percentage": "0.0",
+   "passing_yards": "0",
+   "yards_per_game": "0.0",
+   "touchdowns": "0",
+   "interceptions": "1",
+   "sacks": "0",
+   "QBR": "0.0"
+  }
+ }
+]

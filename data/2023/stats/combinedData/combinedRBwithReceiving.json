@@ -1,0 +1,5687 @@
+{
+ "Breece Hall": {
+  "name": "Breece Hall",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/breece-hall/97636",
+  "team": {
+   "full_name": "New York Jets",
+   "short_name": "Jets",
+   "abbreviation": "NYJ",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 65,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "aaron_rodgers": {
+       "percent": 90,
+       "letter": "A"
+      },
+      "zach_wilson": {
+       "percent": 66,
+       "letter": "D"
+      },
+      "tim_boyle": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 13,
+    "positional_rank": "RB2",
+    "overall_grade": 69.8,
+    "previous_year_points": 115.1,
+    "games_played": 7,
+    "snap_percentage": 49,
+    "attempts": 80,
+    "rushing_yards": 463,
+    "rushing_touchdowns": 4,
+    "yards_per_game": 66.1,
+    "first_downs": 20,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Jonathan Taylor": {
+  "name": "Jonathan Taylor",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jonathan-taylor/57488",
+  "team": {
+   "full_name": "Indianapolis Colts",
+   "short_name": "Colts",
+   "abbreviation": "IND",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 60,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "anthony_richardson": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "garnder_minshew": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "sam_elinger": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 18,
+       "percent": 77,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 15,
+    "positional_rank": "RB3",
+    "overall_grade": 67.6,
+    "previous_year_points": 146.4,
+    "games_played": 11,
+    "snap_percentage": 70,
+    "attempts": 192,
+    "rushing_yards": 861,
+    "rushing_touchdowns": 4,
+    "yards_per_game": 78.3,
+    "first_downs": 39,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Christian McCaffrey": {
+  "name": "Christian McCaffrey",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/christian-mccaffrey/11763",
+  "team": {
+   "full_name": "San Francisco 49ers",
+   "short_name": "49ers",
+   "abbreviation": "SF",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 88,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "brock_purdy": {
+       "percent": 73,
+       "letter": "C"
+      },
+      "sam_darnold": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "brandon_allen": {
+       "percent": 61,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 18,
+    "positional_rank": "RB5",
+    "overall_grade": 88.9,
+    "previous_year_points": 356.4,
+    "games_played": 17,
+    "snap_percentage": 73,
+    "attempts": 244,
+    "rushing_yards": 1139,
+    "rushing_touchdowns": 8,
+    "yards_per_game": 67,
+    "first_downs": 59,
+    "receptions": 85,
+    "targets": 108,
+    "receiving_yards": 741,
+    "receiving_touchdowns": 5,
+    "receiving_yards_per_game": 43.6,
+    "receiving_first_downs": 36
+   }
+  }
+ },
+ "Josh Jacobs": {
+  "name": "Josh Jacobs",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/josh-jacobs/45953",
+  "team": {
+   "full_name": "Las Vegas Raiders",
+   "short_name": "Raiders",
+   "abbreviation": "LV",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "aidan_o'connell": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "brian_hoyer": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "jimmy_garoppolo": {
+       "percent": 75,
+       "letter": "C"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 6,
+       "percent": 89,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 23,
+    "positional_rank": "RB6",
+    "overall_grade": 91.6,
+    "previous_year_points": 328.3,
+    "games_played": 17,
+    "snap_percentage": 75,
+    "attempts": 340,
+    "rushing_yards": 1653,
+    "rushing_touchdowns": 12,
+    "yards_per_game": 97.2,
+    "first_downs": 93,
+    "receptions": 53,
+    "targets": 64,
+    "receiving_yards": 400,
+    "receiving_touchdowns": 0,
+    "receiving_yards_per_game": 23.5,
+    "receiving_first_downs": 16
+   }
+  }
+ },
+ "Tony Pollard": {
+  "name": "Tony Pollard",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/tony-pollard/27126",
+  "team": {
+   "full_name": "Dallas Cowboys",
+   "short_name": "Cowboys",
+   "abbreviation": "DAL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 93,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "quarterback": {
+      "dak_prescott": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "cooper_rush": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "trey_lance": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "WR": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 25,
+    "positional_rank": "RB7",
+    "overall_grade": 89.5,
+    "previous_year_points": 248.8,
+    "games_played": 16,
+    "snap_percentage": 53,
+    "attempts": 193,
+    "rushing_yards": 1007,
+    "rushing_touchdowns": 9,
+    "yards_per_game": 62.9,
+    "first_downs": 46,
+    "receptions": 39,
+    "targets": 55,
+    "receiving_yards": 371,
+    "receiving_touchdowns": 3,
+    "receiving_yards_per_game": 23.2,
+    "receiving_first_downs": 18
+   }
+  }
+ },
+ "Saquon Barkley": {
+  "name": "Saquon Barkley",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/saquon-barkley/45791",
+  "team": {
+   "full_name": "New York Giants",
+   "short_name": "Giants",
+   "abbreviation": "NYG",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 79,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "quarterback": {
+      "daniel_jones": {
+       "percent": 77,
+       "letter": "C"
+      },
+      "tyrod_taylor": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "tommy_devito": {
+       "percent": 59,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      },
+      "RB": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 30,
+       "percent": 61,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 27,
+    "positional_rank": "RB8",
+    "overall_grade": 77.2,
+    "previous_year_points": 284,
+    "games_played": 16,
+    "snap_percentage": 80,
+    "attempts": 295,
+    "rushing_yards": 1312,
+    "rushing_touchdowns": 10,
+    "yards_per_game": 82,
+    "first_downs": 62,
+    "receptions": 57,
+    "targets": 76,
+    "receiving_yards": 338,
+    "receiving_touchdowns": 0,
+    "receiving_yards_per_game": 21.1,
+    "receiving_first_downs": 10
+   }
+  }
+ },
+ "Kenneth Walker III": {
+  "name": "Kenneth Walker III",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/kenneth-walker/97199",
+  "team": {
+   "full_name": "Seattle Seahawks",
+   "short_name": "Seahawks",
+   "abbreviation": "SEA",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 83,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 73,
+      "letter": "C"
+     },
+     "quarterback": {
+      "geno_smith": {
+       "percent": 79,
+       "letter": "C"
+      },
+      "drew_lock": {
+       "percent": 66,
+       "letter": "D"
+      },
+      "holton_ahlers": {
+       "percent": 59,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 18,
+       "percent": 77,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 31,
+    "positional_rank": "RB9",
+    "overall_grade": 76.7,
+    "previous_year_points": 202.5,
+    "games_played": 15,
+    "snap_percentage": 58,
+    "attempts": 228,
+    "rushing_yards": 1050,
+    "rushing_touchdowns": 9,
+    "yards_per_game": 70,
+    "first_downs": 51,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Rhamondre Stevenson": {
+  "name": "Rhamondre Stevenson",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/rhamondre-stevenson/98689",
+  "team": {
+   "full_name": "New England Patriots",
+   "short_name": "Patriots",
+   "abbreviation": "NE",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "mac_jones": {
+       "percent": 76,
+       "letter": "C"
+      },
+      "bailey_zappe": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "tracy_mcsorley": {
+       "percent": 58,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 35,
+    "positional_rank": "RB10",
+    "overall_grade": 81.3,
+    "previous_year_points": 249.1,
+    "games_played": 17,
+    "snap_percentage": 66,
+    "attempts": 210,
+    "rushing_yards": 1040,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 61.2,
+    "first_downs": 49,
+    "receptions": 69,
+    "targets": 88,
+    "receiving_yards": 421,
+    "receiving_touchdowns": 1,
+    "receiving_yards_per_game": 24.8,
+    "receiving_first_downs": 13
+   }
+  }
+ },
+ "Austin Ekeler": {
+  "name": "Austin Ekeler",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/austin-ekeler/12164",
+  "team": {
+   "full_name": "Los Angeles Chargers",
+   "short_name": "Chargers",
+   "abbreviation": "LAC",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 95,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "justin_herbert": {
+       "percent": 88,
+       "letter": "B"
+      },
+      "easton_stick": {
+       "percent": 60,
+       "letter": "D"
+      },
+      "max_duggan": {
+       "percent": 59,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 37,
+    "positional_rank": "RB11",
+    "overall_grade": 81.4,
+    "previous_year_points": 372.7,
+    "games_played": 17,
+    "snap_percentage": 62,
+    "attempts": 204,
+    "rushing_yards": 915,
+    "rushing_touchdowns": 13,
+    "yards_per_game": 53.8,
+    "first_downs": 46,
+    "receptions": 107,
+    "targets": 127,
+    "receiving_yards": 722,
+    "receiving_touchdowns": 5,
+    "receiving_yards_per_game": 42.5,
+    "receiving_first_downs": 36
+   }
+  }
+ },
+ "Travis Etienne Jr.": {
+  "name": "Travis Etienne Jr.",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/travis-etienne/57185",
+  "team": {
+   "full_name": "Jacksonville Jaguars",
+   "short_name": "Jaguars",
+   "abbreviation": "JAX",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 84,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "quarterback": {
+      "trevor_lawrence": {
+       "percent": 85,
+       "letter": "A"
+      },
+      "cj_beathard": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "nathan_rourke": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 5,
+       "percent": 90,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 30,
+       "percent": 61,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 41,
+    "positional_rank": "RB12",
+    "overall_grade": 72.1,
+    "previous_year_points": 205.1,
+    "games_played": 17,
+    "snap_percentage": 59,
+    "attempts": 220,
+    "rushing_yards": 1125,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 66.2,
+    "first_downs": 52,
+    "receptions": 35,
+    "targets": 45,
+    "receiving_yards": 316,
+    "receiving_touchdowns": 0,
+    "receiving_yards_per_game": 18.6,
+    "receiving_first_downs": 16
+   }
+  }
+ },
+ "Nick Chubb": {
+  "name": "Nick Chubb",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/nick-chubb/45783",
+  "team": {
+   "full_name": "Cleveland Browns",
+   "short_name": "Browns",
+   "abbreviation": "CLE",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 81,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "deshaun_watson": {
+       "percent": 80,
+       "letter": "B"
+      },
+      "joshua_dobbs": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "dorian_thompson_robinson": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 28,
+       "percent": 65,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      },
+      "TE": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 45,
+    "positional_rank": "RB13",
+    "overall_grade": 90.3,
+    "previous_year_points": 281.4,
+    "games_played": 17,
+    "snap_percentage": 56,
+    "attempts": 302,
+    "rushing_yards": 1525,
+    "rushing_touchdowns": 12,
+    "yards_per_game": 89.7,
+    "first_downs": 69,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Najee Harris": {
+  "name": "Najee Harris",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/najee-harris/57121",
+  "team": {
+   "full_name": "Pittsburgh Steelers",
+   "short_name": "Steelers",
+   "abbreviation": "PIT",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 60,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "kenny_pickett": {
+       "percent": 76,
+       "letter": "C"
+      },
+      "mitchell_trubisky": {
+       "percent": 68,
+       "letter": "D"
+      },
+      "mason_rudolph": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 28,
+       "percent": 65,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 47,
+    "positional_rank": "RB14",
+    "overall_grade": 73.5,
+    "previous_year_points": 223.5,
+    "games_played": 17,
+    "snap_percentage": 66,
+    "attempts": 272,
+    "rushing_yards": 1034,
+    "rushing_touchdowns": 7,
+    "yards_per_game": 60.8,
+    "first_downs": 45,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Dameon Pierce": {
+  "name": "Dameon Pierce",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/dameon-pierce/83659",
+  "team": {
+   "full_name": "Houston Texans",
+   "short_name": "Texans",
+   "abbreviation": "HOU",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 63,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 76,
+      "letter": "C"
+     },
+     "quarterback": {
+      "case_keenum": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "cj_stroud": {
+       "percent": 75,
+       "letter": "C"
+      },
+      "davis_mills": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 6,
+       "percent": 89,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 6,
+       "percent": 89,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 55,
+    "positional_rank": "RB15",
+    "overall_grade": 78.9,
+    "previous_year_points": 166.4,
+    "games_played": 13,
+    "snap_percentage": 64,
+    "attempts": 220,
+    "rushing_yards": 939,
+    "rushing_touchdowns": 4,
+    "yards_per_game": 72.2,
+    "first_downs": 54,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Rachaad White": {
+  "name": "Rachaad White",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/rachaad-white/131633",
+  "team": {
+   "full_name": "Tampa Bay Buccaneers",
+   "short_name": "Buccaneers",
+   "abbreviation": "TB",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 69,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "quarterback": {
+      "baker_mayfield": {
+       "percent": 72,
+       "letter": "C"
+      },
+      "john_wolford": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "kyle_trask": {
+       "percent": 65,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 58,
+    "positional_rank": "RB16",
+    "overall_grade": 66.4,
+    "previous_year_points": 139.1,
+    "games_played": 17,
+    "snap_percentage": 39,
+    "attempts": 129,
+    "rushing_yards": 481,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 28.3,
+    "first_downs": 27,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "J.K. Dobbins": {
+  "name": "J.K. Dobbins",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jk-dobbins/57366",
+  "team": {
+   "full_name": "Baltimore Ravens",
+   "short_name": "Ravens",
+   "abbreviation": "BAL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "D"
+     },
+     "quarterback": {
+      "lamar_jackson": {
+       "percent": 82,
+       "letter": "B"
+      },
+      "tyler_huntley": {
+       "percent": 68,
+       "letter": "D"
+      },
+      "josh_johnson": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 59,
+    "positional_rank": "RB17",
+    "overall_grade": 76.2,
+    "previous_year_points": 81.2,
+    "games_played": 8,
+    "snap_percentage": 42,
+    "attempts": 92,
+    "rushing_yards": 520,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 65,
+    "first_downs": 26,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Derrick Henry": {
+  "name": "Derrick Henry",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/derrick-henry/10679",
+  "team": {
+   "full_name": "Tennessee Titans",
+   "short_name": "Titans",
+   "abbreviation": "TEN",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 71,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 70,
+      "letter": "C"
+     },
+     "quarterback": {
+      "ryan_tannehill": {
+       "percent": 77,
+       "letter": "C"
+      },
+      "will_levis": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "malik_willis": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "TE": {
+       "raw": 3,
+       "percent": 97,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 60,
+    "positional_rank": "RB18",
+    "overall_grade": 85.9,
+    "previous_year_points": 302.8,
+    "games_played": 16,
+    "snap_percentage": 67,
+    "attempts": 349,
+    "rushing_yards": 1538,
+    "rushing_touchdowns": 13,
+    "yards_per_game": 96.1,
+    "first_downs": 65,
+    "receptions": 33,
+    "targets": 41,
+    "receiving_yards": 398,
+    "receiving_touchdowns": 0,
+    "receiving_yards_per_game": 24.9,
+    "receiving_first_downs": 11
+   }
+  }
+ },
+ "Joe Mixon": {
+  "name": "Joe Mixon",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/joe-mixon/11803",
+  "team": {
+   "2023": {
+    "offensive_coordinator": {
+     "percent": 87,
+     "letter": "B"
+    },
+    "offensive_line": {
+     "percent": 75,
+     "letter": "C"
+    },
+    "quarterback": {
+     "joe_burrow": {
+      "percent": 94,
+      "letter": "A"
+     },
+     "jake_browning": {
+      "percent": 57,
+      "letter": "F"
+     }
+    },
+    "playoff_schedule_strength": {
+     "QB": {
+      "raw": 7,
+      "percent": 93,
+      "letter": "A"
+     },
+     "RB": {
+      "raw": 9,
+      "percent": 93,
+      "letter": "A"
+     },
+     "WR": {
+      "raw": 6,
+      "percent": 93,
+      "letter": "A"
+     },
+     "TE": {
+      "raw": 24,
+      "percent": 93,
+      "letter": "A"
+     }
+    }
+   },
+   "full_name": "Cinncinatti Bengals",
+   "short_name": "Bengals",
+   "abbreviation": "CIN"
+  },
+  "stats": {
+   "2023": {
+    "rank": 65,
+    "positional_rank": "RB19",
+    "overall_grade": 79.3,
+    "previous_year_points": 240.7,
+    "games_played": 14,
+    "snap_percentage": 65,
+    "attempts": 210,
+    "rushing_yards": 814,
+    "rushing_touchdowns": 7,
+    "yards_per_game": 58.1,
+    "first_downs": 47,
+    "receptions": 60,
+    "targets": 75,
+    "receiving_yards": 441,
+    "receiving_touchdowns": 2,
+    "receiving_yards_per_game": 31.5,
+    "receiving_first_downs": 16
+   }
+  }
+ },
+ "Alexander Mattison": {
+  "name": "Alexander Mattison",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/alexander-mattison/45817",
+  "team": {
+   "full_name": "Minnesota Vikings",
+   "short_name": "Vikings",
+   "abbreviation": "MIN",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 86,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "kirk_cousins": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "nick_mullens": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "jaren_hall": {
+       "percent": 61,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 68,
+    "positional_rank": "RB20",
+    "overall_grade": 71.3,
+    "previous_year_points": 88.4,
+    "games_played": 17,
+    "snap_percentage": 25,
+    "attempts": 74,
+    "rushing_yards": 283,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 16.6,
+    "first_downs": 21,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Miles Sanders": {
+  "name": "Miles Sanders",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/miles-sanders/40555",
+  "team": {
+   "full_name": "Carolina Panthers",
+   "short_name": "Panthers",
+   "abbreviation": "CAR",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "bryce_young": {
+       "percent": 78,
+       "letter": "C"
+      },
+      "andy_dalton": {
+       "percent": 72,
+       "letter": "C"
+      },
+      "matt_corral": {
+       "percent": 66,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 70,
+    "positional_rank": "RB21",
+    "overall_grade": 74,
+    "previous_year_points": 216.7,
+    "games_played": 17,
+    "snap_percentage": 57,
+    "attempts": 259,
+    "rushing_yards": 1269,
+    "rushing_touchdowns": 11,
+    "yards_per_game": 74.6,
+    "first_downs": 62,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Javonte Williams": {
+  "name": "Javonte Williams",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/javonte-williams/77803",
+  "team": {
+   "full_name": "Denver Broncos",
+   "short_name": "Broncos",
+   "abbreviation": "DEN",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "russell_wilson": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "jarrett_stidham": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "ben_dinucci": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 72,
+    "positional_rank": "RB22",
+    "overall_grade": 64.5,
+    "previous_year_points": 42,
+    "games_played": 4,
+    "snap_percentage": 54,
+    "attempts": 47,
+    "rushing_yards": 204,
+    "rushing_touchdowns": 0,
+    "yards_per_game": 51,
+    "first_downs": 9,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Cam Akers": {
+  "name": "Cam Akers",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/cam-akers/57206",
+  "team": {
+   "full_name": "Los Angeles Rams",
+   "short_name": "Rams",
+   "abbreviation": "LAR",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 70,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 73,
+      "letter": "C"
+     },
+     "quarterback": {
+      "brett_rypien": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "matthew_stafford": {
+       "percent": 84,
+       "letter": "B"
+      },
+      "stetson_bennett": {
+       "percent": 66,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      },
+      "WR": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 30,
+       "percent": 61,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 76,
+    "positional_rank": "RB24",
+    "overall_grade": 80.7,
+    "previous_year_points": 141.3,
+    "games_played": 15,
+    "snap_percentage": 48,
+    "attempts": 188,
+    "rushing_yards": 786,
+    "rushing_touchdowns": 7,
+    "yards_per_game": 52.4,
+    "first_downs": 39,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "D'Andre Swift": {
+  "name": "D'Andre Swift",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/dandre-swift/57212",
+  "team": {
+   "full_name": "Philadelphia Eagles",
+   "short_name": "Eagles",
+   "abbreviation": "PHI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 97,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jalen_hurts": {
+       "percent": 82,
+       "letter": "B"
+      },
+      "marcus_mariota": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "ian_book": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 80,
+    "positional_rank": "RB25",
+    "overall_grade": 78.1,
+    "previous_year_points": 191.1,
+    "games_played": 14,
+    "snap_percentage": 42,
+    "attempts": 99,
+    "rushing_yards": 542,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 38.7,
+    "first_downs": 21,
+    "receptions": 48,
+    "targets": 70,
+    "receiving_yards": 389,
+    "receiving_touchdowns": 3,
+    "receiving_yards_per_game": 27.8,
+    "receiving_first_downs": 17
+   }
+  }
+ },
+ "Aaron Jones": {
+  "name": "Aaron Jones",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/aaron-jones/11937",
+  "team": {
+   "full_name": "Green Bay Packers",
+   "short_name": "Packers",
+   "abbreviation": "GB",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jordan_love": {
+       "percent": 74,
+       "letter": "C"
+      },
+      "sean_clifford": {
+       "percent": 57,
+       "letter": "F"
+      },
+      "danny_etling": {
+       "percent": 57,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 81,
+    "positional_rank": "RB26",
+    "overall_grade": 86.1,
+    "previous_year_points": 248.6,
+    "games_played": 17,
+    "snap_percentage": 58,
+    "attempts": 213,
+    "rushing_yards": 1121,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 65.9,
+    "first_downs": 54,
+    "receptions": 59,
+    "targets": 72,
+    "receiving_yards": 395,
+    "receiving_touchdowns": 5,
+    "receiving_yards_per_game": 23.2,
+    "receiving_first_downs": 19
+   }
+  }
+ },
+ "James Cook": {
+  "name": "James Cook",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/james-cook/83666",
+  "team": {
+   "full_name": "Buffalo_Bills",
+   "short_name": "Bills",
+   "abbreviation": "BUF",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 89,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "josh_allen": {
+       "percent": 93,
+       "letter": "A"
+      },
+      "kyle_allen": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "matt_barkley": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 85,
+    "positional_rank": "RB27",
+    "overall_grade": 78.2,
+    "previous_year_points": 107.5,
+    "games_played": 16,
+    "snap_percentage": 25,
+    "attempts": 89,
+    "rushing_yards": 507,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 31.7,
+    "first_downs": 24,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Isiah Pacheco": {
+  "name": "Isiah Pacheco",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/isiah-pacheco/83747",
+  "team": {
+   "full_name": "Kansas City Chiefs",
+   "short_name": "Chiefs",
+   "abbreviation": "KC",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 99,
+      "letter": "A+"
+     },
+     "offensive_line": {
+      "percent": 81,
+      "letter": "B"
+     },
+     "quarterback": {
+      "patrick_mahomes": {
+       "percent": 99,
+       "letter": "A+"
+      },
+      "blaine_gabbert": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 86,
+    "positional_rank": "RB28",
+    "overall_grade": 74.6,
+    "previous_year_points": 135,
+    "games_played": 17,
+    "snap_percentage": 31,
+    "attempts": 170,
+    "rushing_yards": 830,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 48.8,
+    "first_downs": 37,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "David Montgomery": {
+  "name": "David Montgomery",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/david-montgomery/45719",
+  "team": {
+   "full_name": "Detriot Lions",
+   "short_name": "Lions",
+   "abbreviation": "DET",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 91,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jared_goff": {
+       "percent": 79,
+       "letter": "C"
+      },
+      "nate_sudfeld": {
+       "percent": 62,
+       "letter": "D"
+      },
+      "hendon_hooker": {
+       "percent": 68,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 18,
+       "percent": 77,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 95,
+    "positional_rank": "RB29",
+    "overall_grade": 67.9,
+    "previous_year_points": 177.7,
+    "games_played": 16,
+    "snap_percentage": 65,
+    "attempts": 201,
+    "rushing_yards": 801,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 50.1,
+    "first_downs": 41,
+    "receptions": 34,
+    "targets": 40,
+    "receiving_yards": 316,
+    "receiving_touchdowns": 1,
+    "receiving_yards_per_game": 19.8,
+    "receiving_first_downs": 10
+   }
+  }
+ },
+ "A.J. Dillon": {
+  "name": "A.J. Dillon",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/aj-dillon/57165",
+  "team": {
+   "full_name": "Green Bay Packers",
+   "short_name": "Packers",
+   "abbreviation": "GB",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jordan_love": {
+       "percent": 74,
+       "letter": "C"
+      },
+      "sean_clifford": {
+       "percent": 57,
+       "letter": "F"
+      },
+      "danny_etling": {
+       "percent": 57,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 102,
+    "positional_rank": "RB31",
+    "overall_grade": 81.4,
+    "previous_year_points": "N/A",
+    "games_played": null,
+    "snap_percentage": null,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Dalvin Cook": {
+  "name": "Dalvin Cook",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/dalvin-cook/11796",
+  "stats": {
+   "2023": {
+    "rank": 108,
+    "positional_rank": "RB33",
+    "overall_grade": 67.4,
+    "previous_year_points": 237.8,
+    "games_played": 17,
+    "snap_percentage": 72,
+    "attempts": 264,
+    "rushing_yards": 1173,
+    "rushing_touchdowns": 8,
+    "yards_per_game": 69,
+    "first_downs": 50,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Brian Robinson": {
+  "name": "Brian Robinson",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/brian-robinson/57120",
+  "team": {
+   "2023": {
+    "offensive_coordinators": {
+     "percent": 73,
+     "letter": "C"
+    },
+    "offensive_line": {
+     "percent": 73,
+     "letter": "C"
+    },
+    "quarterback": {
+     "jacoby_brissett": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "jake_fromm": {
+      "percent": 59,
+      "letter": "F"
+     },
+     "sam_howell": {
+      "percent": 68,
+      "letter": "D"
+     }
+    },
+    "playoff_schedule_strength": {
+     "QB": {
+      "raw": 30,
+      "percent": 61,
+      "letter": "D"
+     },
+     "RB": {
+      "raw": 28,
+      "percent": 65,
+      "letter": "F"
+     },
+     "WR": {
+      "raw": 17,
+      "percent": 578,
+      "letter": "C"
+     },
+     "TE": {
+      "raw": 28,
+      "percent": 65,
+      "letter": "D"
+     }
+    }
+   },
+   "full_name": "Washington Commanders",
+   "short_name": "Commanders",
+   "abbreviation": "WAS"
+  },
+  "stats": {
+   "2023": {
+    "rank": 114,
+    "positional_rank": "RB34",
+    "overall_grade": 82.5,
+    "previous_year_points": "N/A",
+    "games_played": null,
+    "snap_percentage": null,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Alvin Kamara": {
+  "name": "Alvin Kamara",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/alvin-kamara/11822",
+  "team": {
+   "full_name": "New Orleans Saints",
+   "short_name": "Saints",
+   "abbreviation": "NO",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "derek_carr": {
+       "percent": 77,
+       "letter": "C"
+      },
+      "jameis_winston": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "jake_haener": {
+       "percent": 64,
+       "letter": "C"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 117,
+    "positional_rank": "RB36",
+    "overall_grade": 72.7,
+    "previous_year_points": 211.7,
+    "games_played": 15,
+    "snap_percentage": 69,
+    "attempts": 223,
+    "rushing_yards": 897,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 59.8,
+    "first_downs": 40,
+    "receptions": 57,
+    "targets": 77,
+    "receiving_yards": 490,
+    "receiving_touchdowns": 2,
+    "receiving_yards_per_game": 32.7,
+    "receiving_first_downs": 17
+   }
+  }
+ },
+ "James Conner": {
+  "name": "James Conner",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/james-conner/11860",
+  "team": {
+   "full_name": "Arizona Cardinals",
+   "short_name": "Cardinals",
+   "abbreviation": "ARI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 59,
+      "letter": "F"
+     },
+     "offensive_line": {
+      "percent": 73,
+      "letter": "C"
+     },
+     "quarterback": {
+      "clayton_tune": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "david_blough": {
+       "percent": 65,
+       "letter": "D"
+      },
+      "kyler_murray": {
+       "percent": 84,
+       "letter": "B"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 118,
+    "positional_rank": "RB37",
+    "overall_grade": 69.7,
+    "previous_year_points": 200.2,
+    "games_played": 13,
+    "snap_percentage": 71,
+    "attempts": 183,
+    "rushing_yards": 782,
+    "rushing_touchdowns": 7,
+    "yards_per_game": 60.2,
+    "first_downs": 48,
+    "receptions": 46,
+    "targets": 58,
+    "receiving_yards": 300,
+    "receiving_touchdowns": 1,
+    "receiving_yards_per_game": 23.1,
+    "receiving_first_downs": 13
+   }
+  }
+ },
+ "Antonio Gibson": {
+  "name": "Antonio Gibson",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/antonio-gibson/78050",
+  "team": {
+   "2023": {
+    "offensive_coordinators": {
+     "percent": 73,
+     "letter": "C"
+    },
+    "offensive_line": {
+     "percent": 73,
+     "letter": "C"
+    },
+    "quarterback": {
+     "jacoby_brissett": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "jake_fromm": {
+      "percent": 59,
+      "letter": "F"
+     },
+     "sam_howell": {
+      "percent": 68,
+      "letter": "D"
+     }
+    },
+    "playoff_schedule_strength": {
+     "QB": {
+      "raw": 30,
+      "percent": 61,
+      "letter": "D"
+     },
+     "RB": {
+      "raw": 28,
+      "percent": 65,
+      "letter": "F"
+     },
+     "WR": {
+      "raw": 17,
+      "percent": 578,
+      "letter": "C"
+     },
+     "TE": {
+      "raw": 28,
+      "percent": 65,
+      "letter": "D"
+     }
+    }
+   },
+   "full_name": "Washington Commanders",
+   "short_name": "Commanders",
+   "abbreviation": "WAS"
+  },
+  "stats": {
+   "2023": {
+    "rank": 119,
+    "positional_rank": "RB38",
+    "overall_grade": 76.3,
+    "previous_year_points": 165.9,
+    "games_played": 15,
+    "snap_percentage": 46,
+    "attempts": 149,
+    "rushing_yards": 546,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 36.4,
+    "first_downs": 32,
+    "receptions": 46,
+    "targets": 58,
+    "receiving_yards": 353,
+    "receiving_touchdowns": 2,
+    "receiving_yards_per_game": 23.5,
+    "receiving_first_downs": 18
+   }
+  }
+ },
+ "Khalil Herbert": {
+  "name": "Khalil Herbert",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/khalil-herbert/41668",
+  "team": {
+   "full_name": "Chicago Bears",
+   "short_name": "Bears",
+   "abbreviation": "CHI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "quarterback": {
+      "justin_fields": {
+       "percent": 75,
+       "letter": "C"
+      },
+      "nathan_peterman": {
+       "percent": 63,
+       "letter": "C"
+      },
+      "pj_walker": {
+       "percent": 66,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 123,
+    "positional_rank": "RB39",
+    "overall_grade": 72.5,
+    "previous_year_points": 117.8,
+    "games_played": 13,
+    "snap_percentage": 38,
+    "attempts": 129,
+    "rushing_yards": 731,
+    "rushing_touchdowns": 4,
+    "yards_per_game": 56.2,
+    "first_downs": 26,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Jamaal Williams": {
+  "name": "Jamaal Williams",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jamaal-williams/11889",
+  "team": {
+   "full_name": "New Orleans Saints",
+   "short_name": "Saints",
+   "abbreviation": "NO",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "derek_carr": {
+       "percent": 77,
+       "letter": "C"
+      },
+      "jameis_winston": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "jake_haener": {
+       "percent": 64,
+       "letter": "C"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 130,
+    "positional_rank": "RB41",
+    "overall_grade": 73.4,
+    "previous_year_points": 225.9,
+    "games_played": 17,
+    "snap_percentage": 40,
+    "attempts": 262,
+    "rushing_yards": 1066,
+    "rushing_touchdowns": 17,
+    "yards_per_game": 62.7,
+    "first_downs": 65,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Damien Harris": {
+  "name": "Damien Harris",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/damien-harris/35134",
+  "team": {
+   "full_name": "Buffalo_Bills",
+   "short_name": "Bills",
+   "abbreviation": "BUF",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 89,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "josh_allen": {
+       "percent": 93,
+       "letter": "A"
+      },
+      "kyle_allen": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "matt_barkley": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 135,
+    "positional_rank": "RB42",
+    "overall_grade": 75.8,
+    "previous_year_points": 90.9,
+    "games_played": 11,
+    "snap_percentage": 35,
+    "attempts": 106,
+    "rushing_yards": 462,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 42,
+    "first_downs": 23,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Tyler Allgeier": {
+  "name": "Tyler Allgeier",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/tyler-allgeier/83639",
+  "team": {
+   "full_name": "Atlanta Falcons",
+   "short_name": "Falcons",
+   "abbreviation": "ATL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "desmond_ridder": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "taylor_heinicke": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "logan_woodside": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 139,
+    "positional_rank": "RB44",
+    "overall_grade": 86.7,
+    "previous_year_points": 159.4,
+    "games_played": 16,
+    "snap_percentage": 51,
+    "attempts": 210,
+    "rushing_yards": 1035,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 64.7,
+    "first_downs": 53,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Rashaad Penny": {
+  "name": "Rashaad Penny",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/rashaad-penny/27414",
+  "team": {
+   "full_name": "Philadelphia Eagles",
+   "short_name": "Eagles",
+   "abbreviation": "PHI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 97,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jalen_hurts": {
+       "percent": 82,
+       "letter": "B"
+      },
+      "marcus_mariota": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "ian_book": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 141,
+    "positional_rank": "RB45",
+    "overall_grade": 70.2,
+    "previous_year_points": 52.2,
+    "games_played": 5,
+    "snap_percentage": 57,
+    "attempts": 57,
+    "rushing_yards": 346,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 69.2,
+    "first_downs": 15,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Jaylen Warren": {
+  "name": "Jaylen Warren",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jaylen-warren/98692",
+  "team": {
+   "full_name": "Pittsburgh Steelers",
+   "short_name": "Steelers",
+   "abbreviation": "PIT",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 60,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "kenny_pickett": {
+       "percent": 76,
+       "letter": "C"
+      },
+      "mitchell_trubisky": {
+       "percent": 68,
+       "letter": "D"
+      },
+      "mason_rudolph": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 28,
+       "percent": 65,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 143,
+    "positional_rank": "RB46",
+    "overall_grade": 73.8,
+    "previous_year_points": 93.3,
+    "games_played": 16,
+    "snap_percentage": 31,
+    "attempts": 77,
+    "rushing_yards": 379,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 23.7,
+    "first_downs": 20,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Elijah Mitchell": {
+  "name": "Elijah Mitchell",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/elijah-mitchell/57272",
+  "team": {
+   "full_name": "San Francisco 49ers",
+   "short_name": "49ers",
+   "abbreviation": "SF",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 88,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "brock_purdy": {
+       "percent": 73,
+       "letter": "C"
+      },
+      "sam_darnold": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "brandon_allen": {
+       "percent": 61,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 144,
+    "positional_rank": "RB47",
+    "overall_grade": 90.6,
+    "previous_year_points": 43.6,
+    "games_played": 5,
+    "snap_percentage": 24,
+    "attempts": 45,
+    "rushing_yards": 279,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 55.8,
+    "first_downs": 15,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Samaje Perine": {
+  "name": "Samaje Perine",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/samaje-perine/11869",
+  "team": {
+   "full_name": "Denver Broncos",
+   "short_name": "Broncos",
+   "abbreviation": "DEN",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "russell_wilson": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "jarrett_stidham": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "ben_dinucci": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 146,
+    "positional_rank": "RB48",
+    "overall_grade": 71.7,
+    "previous_year_points": 142.1,
+    "games_played": 16,
+    "snap_percentage": 40,
+    "attempts": 95,
+    "rushing_yards": 394,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 24.6,
+    "first_downs": 19,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Devin Singletary": {
+  "name": "Devin Singletary",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/devin-singletary/40485",
+  "team": {
+   "full_name": "Houston Texans",
+   "short_name": "Texans",
+   "abbreviation": "HOU",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 63,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 76,
+      "letter": "C"
+     },
+     "quarterback": {
+      "case_keenum": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "cj_stroud": {
+       "percent": 75,
+       "letter": "C"
+      },
+      "davis_mills": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 6,
+       "percent": 89,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 6,
+       "percent": 89,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 153,
+    "positional_rank": "RB49",
+    "overall_grade": 75.9,
+    "previous_year_points": 178.2,
+    "games_played": 16,
+    "snap_percentage": 65,
+    "attempts": 177,
+    "rushing_yards": 819,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 51.2,
+    "first_downs": 42,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Jeff Wilson Jr.": {
+  "name": "Jeff Wilson Jr.",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jeff-wilson/29413",
+  "team": {
+   "full_name": "Miami Dolphins",
+   "short_name": "Dolphins",
+   "abbreviation": "MIA",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 85,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "tua_tagovailoa": {
+       "percent": 78,
+       "letter": "C"
+      },
+      "mike_white": {
+       "percent": 66,
+       "letter": "D"
+      },
+      "skylar_thompson": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "RB": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 170,
+    "positional_rank": "RB51",
+    "overall_grade": 66.9,
+    "previous_year_points": 158.5,
+    "games_played": 16,
+    "snap_percentage": 53,
+    "attempts": 176,
+    "rushing_yards": 860,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 53.8,
+    "first_downs": 44,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Jerick McKinnon": {
+  "name": "Jerick McKinnon",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jerick-mckinnon/8731",
+  "team": {
+   "full_name": "Kansas City Chiefs",
+   "short_name": "Chiefs",
+   "abbreviation": "KC",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 99,
+      "letter": "A+"
+     },
+     "offensive_line": {
+      "percent": 81,
+      "letter": "B"
+     },
+     "quarterback": {
+      "patrick_mahomes": {
+       "percent": 99,
+       "letter": "A+"
+      },
+      "blaine_gabbert": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 172,
+    "positional_rank": "RB52",
+    "overall_grade": 63.2,
+    "previous_year_points": 196.3,
+    "games_played": 17,
+    "snap_percentage": 47,
+    "attempts": 72,
+    "rushing_yards": 291,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 17.1,
+    "first_downs": 12,
+    "receptions": 56,
+    "targets": 71,
+    "receiving_yards": 512,
+    "receiving_touchdowns": 9,
+    "receiving_yards_per_game": 30.1,
+    "receiving_first_downs": 28
+   }
+  }
+ },
+ "D'Onta Foreman": {
+  "name": "D'Onta Foreman",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/donta-foreman/11844",
+  "team": {
+   "full_name": "Chicago Bears",
+   "short_name": "Bears",
+   "abbreviation": "CHI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "quarterback": {
+      "justin_fields": {
+       "percent": 75,
+       "letter": "C"
+      },
+      "nathan_peterman": {
+       "percent": 63,
+       "letter": "C"
+      },
+      "pj_walker": {
+       "percent": 66,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 173,
+    "positional_rank": "RB53",
+    "overall_grade": 73.1,
+    "previous_year_points": 131,
+    "games_played": 17,
+    "snap_percentage": 37,
+    "attempts": 203,
+    "rushing_yards": 914,
+    "rushing_touchdowns": 5,
+    "yards_per_game": 53.8,
+    "first_downs": 45,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Jerome Ford": {
+  "name": "Jerome Ford",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jerome-ford/83601",
+  "team": {
+   "full_name": "Cleveland Browns",
+   "short_name": "Browns",
+   "abbreviation": "CLE",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 81,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "deshaun_watson": {
+       "percent": 80,
+       "letter": "B"
+      },
+      "joshua_dobbs": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "dorian_thompson_robinson": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 28,
+       "percent": 65,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      },
+      "TE": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 178,
+    "positional_rank": "RB54",
+    "overall_grade": 49.4,
+    "previous_year_points": 1.2,
+    "games_played": null,
+    "snap_percentage": 12,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Kenneth Gainwell": {
+  "name": "Kenneth Gainwell",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/kenneth-gainwell/77737",
+  "team": {
+   "full_name": "Philadelphia Eagles",
+   "short_name": "Eagles",
+   "abbreviation": "PHI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 97,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jalen_hurts": {
+       "percent": 82,
+       "letter": "B"
+      },
+      "marcus_mariota": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "ian_book": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 187,
+    "positional_rank": "RB56",
+    "overall_grade": 57,
+    "previous_year_points": 87.9,
+    "games_played": 17,
+    "snap_percentage": 28,
+    "attempts": 53,
+    "rushing_yards": 240,
+    "rushing_touchdowns": 4,
+    "yards_per_game": 14.1,
+    "first_downs": 17,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Michael Carter": {
+  "name": "Michael Carter",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/michael-carter/57337",
+  "team": {
+   "full_name": "New York Jets",
+   "short_name": "Jets",
+   "abbreviation": "NYJ",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 65,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "aaron_rodgers": {
+       "percent": 90,
+       "letter": "A"
+      },
+      "zach_wilson": {
+       "percent": 66,
+       "letter": "D"
+      },
+      "tim_boyle": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 189,
+    "positional_rank": "RB57",
+    "overall_grade": 61.3,
+    "previous_year_points": 126,
+    "games_played": 16,
+    "snap_percentage": 48,
+    "attempts": 114,
+    "rushing_yards": 402,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 25.1,
+    "first_downs": 14,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Chuba Hubbard": {
+  "name": "Chuba Hubbard",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/chuba-hubbard/57373",
+  "team": {
+   "full_name": "Carolina Panthers",
+   "short_name": "Panthers",
+   "abbreviation": "CAR",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "bryce_young": {
+       "percent": 78,
+       "letter": "C"
+      },
+      "andy_dalton": {
+       "percent": 72,
+       "letter": "C"
+      },
+      "matt_corral": {
+       "percent": 66,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 191,
+    "positional_rank": "RB58",
+    "overall_grade": 76.6,
+    "previous_year_points": 87.7,
+    "games_played": 15,
+    "snap_percentage": 32,
+    "attempts": 95,
+    "rushing_yards": 466,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 31.1,
+    "first_downs": 23,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Pierre Strong Jr.": {
+  "name": "Pierre Strong Jr.",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/pierre-strong/66619",
+  "team": {
+   "full_name": "New England Patriots",
+   "short_name": "Patriots",
+   "abbreviation": "NE",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "mac_jones": {
+       "percent": 76,
+       "letter": "C"
+      },
+      "bailey_zappe": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "tracy_mcsorley": {
+       "percent": 58,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 193,
+    "positional_rank": "RB59",
+    "overall_grade": 80.5,
+    "previous_year_points": 27.2,
+    "games_played": null,
+    "snap_percentage": 12,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Raheem Mostert": {
+  "name": "Raheem Mostert",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/raheem-mostert/9783",
+  "team": {
+   "full_name": "Miami Dolphins",
+   "short_name": "Dolphins",
+   "abbreviation": "MIA",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 85,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "tua_tagovailoa": {
+       "percent": 78,
+       "letter": "C"
+      },
+      "mike_white": {
+       "percent": 66,
+       "letter": "D"
+      },
+      "skylar_thompson": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "RB": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 199,
+    "positional_rank": "RB62",
+    "overall_grade": 75.7,
+    "previous_year_points": 168.3,
+    "games_played": 16,
+    "snap_percentage": 56,
+    "attempts": 181,
+    "rushing_yards": 891,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 55.7,
+    "first_downs": 44,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Trayveon Williams": {
+  "name": "Trayveon Williams",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/trayveon-williams/45775",
+  "team": {
+   "2023": {
+    "offensive_coordinator": {
+     "percent": 87,
+     "letter": "B"
+    },
+    "offensive_line": {
+     "percent": 75,
+     "letter": "C"
+    },
+    "quarterback": {
+     "joe_burrow": {
+      "percent": 94,
+      "letter": "A"
+     },
+     "jake_browning": {
+      "percent": 57,
+      "letter": "F"
+     }
+    },
+    "playoff_schedule_strength": {
+     "QB": {
+      "raw": 7,
+      "percent": 93,
+      "letter": "A"
+     },
+     "RB": {
+      "raw": 9,
+      "percent": 93,
+      "letter": "A"
+     },
+     "WR": {
+      "raw": 6,
+      "percent": 93,
+      "letter": "A"
+     },
+     "TE": {
+      "raw": 24,
+      "percent": 93,
+      "letter": "A"
+     }
+    }
+   },
+   "full_name": "Cinncinatti Bengals",
+   "short_name": "Bengals",
+   "abbreviation": "CIN"
+  },
+  "stats": {
+   "2023": {
+    "rank": 202,
+    "positional_rank": "RB63",
+    "overall_grade": 82.9,
+    "previous_year_points": 8,
+    "games_played": null,
+    "snap_percentage": 10,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Zamir White": {
+  "name": "Zamir White",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/zamir-white/83665",
+  "team": {
+   "full_name": "Las Vegas Raiders",
+   "short_name": "Raiders",
+   "abbreviation": "LV",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 82,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "aidan_o'connell": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "brian_hoyer": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "jimmy_garoppolo": {
+       "percent": 75,
+       "letter": "C"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 12,
+       "percent": 83,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 6,
+       "percent": 89,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 205,
+    "positional_rank": "RB64",
+    "overall_grade": 65.8,
+    "previous_year_points": 7,
+    "games_played": null,
+    "snap_percentage": 5,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Clyde Edwards-Helaire": {
+  "name": "Clyde Edwards-Helaire",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/clyde-edwards-helaire/57279",
+  "team": {
+   "full_name": "Kansas City Chiefs",
+   "short_name": "Chiefs",
+   "abbreviation": "KC",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 99,
+      "letter": "A+"
+     },
+     "offensive_line": {
+      "percent": 81,
+      "letter": "B"
+     },
+     "quarterback": {
+      "patrick_mahomes": {
+       "percent": 99,
+       "letter": "A+"
+      },
+      "blaine_gabbert": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 210,
+    "positional_rank": "RB65",
+    "overall_grade": 67.6,
+    "previous_year_points": 98.3,
+    "games_played": 10,
+    "snap_percentage": 32,
+    "attempts": 71,
+    "rushing_yards": 302,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 30.2,
+    "first_downs": 15,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Joshua Kelley": {
+  "name": "Joshua Kelley",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/joshua-kelley/13750",
+  "team": {
+   "full_name": "Los Angeles Chargers",
+   "short_name": "Chargers",
+   "abbreviation": "LAC",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 95,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "justin_herbert": {
+       "percent": 88,
+       "letter": "B"
+      },
+      "easton_stick": {
+       "percent": 60,
+       "letter": "D"
+      },
+      "max_duggan": {
+       "percent": 59,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 213,
+    "positional_rank": "RB66",
+    "overall_grade": 63,
+    "previous_year_points": 64.8,
+    "games_played": 13,
+    "snap_percentage": 32,
+    "attempts": 69,
+    "rushing_yards": 287,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 22.1,
+    "first_downs": 16,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Cordarrelle Patterson": {
+  "name": "Cordarrelle Patterson",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/cordarrelle-patterson/7810",
+  "team": {
+   "full_name": "Atlanta Falcons",
+   "short_name": "Falcons",
+   "abbreviation": "ATL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "desmond_ridder": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "taylor_heinicke": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "logan_woodside": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 216,
+    "positional_rank": "RB67",
+    "overall_grade": 81,
+    "previous_year_points": 154.7,
+    "games_played": 13,
+    "snap_percentage": 47,
+    "attempts": 144,
+    "rushing_yards": 695,
+    "rushing_touchdowns": 8,
+    "yards_per_game": 53.5,
+    "first_downs": 39,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Leonard Fournette": {
+  "name": "Leonard Fournette",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/leonard-fournette/11759",
+  "stats": {
+   "2023": {
+    "rank": 217,
+    "positional_rank": "RB68",
+    "overall_grade": 68,
+    "previous_year_points": 227.1,
+    "games_played": 16,
+    "snap_percentage": 60,
+    "attempts": 189,
+    "rushing_yards": 668,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 41.8,
+    "first_downs": 39,
+    "receptions": 73,
+    "targets": 83,
+    "receiving_yards": 523,
+    "receiving_touchdowns": 3,
+    "receiving_yards_per_game": 32.7,
+    "receiving_first_downs": 26
+   }
+  }
+ },
+ "Ezekiel Elliott": {
+  "name": "Ezekiel Elliott",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/ezekiel-elliott/10638",
+  "stats": {
+   "2023": {
+    "rank": 218,
+    "positional_rank": "RB69",
+    "overall_grade": 71.9,
+    "previous_year_points": 185.8,
+    "games_played": 15,
+    "snap_percentage": 55,
+    "attempts": 231,
+    "rushing_yards": 876,
+    "rushing_touchdowns": 12,
+    "yards_per_game": 58.4,
+    "first_downs": 52,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Ty Chandler": {
+  "name": "Ty Chandler",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/ty-chandler/62942",
+  "team": {
+   "full_name": "Minnesota Vikings",
+   "short_name": "Vikings",
+   "abbreviation": "MIN",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 86,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "kirk_cousins": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "nick_mullens": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "jaren_hall": {
+       "percent": 61,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 2,
+       "percent": 97,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 223,
+    "positional_rank": "RB70",
+    "overall_grade": 54,
+    "previous_year_points": 2,
+    "games_played": null,
+    "snap_percentage": 17,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Kyren Williams": {
+  "name": "Kyren Williams",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/kyren-williams/97118",
+  "team": {
+   "full_name": "Los Angeles Rams",
+   "short_name": "Rams",
+   "abbreviation": "LAR",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 70,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 73,
+      "letter": "C"
+     },
+     "quarterback": {
+      "brett_rypien": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "matthew_stafford": {
+       "percent": 84,
+       "letter": "B"
+      },
+      "stetson_bennett": {
+       "percent": 66,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 32,
+       "percent": 59,
+       "letter": "F"
+      },
+      "WR": {
+       "raw": 19,
+       "percent": 76,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 30,
+       "percent": 61,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 224,
+    "positional_rank": "RB71",
+    "overall_grade": 67.2,
+    "previous_year_points": 30.5,
+    "games_played": 10,
+    "snap_percentage": 30,
+    "attempts": 35,
+    "rushing_yards": 139,
+    "rushing_touchdowns": 0,
+    "yards_per_game": 13.9,
+    "first_downs": 6,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Gus Edwards": {
+  "name": "Gus Edwards",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/gus-edwards/46027",
+  "team": {
+   "full_name": "Baltimore Ravens",
+   "short_name": "Ravens",
+   "abbreviation": "BAL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "D"
+     },
+     "quarterback": {
+      "lamar_jackson": {
+       "percent": 82,
+       "letter": "B"
+      },
+      "tyler_huntley": {
+       "percent": 68,
+       "letter": "D"
+      },
+      "josh_johnson": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 11,
+       "percent": 84,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 225,
+    "positional_rank": "RB72",
+    "overall_grade": 83.3,
+    "previous_year_points": 59.3,
+    "games_played": 9,
+    "snap_percentage": 27,
+    "attempts": 87,
+    "rushing_yards": 433,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 48.1,
+    "first_downs": 30,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Zonovan Knight": {
+  "name": "Zonovan Knight",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/zonovan-knight/97432",
+  "team": {
+   "full_name": "New York Jets",
+   "short_name": "Jets",
+   "abbreviation": "NYJ",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 65,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "aaron_rodgers": {
+       "percent": 90,
+       "letter": "A"
+      },
+      "zach_wilson": {
+       "percent": 66,
+       "letter": "D"
+      },
+      "tim_boyle": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 24,
+       "percent": 71,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 229,
+    "positional_rank": "RB73",
+    "overall_grade": 71.8,
+    "previous_year_points": 59,
+    "games_played": 7,
+    "snap_percentage": 42,
+    "attempts": 85,
+    "rushing_yards": 300,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 42.9,
+    "first_downs": 14,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Kareem Hunt": {
+  "name": "Kareem Hunt",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/kareem-hunt/11841",
+  "stats": {
+   "2023": {
+    "rank": 246,
+    "positional_rank": "RB74",
+    "overall_grade": 67,
+    "previous_year_points": 126.8,
+    "games_played": 17,
+    "snap_percentage": 42,
+    "attempts": 123,
+    "rushing_yards": 468,
+    "rushing_touchdowns": 3,
+    "yards_per_game": 27.5,
+    "first_downs": 30,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Keaontay Ingram": {
+  "name": "Keaontay Ingram",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/keaontay-ingram/77761",
+  "team": {
+   "full_name": "Arizona Cardinals",
+   "short_name": "Cardinals",
+   "abbreviation": "ARI",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 59,
+      "letter": "F"
+     },
+     "offensive_line": {
+      "percent": 73,
+      "letter": "C"
+     },
+     "quarterback": {
+      "clayton_tune": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "david_blough": {
+       "percent": 65,
+       "letter": "D"
+      },
+      "kyler_murray": {
+       "percent": 84,
+       "letter": "B"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 8,
+       "percent": 87,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 26,
+       "percent": 69,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 247,
+    "positional_rank": "RB75",
+    "overall_grade": 48.1,
+    "previous_year_points": 18.1,
+    "games_played": null,
+    "snap_percentage": 15,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Nyheim Hines": {
+  "name": "Nyheim Hines",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/nyheim-hines/48103",
+  "team": {
+   "full_name": "Buffalo_Bills",
+   "short_name": "Bills",
+   "abbreviation": "BUF",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 89,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 74,
+      "letter": "C"
+     },
+     "quarterback": {
+      "josh_allen": {
+       "percent": 93,
+       "letter": "A"
+      },
+      "kyle_allen": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "matt_barkley": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      },
+      "RB": {
+       "raw": 25,
+       "percent": 70,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 9,
+       "percent": 86,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 249,
+    "positional_rank": "RB76",
+    "overall_grade": 63.3,
+    "previous_year_points": 81.4,
+    "games_played": null,
+    "snap_percentage": 19,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Chase Edmonds": {
+  "name": "Chase Edmonds",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/chase-edmonds/45851",
+  "team": {
+   "full_name": "Tampa Bay Buccaneers",
+   "short_name": "Buccaneers",
+   "abbreviation": "TB",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 69,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 75,
+      "letter": "C"
+     },
+     "quarterback": {
+      "baker_mayfield": {
+       "percent": 72,
+       "letter": "C"
+      },
+      "john_wolford": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "kyle_trask": {
+       "percent": 65,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 16,
+       "percent": 79,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 15,
+       "percent": 80,
+       "letter": "B"
+      },
+      "TE": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 251,
+    "positional_rank": "RB77",
+    "overall_grade": 50.8,
+    "previous_year_points": 74.2,
+    "games_played": 13,
+    "snap_percentage": 35,
+    "attempts": 68,
+    "rushing_yards": 245,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 18.8,
+    "first_downs": 8,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Malik Davis": {
+  "name": "Malik Davis",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/malik-davis/57196",
+  "team": {
+   "full_name": "Dallas Cowboys",
+   "short_name": "Cowboys",
+   "abbreviation": "DAL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 93,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "quarterback": {
+      "dak_prescott": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "cooper_rush": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "trey_lance": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "WR": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 255,
+    "positional_rank": "RB79",
+    "overall_grade": 80.6,
+    "previous_year_points": 34.4,
+    "games_played": 12,
+    "snap_percentage": 18,
+    "attempts": 38,
+    "rushing_yards": 161,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 13.4,
+    "first_downs": 6,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Isaiah Spiller": {
+  "name": "Isaiah Spiller",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/isaiah-spiller/99146",
+  "team": {
+   "full_name": "Los Angeles Chargers",
+   "short_name": "Chargers",
+   "abbreviation": "LAC",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 95,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "justin_herbert": {
+       "percent": 88,
+       "letter": "B"
+      },
+      "easton_stick": {
+       "percent": 60,
+       "letter": "D"
+      },
+      "max_duggan": {
+       "percent": 59,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 10,
+       "percent": 85,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 20,
+       "percent": 75,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 13,
+       "percent": 82,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 257,
+    "positional_rank": "RB80",
+    "overall_grade": 49.8,
+    "previous_year_points": 8.4,
+    "games_played": null,
+    "snap_percentage": 16,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "JaMycal Hasty": {
+  "name": "JaMycal Hasty",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/jamycal-hasty/25582",
+  "team": {
+   "full_name": "Jacksonville Jaguars",
+   "short_name": "Jaguars",
+   "abbreviation": "JAX",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 84,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "quarterback": {
+      "trevor_lawrence": {
+       "percent": 85,
+       "letter": "A"
+      },
+      "cj_beathard": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "nathan_rourke": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 5,
+       "percent": 90,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 30,
+       "percent": 61,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 261,
+    "positional_rank": "RB81",
+    "overall_grade": 72.8,
+    "previous_year_points": 70.5,
+    "games_played": 17,
+    "snap_percentage": 23,
+    "attempts": 46,
+    "rushing_yards": 194,
+    "rushing_touchdowns": 2,
+    "yards_per_game": 11.4,
+    "first_downs": 7,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Zack Moss": {
+  "name": "Zack Moss",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/zack-moss/40341",
+  "team": {
+   "full_name": "Indianapolis Colts",
+   "short_name": "Colts",
+   "abbreviation": "IND",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 60,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "anthony_richardson": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "garnder_minshew": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "sam_elinger": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 18,
+       "percent": 77,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 272,
+    "positional_rank": "RB82",
+    "overall_grade": 71.1,
+    "previous_year_points": 64.5,
+    "games_played": 13,
+    "snap_percentage": 29,
+    "attempts": 93,
+    "rushing_yards": 456,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 35.1,
+    "first_downs": 18,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Ronald Jones": {
+  "name": "Ronald Jones",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/ronald-jones/34001",
+  "team": {
+   "full_name": "Dallas Cowboys",
+   "short_name": "Cowboys",
+   "abbreviation": "DAL",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 93,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "quarterback": {
+      "dak_prescott": {
+       "percent": 81,
+       "letter": "B"
+      },
+      "cooper_rush": {
+       "percent": 64,
+       "letter": "D"
+      },
+      "trey_lance": {
+       "percent": 67,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 4,
+       "percent": 93,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "WR": {
+       "raw": 5,
+       "percent": 91,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 21,
+       "percent": 74,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 276,
+    "positional_rank": "RB84",
+    "overall_grade": 70.1,
+    "previous_year_points": 16.2,
+    "games_played": null,
+    "snap_percentage": null,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Deon Jackson": {
+  "name": "Deon Jackson",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/deon-jackson/57189",
+  "team": {
+   "full_name": "Indianapolis Colts",
+   "short_name": "Colts",
+   "abbreviation": "IND",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 60,
+      "letter": "D"
+     },
+     "offensive_line": {
+      "percent": 77,
+      "letter": "C"
+     },
+     "quarterback": {
+      "anthony_richardson": {
+       "percent": 69,
+       "letter": "D"
+      },
+      "garnder_minshew": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "sam_elinger": {
+       "percent": 62,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 18,
+       "percent": 77,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 23,
+       "percent": 72,
+       "letter": "C"
+      },
+      "TE": {
+       "raw": 7,
+       "percent": 88,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 282,
+    "positional_rank": "RB85",
+    "overall_grade": 62.9,
+    "previous_year_points": 84.5,
+    "games_played": 16,
+    "snap_percentage": 31,
+    "attempts": 68,
+    "rushing_yards": 236,
+    "rushing_touchdowns": 1,
+    "yards_per_game": 14.8,
+    "first_downs": 13,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Hassan Haskins": {
+  "name": "Hassan Haskins",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/hassan-haskins/83701",
+  "team": {
+   "full_name": "Tennessee Titans",
+   "short_name": "Titans",
+   "abbreviation": "TEN",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 71,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 70,
+      "letter": "C"
+     },
+     "quarterback": {
+      "ryan_tannehill": {
+       "percent": 77,
+       "letter": "C"
+      },
+      "will_levis": {
+       "percent": 70,
+       "letter": "C"
+      },
+      "malik_willis": {
+       "percent": 63,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 27,
+       "percent": 67,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "WR": {
+       "raw": 31,
+       "percent": 59,
+       "letter": "F"
+      },
+      "TE": {
+       "raw": 3,
+       "percent": 97,
+       "letter": "A"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 283,
+    "positional_rank": "RB86",
+    "overall_grade": 59.2,
+    "previous_year_points": 26,
+    "games_played": null,
+    "snap_percentage": 18,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "D'Ernest Johnson": {
+  "name": "D'Ernest Johnson",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/dernest-johnson/45734",
+  "team": {
+   "full_name": "Jacksonville Jaguars",
+   "short_name": "Jaguars",
+   "abbreviation": "JAX",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 84,
+      "letter": "B"
+     },
+     "offensive_line": {
+      "percent": 72,
+      "letter": "C"
+     },
+     "quarterback": {
+      "trevor_lawrence": {
+       "percent": 85,
+       "letter": "A"
+      },
+      "cj_beathard": {
+       "percent": 63,
+       "letter": "D"
+      },
+      "nathan_rourke": {
+       "percent": 60,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 5,
+       "percent": 90,
+       "letter": "A"
+      },
+      "RB": {
+       "raw": 30,
+       "percent": 61,
+       "letter": "D"
+      },
+      "WR": {
+       "raw": 1,
+       "percent": 99,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 286,
+    "positional_rank": "RB87",
+    "overall_grade": 66.1,
+    "previous_year_points": 5.4,
+    "games_played": null,
+    "snap_percentage": 8,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Kevin Harris": {
+  "name": "Kevin Harris",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/kevin-harris/99141",
+  "team": {
+   "full_name": "New England Patriots",
+   "short_name": "Patriots",
+   "abbreviation": "NE",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "offensive_line": {
+      "percent": 78,
+      "letter": "C"
+     },
+     "quarterback": {
+      "mac_jones": {
+       "percent": 76,
+       "letter": "C"
+      },
+      "bailey_zappe": {
+       "percent": 67,
+       "letter": "D"
+      },
+      "tracy_mcsorley": {
+       "percent": 58,
+       "letter": "F"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "RB": {
+       "raw": 22,
+       "percent": 73,
+       "letter": "C"
+      },
+      "WR": {
+       "raw": 29,
+       "percent": 63,
+       "letter": "D"
+      },
+      "TE": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 289,
+    "positional_rank": "RB88",
+    "overall_grade": 67.5,
+    "previous_year_points": 11.2,
+    "games_played": null,
+    "snap_percentage": 17,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ },
+ "Craig Reynolds": {
+  "name": "Craig Reynolds",
+  "position": "RB",
+  "link": "https://www.pff.com/nfl/players/craig-reynolds/94383",
+  "team": {
+   "full_name": "Detriot Lions",
+   "short_name": "Lions",
+   "abbreviation": "DET",
+   "season": {
+    "2023": {
+     "offensive_coordinator": {
+      "percent": 91,
+      "letter": "A"
+     },
+     "offensive_line": {
+      "percent": 80,
+      "letter": "B"
+     },
+     "quarterback": {
+      "jared_goff": {
+       "percent": 79,
+       "letter": "C"
+      },
+      "nate_sudfeld": {
+       "percent": 62,
+       "letter": "D"
+      },
+      "hendon_hooker": {
+       "percent": 68,
+       "letter": "D"
+      }
+     },
+     "playoff_schedule_strength": {
+      "QB": {
+       "raw": 17,
+       "percent": 78,
+       "letter": "C"
+      },
+      "RB": {
+       "raw": 14,
+       "percent": 81,
+       "letter": "B"
+      },
+      "WR": {
+       "raw": 3,
+       "percent": 95,
+       "letter": "A"
+      },
+      "TE": {
+       "raw": 18,
+       "percent": 77,
+       "letter": "C"
+      }
+     }
+    }
+   }
+  },
+  "stats": {
+   "2023": {
+    "rank": 291,
+    "positional_rank": "RB89",
+    "overall_grade": 68.9,
+    "previous_year_points": 30.8,
+    "games_played": null,
+    "snap_percentage": 22,
+    "attempts": null,
+    "rushing_yards": null,
+    "rushing_touchdowns": null,
+    "yards_per_game": null,
+    "first_downs": null,
+    "receptions": null,
+    "targets": null,
+    "receiving_yards": null,
+    "receiving_touchdowns": null,
+    "receiving_yards_per_game": null,
+    "receiving_first_downs": null
+   }
+  }
+ }
+}

@@ -1,0 +1,1030 @@
+{
+  "Josh Allen": {
+    "name": "Josh Allen",
+    "overall_grade": "91.6"
+  },
+  "Patrick Mahomes": {
+    "name": "Patrick Mahomes",
+    "overall_grade": "91.3"
+  },
+  "Jalen Hurts": {
+    "name": "Jalen Hurts",
+    "overall_grade": "85.9"
+  },
+  "Justin Jefferson": {
+    "name": "Justin Jefferson",
+    "overall_grade": "90.4"
+  },
+  "Bijan Robinson": {
+    "name": "Bijan Robinson",
+    "overall_grade": "95.3"
+  },
+  "Joe Burrow": {
+    "name": "Joe Burrow",
+    "overall_grade": "90.8"
+  },
+  "Anthony Richardson": {
+    "name": "Anthony Richardson",
+    "overall_grade": "80.3"
+  },
+  "Trevor Lawrence": {
+    "name": "Trevor Lawrence",
+    "overall_grade": "77.4"
+  },
+  "Justin Fields": {
+    "name": "Justin Fields",
+    "overall_grade": "70.2"
+  },
+  "Justin Herbert": {
+    "name": "Justin Herbert",
+    "overall_grade": "78.6"
+  },
+  "Lamar Jackson": {
+    "name": "Lamar Jackson",
+    "overall_grade": "85.2"
+  },
+  "Ja'Marr Chase": {
+    "name": "Ja'Marr Chase",
+    "overall_grade": "83.3"
+  },
+  "Breece Hall": {
+    "name": "Breece Hall",
+    "overall_grade": "69.8"
+  },
+  "Garrett Wilson": {
+    "name": "Garrett Wilson",
+    "overall_grade": "82.7"
+  },
+  "Jonathan Taylor": {
+    "name": "Jonathan Taylor",
+    "overall_grade": "67.6"
+  },
+  "CeeDee Lamb": {
+    "name": "CeeDee Lamb",
+    "overall_grade": "86.3"
+  },
+  "Jahmyr Gibbs": {
+    "name": "Jahmyr Gibbs",
+    "overall_grade": "82.5"
+  },
+  "Christian McCaffrey": {
+    "name": "Christian McCaffrey",
+    "overall_grade": "88.9"
+  },
+  "A.J. Brown": {
+    "name": "A.J. Brown",
+    "overall_grade": "88.0"
+  },
+  "Amon-Ra St. Brown": {
+    "name": "Amon-Ra St. Brown",
+    "overall_grade": "90.7"
+  },
+  "Jaylen Waddle": {
+    "name": "Jaylen Waddle",
+    "overall_grade": "83.9"
+  },
+  "Chris Olave": {
+    "name": "Chris Olave",
+    "overall_grade": "82.5"
+  },
+  "Josh Jacobs": {
+    "name": "Josh Jacobs",
+    "overall_grade": "91.6"
+  },
+  "Bryce Young": {
+    "name": "Bryce Young",
+    "overall_grade": "61.2"
+  },
+  "Tony Pollard": {
+    "name": "Tony Pollard",
+    "overall_grade": "89.5"
+  },
+  "C.J. Stroud": {
+    "name": "C.J. Stroud",
+    "overall_grade": "61.1"
+  },
+  "Saquon Barkley": {
+    "name": "Saquon Barkley",
+    "overall_grade": "77.2"
+  },
+  "Dak Prescott": {
+    "name": "Dak Prescott",
+    "overall_grade": "72.0"
+  },
+  "Deshaun Watson": {
+    "name": "Deshaun Watson",
+    "overall_grade": "55.3"
+  },
+  "Cooper Kupp": {
+    "name": "Cooper Kupp",
+    "overall_grade": "86.3"
+  },
+  "Kenneth Walker III": {
+    "name": "Kenneth Walker III",
+    "overall_grade": "76.7"
+  },
+  "Drake London": {
+    "name": "Drake London",
+    "overall_grade": "83.2"
+  },
+  "Daniel Jones": {
+    "name": "Daniel Jones",
+    "overall_grade": "76.0"
+  },
+  "Tyreek Hill": {
+    "name": "Tyreek Hill",
+    "overall_grade": "92.1"
+  },
+  "Rhamondre Stevenson": {
+    "name": "Rhamondre Stevenson",
+    "overall_grade": "81.3"
+  },
+  "Kyle Pitts": {
+    "name": "Kyle Pitts",
+    "overall_grade": "72.7"
+  },
+  "Austin Ekeler": {
+    "name": "Austin Ekeler",
+    "overall_grade": "81.4"
+  },
+  "Tee Higgins": {
+    "name": "Tee Higgins",
+    "overall_grade": "77.1"
+  },
+  "Jaxon Smith-Njigba": {
+    "name": "Jaxon Smith-Njigba",
+    "overall_grade": "81.0"
+  },
+  "DeVonta Smith": {
+    "name": "DeVonta Smith",
+    "overall_grade": "81.0"
+  },
+  "Travis Etienne Jr.": {
+    "name": "Travis Etienne Jr.",
+    "overall_grade": "72.1"
+  },
+  "Jordan Addison": {
+    "name": "Jordan Addison",
+    "overall_grade": "81.5"
+  },
+  "Stefon Diggs": {
+    "name": "Stefon Diggs",
+    "overall_grade": "90.1"
+  },
+  "Travis Kelce": {
+    "name": "Travis Kelce",
+    "overall_grade": "91.1"
+  },
+  "Nick Chubb": {
+    "name": "Nick Chubb",
+    "overall_grade": "90.3"
+  },
+  "Christian Watson": {
+    "name": "Christian Watson",
+    "overall_grade": "77.1"
+  },
+  "Najee Harris": {
+    "name": "Najee Harris",
+    "overall_grade": "73.5"
+  },
+  "Tua Tagovailoa": {
+    "name": "Tua Tagovailoa",
+    "overall_grade": "81.9"
+  },
+  "Kyler Murray": {
+    "name": "Kyler Murray",
+    "overall_grade": "67.1"
+  },
+  "Kirk Cousins": {
+    "name": "Kirk Cousins",
+    "overall_grade": "77.4"
+  },
+  "Mark Andrews": {
+    "name": "Mark Andrews",
+    "overall_grade": "80.3"
+  },
+  "Davante Adams": {
+    "name": "Davante Adams",
+    "overall_grade": "90.1"
+  },
+  "D.K. Metcalf": {
+    "name": "D.K. Metcalf",
+    "overall_grade": "75.3"
+  },
+  "D.J. Moore": {
+    "name": "D.J. Moore",
+    "overall_grade": "73.9"
+  },
+  "Dameon Pierce": {
+    "name": "Dameon Pierce",
+    "overall_grade": "78.9"
+  },
+  "Treylon Burks": {
+    "name": "Treylon Burks",
+    "overall_grade": "74.1"
+  },
+  "Chris Godwin": {
+    "name": "Chris Godwin",
+    "overall_grade": "75.1"
+  },
+  "Rachaad White": {
+    "name": "Rachaad White",
+    "overall_grade": "66.4"
+  },
+  "J.K. Dobbins": {
+    "name": "J.K. Dobbins",
+    "overall_grade": "76.2"
+  },
+  "Derrick Henry": {
+    "name": "Derrick Henry",
+    "overall_grade": "85.9"
+  },
+  "Deebo Samuel": {
+    "name": "Deebo Samuel",
+    "overall_grade": "72.4"
+  },
+  "T.J. Hockenson": {
+    "name": "T.J. Hockenson",
+    "overall_grade": "70.2"
+  },
+  "Jahan Dotson": {
+    "name": "Jahan Dotson",
+    "overall_grade": "70.5"
+  },
+  "Michael Pittman Jr.": {
+    "name": "Michael Pittman Jr.",
+    "overall_grade": "70.6"
+  },
+  "Joe Mixon": {
+    "name": "Joe Mixon",
+    "overall_grade": "79.3"
+  },
+  "Jerry Jeudy": {
+    "name": "Jerry Jeudy",
+    "overall_grade": "78.4"
+  },
+  "Geno Smith": {
+    "name": "Geno Smith",
+    "overall_grade": "79.8"
+  },
+  "Alexander Mattison": {
+    "name": "Alexander Mattison",
+    "overall_grade": "71.3"
+  },
+  "Brandon Aiyuk": {
+    "name": "Brandon Aiyuk",
+    "overall_grade": "80.3"
+  },
+  "Miles Sanders": {
+    "name": "Miles Sanders",
+    "overall_grade": "74.0"
+  },
+  "Javonte Williams": {
+    "name": "Javonte Williams",
+    "overall_grade": "64.5"
+  },
+  "Terry McLaurin": {
+    "name": "Terry McLaurin",
+    "overall_grade": "79.9"
+  },
+  "George Pickens": {
+    "name": "George Pickens",
+    "overall_grade": "68.8"
+  },
+  "Cam Akers": {
+    "name": "Cam Akers",
+    "overall_grade": "80.7"
+  },
+  "George Kittle": {
+    "name": "George Kittle",
+    "overall_grade": "82.0"
+  },
+  "D'Andre Swift": {
+    "name": "D'Andre Swift",
+    "overall_grade": "78.1"
+  },
+  "Aaron Jones": {
+    "name": "Aaron Jones",
+    "overall_grade": "86.1"
+  },
+  "Jameson Williams": {
+    "name": "Jameson Williams",
+    "overall_grade": "63.4"
+  },
+  "Diontae Johnson": {
+    "name": "Diontae Johnson",
+    "overall_grade": "69.6"
+  },
+  "James Cook": {
+    "name": "James Cook",
+    "overall_grade": "78.2"
+  },
+  "Isiah Pacheco": {
+    "name": "Isiah Pacheco",
+    "overall_grade": "74.6"
+  },
+  "Jared Goff": {
+    "name": "Jared Goff",
+    "overall_grade": "72.4"
+  },
+  "Russell Wilson": {
+    "name": "Russell Wilson",
+    "overall_grade": "66.2"
+  },
+  "Amari Cooper": {
+    "name": "Amari Cooper",
+    "overall_grade": "81.2"
+  },
+  "Marquise Brown": {
+    "name": "Marquise Brown",
+    "overall_grade": "69.2"
+  },
+  "Aaron Rodgers": {
+    "name": "Aaron Rodgers",
+    "overall_grade": "77.5"
+  },
+  "Dallas Goedert": {
+    "name": "Dallas Goedert",
+    "overall_grade": "76.2"
+  },
+  "Christian Kirk": {
+    "name": "Christian Kirk",
+    "overall_grade": "74.2"
+  },
+  "Kenny Pickett": {
+    "name": "Kenny Pickett",
+    "overall_grade": "75.5"
+  },
+  "David Montgomery": {
+    "name": "David Montgomery",
+    "overall_grade": "67.9"
+  },
+  "DeAndre Hopkins": {
+    "name": "DeAndre Hopkins",
+    "overall_grade": "72.9"
+  },
+  "Mike Williams": {
+    "name": "Mike Williams",
+    "overall_grade": "78.9"
+  },
+  "Keenan Allen": {
+    "name": "Keenan Allen",
+    "overall_grade": "84.8"
+  },
+  "Rashod Bateman": {
+    "name": "Rashod Bateman",
+    "overall_grade": "61.6"
+  },
+  "Derek Carr": {
+    "name": "Derek Carr",
+    "overall_grade": "66.6"
+  },
+  "A.J. Dillon": {
+    "name": "A.J. Dillon",
+    "overall_grade": "81.4"
+  },
+  "Mike Evans": {
+    "name": "Mike Evans",
+    "overall_grade": "74.0"
+  },
+  "Jordan Love": {
+    "name": "Jordan Love",
+    "overall_grade": "78.7"
+  },
+  "Pat Freiermuth": {
+    "name": "Pat Freiermuth",
+    "overall_grade": "75.5"
+  },
+  "Kadarius Toney": {
+    "name": "Kadarius Toney",
+    "overall_grade": "75.4"
+  },
+  "Dalvin Cook": {
+    "name": "Dalvin Cook",
+    "overall_grade": "67.4"
+  },
+  "Matthew Stafford": {
+    "name": "Matthew Stafford",
+    "overall_grade": "67.0"
+  },
+  "Tyler Lockett": {
+    "name": "Tyler Lockett",
+    "overall_grade": "78.9"
+  },
+  "David Njoku": {
+    "name": "David Njoku",
+    "overall_grade": "73.7"
+  },
+  "Gabe Davis": {
+    "name": "Gabe Davis",
+    "overall_grade": "64.2"
+  },
+  "Brian Robinson": {
+    "name": "Brian Robinson",
+    "overall_grade": "82.5"
+  },
+  "Greg Dulcich": {
+    "name": "Greg Dulcich",
+    "overall_grade": "60.4"
+  },
+  "Alvin Kamara": {
+    "name": "Alvin Kamara",
+    "overall_grade": "72.7"
+  },
+  "James Conner": {
+    "name": "James Conner",
+    "overall_grade": "69.7"
+  },
+  "Antonio Gibson": {
+    "name": "Antonio Gibson",
+    "overall_grade": "76.3"
+  },
+  "Darren Waller": {
+    "name": "Darren Waller",
+    "overall_grade": "72.4"
+  },
+  "Evan Engram": {
+    "name": "Evan Engram",
+    "overall_grade": "65.3"
+  },
+  "Khalil Herbert": {
+    "name": "Khalil Herbert",
+    "overall_grade": "72.5"
+  },
+  "JuJu Smith-Schuster": {
+    "name": "JuJu Smith-Schuster",
+    "overall_grade": "70.8"
+  },
+  "Elijah Moore": {
+    "name": "Elijah Moore",
+    "overall_grade": "57.5"
+  },
+  "Brock Purdy": {
+    "name": "Brock Purdy",
+    "overall_grade": "76.6"
+  },
+  "Brandin Cooks": {
+    "name": "Brandin Cooks",
+    "overall_grade": "72.3"
+  },
+  "Jamaal Williams": {
+    "name": "Jamaal Williams",
+    "overall_grade": "73.4"
+  },
+  "Courtland Sutton": {
+    "name": "Courtland Sutton",
+    "overall_grade": "69.3"
+  },
+  "Chigoziem Okonkwo": {
+    "name": "Chigoziem Okonkwo",
+    "overall_grade": "75.4"
+  },
+  "Rondale Moore": {
+    "name": "Rondale Moore",
+    "overall_grade": "63.4"
+  },
+  "Damien Harris": {
+    "name": "Damien Harris",
+    "overall_grade": "75.8"
+  },
+  "Jakobi Meyers": {
+    "name": "Jakobi Meyers",
+    "overall_grade": "75.6"
+  },
+  "Skyy Moore": {
+    "name": "Skyy Moore",
+    "overall_grade": "70.9"
+  },
+  "Tyler Allgeier": {
+    "name": "Tyler Allgeier",
+    "overall_grade": "86.7"
+  },
+  "Rashaad Penny": {
+    "name": "Rashaad Penny",
+    "overall_grade": "70.2"
+  },
+  "Cole Kmet": {
+    "name": "Cole Kmet",
+    "overall_grade": "67.6"
+  },
+  "Jaylen Warren": {
+    "name": "Jaylen Warren",
+    "overall_grade": "73.8"
+  },
+  "Elijah Mitchell": {
+    "name": "Elijah Mitchell",
+    "overall_grade": "90.6"
+  },
+  "Dalton Schultz": {
+    "name": "Dalton Schultz",
+    "overall_grade": "67.8"
+  },
+  "Samaje Perine": {
+    "name": "Samaje Perine",
+    "overall_grade": "71.7"
+  },
+  "Mac Jones": {
+    "name": "Mac Jones",
+    "overall_grade": "67.5"
+  },
+  "Darnell Mooney": {
+    "name": "Darnell Mooney",
+    "overall_grade": "69.2"
+  },
+  "Nico Collins": {
+    "name": "Nico Collins",
+    "overall_grade": "72.4"
+  },
+  "Tyler Boyd": {
+    "name": "Tyler Boyd",
+    "overall_grade": "71.1"
+  },
+  "Michael Thomas": {
+    "name": "Michael Thomas",
+    "overall_grade": "77.3"
+  },
+  "Devin Singletary": {
+    "name": "Devin Singletary",
+    "overall_grade": "75.9"
+  },
+  "Jimmy Garoppolo": {
+    "name": "Jimmy Garoppolo",
+    "overall_grade": "71.4"
+  },
+  "Wan'Dale Robinson": {
+    "name": "Wan'Dale Robinson",
+    "overall_grade": "72.0"
+  },
+  "D.J. Chark Jr.": {
+    "name": "D.J. Chark Jr.",
+    "overall_grade": "69.6"
+  },
+  "Allen Lazard": {
+    "name": "Allen Lazard",
+    "overall_grade": "69.0"
+  },
+  "Juwan Johnson": {
+    "name": "Juwan Johnson",
+    "overall_grade": "64.7"
+  },
+  "Romeo Doubs": {
+    "name": "Romeo Doubs",
+    "overall_grade": "62.6"
+  },
+  "Jelani Woods": {
+    "name": "Jelani Woods",
+    "overall_grade": "64.9"
+  },
+  "Trey McBride": {
+    "name": "Trey McBride",
+    "overall_grade": "50.9"
+  },
+  "K.J. Osborn": {
+    "name": "K.J. Osborn",
+    "overall_grade": "65.1"
+  },
+  "Sam Howell": {
+    "name": "Sam Howell",
+    "overall_grade": "68.5"
+  },
+  "Jeff Wilson Jr.": {
+    "name": "Jeff Wilson Jr.",
+    "overall_grade": "66.9"
+  },
+  "Noah Fant": {
+    "name": "Noah Fant",
+    "overall_grade": "66.0"
+  },
+  "Jerick McKinnon": {
+    "name": "Jerick McKinnon",
+    "overall_grade": "63.2"
+  },
+  "D'Onta Foreman": {
+    "name": "D'Onta Foreman",
+    "overall_grade": "73.1"
+  },
+  "Alec Pierce": {
+    "name": "Alec Pierce",
+    "overall_grade": "61.3"
+  },
+  "Tyquan Thornton": {
+    "name": "Tyquan Thornton",
+    "overall_grade": "55.2"
+  },
+  "Zay Jones": {
+    "name": "Zay Jones",
+    "overall_grade": "67.3"
+  },
+  "Michael Gallup": {
+    "name": "Michael Gallup",
+    "overall_grade": "62.8"
+  },
+  "Jerome Ford": {
+    "name": "Jerome Ford",
+    "overall_grade": "49.4"
+  },
+  "Donovan Peoples-Jones": {
+    "name": "Donovan Peoples-Jones",
+    "overall_grade": "64.9"
+  },
+  "Chase Claypool": {
+    "name": "Chase Claypool",
+    "overall_grade": "61.8"
+  },
+  "Rashid Shaheed": {
+    "name": "Rashid Shaheed",
+    "overall_grade": "80.8"
+  },
+  "Van Jefferson": {
+    "name": "Van Jefferson",
+    "overall_grade": "68.4"
+  },
+  "Kyle Philips": {
+    "name": "Kyle Philips",
+    "overall_grade": "63.7"
+  },
+  "Mike Gesicki": {
+    "name": "Mike Gesicki",
+    "overall_grade": "59.9"
+  },
+  "Curtis Samuel": {
+    "name": "Curtis Samuel",
+    "overall_grade": "70.5"
+  },
+  "Kenneth Gainwell": {
+    "name": "Kenneth Gainwell",
+    "overall_grade": "57.0"
+  },
+  "Isaiah Likely": {
+    "name": "Isaiah Likely",
+    "overall_grade": "66.4"
+  },
+  "Michael Carter": {
+    "name": "Michael Carter",
+    "overall_grade": "61.3"
+  },
+  "Desmond Ridder": {
+    "name": "Desmond Ridder",
+    "overall_grade": "55.9"
+  },
+  "Chuba Hubbard": {
+    "name": "Chuba Hubbard",
+    "overall_grade": "76.6"
+  },
+  "Dawson Knox": {
+    "name": "Dawson Knox",
+    "overall_grade": "65.1"
+  },
+  "Pierre Strong Jr.": {
+    "name": "Pierre Strong Jr.",
+    "overall_grade": "80.5"
+  },
+  "Gerald Everett": {
+    "name": "Gerald Everett",
+    "overall_grade": "67.1"
+  },
+  "Adam Thielen": {
+    "name": "Adam Thielen",
+    "overall_grade": "65.0"
+  },
+  "Raheem Mostert": {
+    "name": "Raheem Mostert",
+    "overall_grade": "75.7"
+  },
+  "Hunter Renfrow": {
+    "name": "Hunter Renfrow",
+    "overall_grade": "65.6"
+  },
+  "Isaiah Hodgins": {
+    "name": "Isaiah Hodgins",
+    "overall_grade": "76.6"
+  },
+  "Trayveon Williams": {
+    "name": "Trayveon Williams",
+    "overall_grade": "82.9"
+  },
+  "Trey Lance": {
+    "name": "Trey Lance",
+    "overall_grade": "53.1"
+  },
+  "Khalil Shakir": {
+    "name": "Khalil Shakir",
+    "overall_grade": "62.4"
+  },
+  "Zamir White": {
+    "name": "Zamir White",
+    "overall_grade": "65.8"
+  },
+  "Ryan Tannehill": {
+    "name": "Ryan Tannehill",
+    "overall_grade": "74.9"
+  },
+  "Robert Woods": {
+    "name": "Robert Woods",
+    "overall_grade": "68.0"
+  },
+  "Irv Smith Jr.": {
+    "name": "Irv Smith Jr.",
+    "overall_grade": "56.6"
+  },
+  "Hayden Hurst": {
+    "name": "Hayden Hurst",
+    "overall_grade": "65.0"
+  },
+  "Clyde Edwards-Helaire": {
+    "name": "Clyde Edwards-Helaire",
+    "overall_grade": "67.6"
+  },
+  "Tyler Higbee": {
+    "name": "Tyler Higbee",
+    "overall_grade": "62.7"
+  },
+  "John Metchie": {
+    "name": "John Metchie III",
+    "overall_grade": "N/A"
+  },
+  "Joshua Kelley": {
+    "name": "Joshua Kelley",
+    "overall_grade": "63.0"
+  },
+  "Baker Mayfield": {
+    "name": "Baker Mayfield",
+    "overall_grade": "50.6"
+  },
+  "Darius Slayton": {
+    "name": "Darius Slayton",
+    "overall_grade": "73.1"
+  },
+  "Cordarrelle Patterson": {
+    "name": "Cordarrelle Patterson",
+    "overall_grade": "81.0"
+  },
+  "Leonard Fournette": {
+    "name": "Leonard Fournette",
+    "overall_grade": "68.0"
+  },
+  "Ezekiel Elliott": {
+    "name": "Ezekiel Elliott",
+    "overall_grade": "71.9"
+  },
+  "Parris Campbell": {
+    "name": "Parris Campbell",
+    "overall_grade": "60.8"
+  },
+  "Tim Patrick": {
+    "name": "Tim Patrick",
+    "overall_grade": "N/A"
+  },
+  "Marquez Valdes-Scantling": {
+    "name": "Marquez Valdes-Scantling",
+    "overall_grade": "62.6"
+  },
+  "Tyler Conklin": {
+    "name": "Tyler Conklin",
+    "overall_grade": "58.6"
+  },
+  "Ty Chandler": {
+    "name": "Ty Chandler",
+    "overall_grade": "54.0"
+  },
+  "Kyren Williams": {
+    "name": "Kyren Williams",
+    "overall_grade": "67.2"
+  },
+  "Gus Edwards": {
+    "name": "Gus Edwards",
+    "overall_grade": "83.3"
+  },
+  "Logan Thomas": {
+    "name": "Logan Thomas",
+    "overall_grade": "52.0"
+  },
+  "Joshua Palmer": {
+    "name": "Joshua Palmer",
+    "overall_grade": "65.5"
+  },
+  "Taysom Hill": {
+    "name": "Taysom Hill",
+    "overall_grade": "75.6"
+  },
+  "Zonovan Knight": {
+    "name": "Zonovan Knight",
+    "overall_grade": "71.8"
+  },
+  "Zach Ertz": {
+    "name": "Zach Ertz",
+    "overall_grade": "62.5"
+  },
+  "Russell Gage": {
+    "name": "Russell Gage",
+    "overall_grade": "67.7"
+  },
+  "Mecole Hardman Jr.": {
+    "name": "Mecole Hardman Jr.",
+    "overall_grade": "67.9"
+  },
+  "Jake Ferguson": {
+    "name": "Jake Ferguson",
+    "overall_grade": "65.7"
+  },
+  "Terrace Marshall Jr.": {
+    "name": "Terrace Marshall Jr.",
+    "overall_grade": "67.7"
+  },
+  "DeVante Parker": {
+    "name": "DeVante Parker",
+    "overall_grade": "74.1"
+  },
+  "Ben Skowronek": {
+    "name": "Ben Skowronek",
+    "overall_grade": "57.2"
+  },
+  "Corey Davis": {
+    "name": "Corey Davis",
+    "overall_grade": "65.9"
+  },
+  "Bailey Zappe": {
+    "name": "Bailey Zappe",
+    "overall_grade": "67.1"
+  },
+  "Kyle Trask": {
+    "name": "Kyle Trask",
+    "overall_grade": "43.1"
+  },
+  "Cade Otton": {
+    "name": "Cade Otton",
+    "overall_grade": "56.6"
+  },
+  "Allen Robinson II": {
+    "name": "Allen Robinson II",
+    "overall_grade": "65.8"
+  },
+  "Jacoby Brissett": {
+    "name": "Jacoby Brissett",
+    "overall_grade": "82.6"
+  },
+  "Nick Westbrook-Ikhine": {
+    "name": "Nick Westbrook-Ikhine",
+    "overall_grade": "59.8"
+  },
+  "Kareem Hunt": {
+    "name": "Kareem Hunt",
+    "overall_grade": "67.0"
+  },
+  "Keaontay Ingram": {
+    "name": "Keaontay Ingram",
+    "overall_grade": "48.1"
+  },
+  "Sam Darnold": {
+    "name": "Sam Darnold",
+    "overall_grade": "62.2"
+  },
+  "Nyheim Hines": {
+    "name": "Nyheim Hines",
+    "overall_grade": "63.3"
+  },
+  "Chase Edmonds": {
+    "name": "Chase Edmonds",
+    "overall_grade": "50.8"
+  },
+  "Hunter Henry": {
+    "name": "Hunter Henry",
+    "overall_grade": "58.1"
+  },
+  "Malik Davis": {
+    "name": "Malik Davis",
+    "overall_grade": "80.6"
+  },
+  "Tyler Huntley": {
+    "name": "Tyler Huntley",
+    "overall_grade": "58.7"
+  },
+  "Isaiah Spiller": {
+    "name": "Isaiah Spiller",
+    "overall_grade": "49.8"
+  },
+  "Kendrick Bourne": {
+    "name": "Kendrick Bourne",
+    "overall_grade": "63.6"
+  },
+  "Greg Dortch": {
+    "name": "Greg Dortch",
+    "overall_grade": "64.2"
+  },
+  "Brian Hoyer": {
+    "name": "Brian Hoyer",
+    "overall_grade": "63.7"
+  },
+  "JaMycal Hasty": {
+    "name": "JaMycal Hasty",
+    "overall_grade": "72.8"
+  },
+  "Josh Reynolds": {
+    "name": "Josh Reynolds",
+    "overall_grade": "64.1"
+  },
+  "Gardner Minshew": {
+    "name": "Gardner Minshew",
+    "overall_grade": "55.6"
+  },
+  "Luke Schoonmaker": {
+    "name": "Luke Schoonmaker",
+    "overall_grade": "N/A"
+  },
+  "Marvin Jones Jr.": {
+    "name": "Marvin Jones Jr.",
+    "overall_grade": "60.4"
+  },
+  "Devin Duvernay": {
+    "name": "Devin Duvernay",
+    "overall_grade": "67.2"
+  },
+  "Zach Wilson": {
+    "name": "Zach Wilson",
+    "overall_grade": "46.6"
+  },
+  "Zack Moss": {
+    "name": "Zack Moss",
+    "overall_grade": "71.1"
+  },
+  "Sterling Shepard": {
+    "name": "Sterling Shepard",
+    "overall_grade": "58.5"
+  },
+  "Deonte Harty": {
+    "name": "Deonte Harty",
+    "overall_grade": "47.9"
+  },
+  "Ronald Jones": {
+    "name": "Ronald Jones",
+    "overall_grade": "70.1"
+  },
+  "Daniel Bellinger": {
+    "name": "Daniel Bellinger",
+    "overall_grade": "61.3"
+  },
+  "Laviska Shenault Jr.": {
+    "name": "Laviska Shenault Jr.",
+    "overall_grade": "85.0"
+  },
+  "Isaiah McKenzie": {
+    "name": "Isaiah McKenzie",
+    "overall_grade": "65.8"
+  },
+  "Colt McCoy": {
+    "name": "Colt McCoy",
+    "overall_grade": "62.1"
+  },
+  "Marcus Mariota": {
+    "name": "Marcus Mariota",
+    "overall_grade": "66.3"
+  },
+  "Deon Jackson": {
+    "name": "Deon Jackson",
+    "overall_grade": "62.9"
+  },
+  "Hassan Haskins": {
+    "name": "Hassan Haskins",
+    "overall_grade": "59.2"
+  },
+  "Mike White": {
+    "name": "Mike White",
+    "overall_grade": "61.3"
+  },
+  "D'Ernest Johnson": {
+    "name": "D'Ernest Johnson",
+    "overall_grade": "66.1"
+  },
+  "Mack Hollins": {
+    "name": "Mack Hollins",
+    "overall_grade": "63.8"
+  },
+  "Kevin Harris": {
+    "name": "Kevin Harris",
+    "overall_grade": "67.5"
+  },
+  "Craig Reynolds": {
+    "name": "Craig Reynolds",
+    "overall_grade": "68.9"
+  },
+  "David Bell": {
+    "name": "David Bell",
+    "overall_grade": "52.5"
+  },
+  "Braxton Berrios": {
+    "name": "Braxton Berrios",
+    "overall_grade": "62.8"
+  },
+  "Velus Jones Jr.": {
+    "name": "Velus Jones Jr.",
+    "overall_grade": "64.9"
+  },
+  "Marquez Callaway": {
+    "name": "Marquez Callaway",
+    "overall_grade": "59.7"
+  },
+  "Malik Willis": {
+    "name": "Malik Willis",
+    "overall_grade": "51.9"
+  }
+}
